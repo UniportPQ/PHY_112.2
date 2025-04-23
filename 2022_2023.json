@@ -528,7 +528,7 @@
       },
       "Explanation": {
         "type": "string",
-        "content": "Resistance is given by \\( R = \\rho \\frac{L}{A} \\), where \\( \\rho = 0.03 \\times 10^{-2} \\Omega\\text{m} = 3 \\times 10^{-4} \\Omega\\text{m} \\), \\( L = 2000 \\text{m} \\), and \\( A = 100 \\text{mm}^2 = 100 \\times 10^{-6} \\text{m}^2 = 10^{-4} \\text{m}^2 \\). So, \\( R = 3 \\times 10^{-4} \\times \\frac{2000}{10^{-4}}} = 3 \\times 10^{-4} \\times 2 \\times 10^7 = 6 \\Omega \\). The resistivity value seems high for aluminium (typically \\( 2.82 \\times 10^{-8} \\Omega\\text{m} \\)), but using the given \\( 0.03 \\times 10^{-2} \\Omega\\text{m} \\), the answer is 6Ω. No options are provided."
+        "content": "Resistance is given by \\( R = \\rho \\frac{L}{A} \\), where \\( \\rho = 0.03 \\times 10^{-2} \\Omega\\text{m} = 3 \\times 10^{-4} \\Omega\\text{m} \\), \\( L = 2000 \\text{m} \\), and \\( A = 100 \\text{mm}^2 = 100 \\times 10^{-6} \\text{m}^2 = 10^{-4} \\text{m}^2 \\)<p>Therefore : <p/>\\(R = 3 \\times 10^{-4} \\times \\frac{2000}{10^{-4}}\\) \\(R= 3 \\times 10^{-4} \\times 2 \\times 10^{7} \\) \\(R = 6 \\Omega \\). The resistivity value seems high for aluminium (typically \\( 2.82 \\times 10^{-8} \\Omega\\text{m} \\)), but using the given \\( 0.03 \\times 10^{-2} \\Omega\\text{m} \\), the answer is 6Ω. No options are provided."
       }
     },
     {
