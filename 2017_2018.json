@@ -632,6 +632,7 @@
         "name": "Question 33",
         "Question": {
             "content": "What is the potential at the centre of the square in figure 2, if the side of the square measure 1m. given that \\( Q_1 = +1.0 \\times 10^6 C \\), \\( Q_2 = -2.0 \\times 10^6 C \\), \\( Q_3 = +3.0 \\times 10^6 C \\) and \\( Q_4 = +2.0 \\times 10^6 C \\)?",
+            "type": "nnn"
 
         "Answer": {
             "type": "string",
