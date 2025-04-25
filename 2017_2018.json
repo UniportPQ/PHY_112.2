@@ -641,6 +641,7 @@
             "type": "string",
             "content": "Not_Found"
         }
+    }
     },
     {
         "type": "Question",
@@ -658,7 +659,8 @@
             "type": "string",
             "content": "<p>Using the power formula:</p> \\[ P = \\frac{V^2}{R} \\] \\[ R = \\frac{V^2}{P} = \\frac{220^2}{440} = \\frac{48400}{440} = 110Ω \\]"
         }
-    }, {
+    },
+    {
         "type": "Question",
         "name": "Question 35",
         "Question": {
