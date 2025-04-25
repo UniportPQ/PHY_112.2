@@ -291,11 +291,18 @@
       "content": "A magnet's pole strength is fixed unless demagnetized or altered externally. The other options are fundamental properties of magnets."
     }
   },
+    {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1TrpGw6V1UPEQGlu0HEIZV1hRkmpgstOU",
+        "alt": "Figure 1",
+        "Caption": "Use this diagram to answer the question below"
+    },
+
   {
     "type": "Question",
     "name": "Question 16",
     "Question": {
-      "content": "The relation between currents in the diagram below is:",
+      "content": "The relation between currents in the diagram above is:",
       "type": "OBJ",
       "options": [
         "\\( I_1 = I_2 = I_3 = I_4 = I_5 \\)",
@@ -312,7 +319,8 @@
       "type": "string",
       "content": "By Kirchhoff's current law (junction rule), the sum of currents entering a junction equals the sum leaving. Assuming \\(I_1\\) and \\(I_5\\) enter while \\(I_2\\), \\(I_3\\), and \\(I_4\\) exit, the correct relation is \\(I_1 + I_5 = I_2 + I_3 + I_4\\)."
     }
-  },
+  },   
+
   {
     "type": "Question",
     "name": "Question 17",
@@ -446,11 +454,18 @@
       "content": "Electric field \\(E = \\frac{F}{q} = \\frac{15}{3.5\\times10^{-6}} = 4.29\\times10^6\\,N/C\\). (Note: Charge unit corrected to \\(3.5\\times10^{-6}C\\) for realistic physics.)"
     }
   },
+      {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1Txuz5ojZMKSYT13sQb47_SNMihqCjeGx",
+        "alt": "Figure 2",
+        "Caption": "Use this diagram to answer the question below"
+    },
+
   {
     "type": "Question",
     "name": "Question 23",
     "Question": {
-      "content": "What are the current and voltage in the 6Ω resistor in the figure below?",
+      "content": "What are the current and voltage in the 6Ω resistor in the figure above?",
       "type": "OBJ",
       "options": [
         "3A and 12V",
@@ -513,11 +528,18 @@
       "content": "Remanence (or residual magnetism) is the magnetization left behind after the external field is removed. Retentivity is the capacity to retain this magnetism, but 'Remanence' is the standard term for the property itself."
     }
   },
+        {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1U6N0ziWUxL9-hRa3iSl8jFVFrdXFRdxQ",
+        "alt": "Figure 3",
+        "Caption": "Use this diagram to answer the question below"
+    },
+
   {
     "type": "Question",
     "name": "Question 26",
     "Question": {
-      "content": "The combined resistance of three resistors in the figure is:",
+      "content": "The combined resistance of three resistors in the figure above is:_____",
       "type": "OBJ",
       "options": [
         "12Ω",
@@ -535,11 +557,18 @@
       "content": "Assuming two resistors (e.g., 10Ω and 10Ω) in parallel with a third (5Ω) in series: \\(R_{\\text{parallel}} = \\frac{10 \\times 10}{10 + 10} = 5Ω\\). Total \\(R = 5Ω + 5Ω = 10Ω\\). (Note: Answer matches if resistors are 10Ω, 10Ω, and 5Ω in a different configuration.)"
     }
   },
+          {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1UAabPojQT1UsnT_OeW_HddFrXmPqeWNl",
+        "alt": "Figure 4",
+        "Caption": "Use this diagram to answer the question below"
+    },
+
   {
     "type": "Question",
     "name": "Question 27",
     "Question": {
-      "content": "Find the current in the 18Ω resistor in the circuit:",
+      "content": "From the diagram above, Find the current in the 18Ω resistor in the circuit:",
       "type": "OBJ",
       "options": [
         "1.25A",
