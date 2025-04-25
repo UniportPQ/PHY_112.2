@@ -435,8 +435,7 @@
             "type": "string",
             "content": "<p>The resistance \\( R \\) of a wire is calculated using the formula:</p> \\[ R = \\frac{\\rho L}{A} \\] <p>Where:<br> • \\( \\rho \\) (resistivity of tungsten) = \\( 5.6 \\times 10^{-8} \\ \\Omega \\cdot \\text{m} \\),<br> • \\( L \\) (length) = \\( 1.2 \\ \\text{m} \\),<br> • \\( r \\) (radius) = \\( 1.0 \\times 10^{-3} \\ \\text{m} \\),<br> • \\( A \\) (cross-sectional area) = \\( \\pi r^2 = \\pi \\times (1.0 \\times 10^{-3})^2 = 3.14 \\times 10^{-6} \\ \\text{m}^2 \\).</p> <p>Substituting the values:</p> \\[ R = \\frac{(5.6 \\times 10^{-8}) (1.2)}{3.14 \\times 10^{-6}} \\] \\[ R = \\frac{6.72 \\times 10^{-8}}{3.14 \\times 10^{-6}} \\] \\[ R \\approx 0.0214 \\ \\Omega \\] <p>Rounded to two significant figures, the resistance is <b>\\( 0.021 \\ \\Omega \\)</b>.</p> <p>Note: The resistivity of tungsten is correctly given as \\( 5.6 \\times 10^{-8} \\ \\Omega \\cdot \\text{m} \\), and the radius is in meters (not ohms).</p>"
         }
-    }
-    , {
+    }, {
         "type": "Question",
         "name": "Question 23",
         "Question": {
@@ -610,39 +609,22 @@
         "Caption": "Use to answer Question 33 "
     },
     {
-    "type": "Question",
-    "name": "Question 33",
-    "Question": {
-        "content": "What is the potential at the centre of the square in figure 2, if the side of the square measures 1 m, given that \\(Q_1 = +1.0 \\times 10^{-8}\\,\\text{C} \\), \\(Q_2 = -2.0 \\times 10^{-8}\\,\\text{C} \\), \\(Q_3 = +3.0 \\times 10^{-8}\\,\\text{C} \\), and \\(Q_4 = +2.0 \\times 10^{-8}\\,\\text{C} \\)? (a) 500V (b) 300V (c) 250V (d) 120V",
-            "type": "OBJ",
-            "options": ["500V", "300V", "250V", "120V"]
-            
-    },
-    "Answer": {
-        "type": "string",
-        "content": "509V (closest to 500V)"
-    },
-    "Explanation": {
-        "type": "string",
-        "content": "The potential at the center due to a point charge is \\(V = \\frac{1}{4\\pi \\varepsilon_0} \\frac{Q}{r} \\). Here, each corner charge is at a distance \\(r = \\frac{\\sqrt{2}}{2} \\times 1\\,\\text{m} = \\frac{\\sqrt{2}}{2}\\,\\text{m} \\) from the center. The constant \\(\\frac{1}{4\\pi \\varepsilon_0} = 9 \\times 10^9\\,\\text{N}\\,\\text{m}^2\\,\\text{C}^{-2} \\). Therefore, the total potential \\(V_C \\) at the center is: \n\n\\(V_C = 9 \\times 10^9 \\left( \\frac{1.0 \\times 10^{-8}}{\\sqrt{2}/2} + \\frac{-2.0 \\times 10^{-8}}{\\sqrt{2}/2} + \\frac{3.0 \\times 10^{-8}}{\\sqrt{2}/2} + \\frac{2.0 \\times 10^{-8}}{\\sqrt{2}/2} \\right) \\) \n\nSimplifying inside the brackets: \n\n\\((1.0 - 2.0 + 3.0 + 2.0) \\times 10^{-8} = 4.0 \\times 10^{-8}\\,\\text{C} \\) \n\nThus, \n\n\\(V_C = 9 \\times 10^9 \\times \\frac{4.0 \\times 10^{-8}}{\\sqrt{2}/2} \\) \n\n\\(= 9 \\times 10^9 \\times \\frac{8.0 \\times 10^{-8}}{\\sqrt{2}} \\) \n\n\\(= \\frac{720}{\\sqrt{2}} \\approx 509\\,\\text{V} \\) \n\n**Note:** The calculation yields **509V**, but the closest option is **(a) 500V**. The original answer (300V) was incorrect due to a simplification error."
-    }
-},
-    {
         "type": "Question",
         "name": "Question 33",
         "Question": {
-            "content": "What is the potential at the centre of the square in figure 2, if the side of the square measure 1m. given that \\( Q_1 = +1.0 \\times 10^6 C \\), \\( Q_2 = -2.0 \\times 10^6 C \\), \\( Q_3 = +3.0 \\times 10^6 C \\) and \\( Q_4 = +2.0 \\times 10^6 C \\)?",
-            "type": "nnn",
-
+            "content": "What is the potential at the centre of the square in figure 2, if the side of the square measures 1 m, given that \\(Q_1 = +1.0 \\times 10^{-8}\\,\\text{C} \\), \\(Q_2 = -2.0 \\times 10^{-8}\\,\\text{C} \\), \\(Q_3 = +3.0 \\times 10^{-8}\\,\\text{C} \\), and \\(Q_4 = +2.0 \\times 10^{-8}\\,\\text{C} \\)? (a) 500V (b) 300V (c) 250V (d) 120V",
+            "type": "OBJ",
+            "options": ["500V", "300V", "250V", "120V"]
+            
+        },
         "Answer": {
             "type": "string",
-            "content": "error occured"
+            "content": "509V (closest to 500V)"
         },
         "Explanation": {
             "type": "string",
-            "content": "Not_Found"
+            "content": "The potential at the center due to a point charge is \\(V = \\frac{1}{4\\pi \\varepsilon_0} \\frac{Q}{r} \\). Here, each corner charge is at a distance \\(r = \\frac{\\sqrt{2}}{2} \\times 1\\,\\text{m} = \\frac{\\sqrt{2}}{2}\\,\\text{m} \\) from the center. The constant \\(\\frac{1}{4\\pi \\varepsilon_0} = 9 \\times 10^9\\,\\text{N}\\,\\text{m}^2\\,\\text{C}^{-2} \\). Therefore, the total potential \\(V_C \\) at the center is: \n\n\\(V_C = 9 \\times 10^9 \\left( \\frac{1.0 \\times 10^{-8}}{\\sqrt{2}/2} + \\frac{-2.0 \\times 10^{-8}}{\\sqrt{2}/2} + \\frac{3.0 \\times 10^{-8}}{\\sqrt{2}/2} + \\frac{2.0 \\times 10^{-8}}{\\sqrt{2}/2} \\right) \\) \n\nSimplifying inside the brackets: \n\n\\((1.0 - 2.0 + 3.0 + 2.0) \\times 10^{-8} = 4.0 \\times 10^{-8}\\,\\text{C} \\) \n\nThus, \n\n\\(V_C = 9 \\times 10^9 \\times \\frac{4.0 \\times 10^{-8}}{\\sqrt{2}/2} \\) \n\n\\(= 9 \\times 10^9 \\times \\frac{8.0 \\times 10^{-8}}{\\sqrt{2}} \\) \n\n\\(= \\frac{720}{\\sqrt{2}} \\approx 509\\,\\text{V} \\) \n\n**Note:** The calculation yields **509V**, but the closest option is **(a) 500V**. The original answer (300V) was incorrect due to a simplification error."
         }
-    }
     },
     {
         "type": "Question",
