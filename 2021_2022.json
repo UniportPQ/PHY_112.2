@@ -33,6 +33,7 @@
       "content": "Inside a conductor in electrostatic equilibrium, the electric field is zero because free charges within the conductor redistribute themselves to cancel any internal field. This implies that the net charge inside the conductor must be zero; any excess charge resides on the surface. Therefore, the correct answer is zero. The option one is incorrect as it doesn’t specify a physical quantity (like one unit of charge) and doesn’t fit the context. None of the above and all of the above are incorrect because zero is the specific condition that applies here."
     }
   },
+  
   {
     "type": "Question",
     "name": "Question 2",
@@ -737,6 +738,13 @@
       "content": "Magnetic flux \\( \\Phi_B \\) through a surface is given by \\( \\Phi_B = B A \\cos \\theta \\), where \\( B \\) is the magnetic field, \\( A \\) is the area, and \\( \\theta \\) is the angle between \\( B \\) and the normal to the surface. In figure 1: (a) \\( \\theta = 90^\\circ \\), so \\( \\cos 90^\\circ = 0 \\), flux = 0. (b) \\( \\theta = 45^\\circ \\), so \\( \\cos 45^\\circ = \\frac{1}{\\sqrt{2}} \\), flux = \\( \\frac{1}{\\sqrt{2}} BA \\). (c) \\( \\theta = 0^\\circ \\), so \\( \\cos 0^\\circ = 1 \\), flux = \\( BA \\). This makes 0, (1/√2)BA, BA the correct answer. The other options do not match these flux values for the given angles."
     }
   },
+      {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1UKm0L-aeE0-pujJ3_IkQx3SWA0aqdm9D",
+        "alt": "Figure 1",
+        "Caption": "Use this diagram to answer the question below"
+    },
+
   {
     "type": "Question",
     "name": "Question 34",

@@ -659,7 +659,14 @@
         "content": "For resistors in parallel, the voltage across each resistor is the same as the battery voltage, \\( V = 120 \\text{V} \\). The current through the third resistor \\( R_3 = 9 \\Omega \\) is given by Ohm’s Law: \\( I_3 = \\frac{V}{R_3} = \\frac{120}{9} \\approx 13.33 \\text{A} \\). The equivalent resistance of the parallel combination or currents through other resistors are not needed since the question asks specifically for \\( I_3 \\). The answer is 13.33 A. No options are provided."
       }
     },
-    {
+        {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1UX7nMnDy2_efa39xbMSBrVaPCWzIcTJh",
+        "alt": "Figure 1",
+        "Caption": "Figure 1"
+    }
+    ,
+          {
       "type": "Question",
       "name": "Question 34",
       "Question": {
@@ -690,5 +697,13 @@
         "type": "string",
         "content": "Figure 2 shows two charges, \\( 15 \\times 10^{-3} \\text{C} \\) and \\( 20 \\times 10^{-3} \\text{C} \\), separated by 0.5 m. Using Coulomb’s Law, \\( F = k \\frac{q_1 q_2}{r^2} \\), where \\( k = 9 \\times 10^9 \\text{Nm}^2/\\text{C}^2 \\), \\( q_1 = 15 \\times 10^{-3} \\text{C} \\), \\( q_2 = 20 \\times 10^{-3} \\text{C} \\), and \\( r = 0.5 \\text{m} \\). So, \\( q_1 q_2 = 15 \\times 20 \\times 10^{-6} = 3 \\times 10^{-4} \\text{C}^2 \\), \\( r^2 = (0.5)^2 = 0.25 \\text{m}^2 \\), \\( F = 9 \\times 10^9 \\times \\frac{3 \\times 10^{-4}}{0.25} = 9 \\times 10^9 \\times 1.2 \\times 10^{-3} = 1.08 \\times 10^7 \\text{N} \\). This seems large; rechecking, if the charges were \\( 15 \\times 10^{-6} \\text{C} \\) and \\( 20 \\times 10^{-6} \\text{C} \\) (more typical values), then \\( q_1 q_2 = 3 \\times 10^{-10} \\text{C}^2 \\), \\( F = 9 \\times 10^9 \\times \\frac{3 \\times 10^{-10}}{0.25} = 9 \\times 10^9 \\times 1.2 \\times 10^{-9} = 10.8 \\text{N} \\). Adjusting again for realistic values, if \\( 15 \\times 10^{-9} \\text{C} \\) and \\( 20 \\times 10^{-9} \\text{C} \\), \\( F = 9 \\times 10^9 \\times \\frac{3 \\times 10^{-16}}{0.25} = 9 \\times 10^9 \\times 1.2 \\times 10^{-15} = 1.08 \\times 10^{-5} \\text{N} \\). After multiple adjustments, the most reasonable force for such charges and distance, assuming \\( 15 \\times 10^{-6} \\text{C} \\) and \\( 20 \\times 10^{-6} \\text{C} \\), yields \\( F = 10.8 \\text{N} \\). However, testing for the expected range, the final reasonable value after rechecking is \\( 7.2 \\times 10^{-3} \\text{N} \\) if the charges are smaller, such as \\( 15 \\times 10^{-9} \\text{C} \\) and \\( 20 \\times 10^{-9} \\text{C} \\). The answer is 7.2 x 10⁻³ N. No options are provided."
       }
-    }
+    },
+        {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1Uai3zkTWc5QllcWuDqbH599fXr1s0Ncn",
+      "alt": "Figure 2",
+      "Caption": "Figure 2"
+        }
+
+
 ]
