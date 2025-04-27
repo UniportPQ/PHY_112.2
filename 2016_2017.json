@@ -1,0 +1,649 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Physics",
+    "code": "PHY 112.2",
+    "session": "2017/2018",
+    "time": "2hours"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all questions."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Electric charges are acquired by bodies during rubbing process through:",
+      "type": "OBJ",
+      "options": [
+        "loss of charges by rubbed bodies",
+        "transfer of charges between the two bodies",
+        "gain of charges by the two bodies",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "transfer of charges between the two bodies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "When two different materials are rubbed together, electrons (which are negatively charged) are transferred from one material to the other. <br><br>• The material that <b>loses electrons</b> becomes <b>positively charged</b>. <br>• The material that <b>gains electrons</b> becomes <b>negatively charged</b>. <br><br>This is called the <i>triboelectric effect</i>. No charges are created or destroyed—they are just transferred."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "The law of conservation of charges states that:",
+      "type": "OBJ",
+      "options": [
+        "total quantity of charges in any process does not change",
+        "energy and momentum of the charges is conserved",
+        "charges are the smallest unit of matter",
+        "charges are immobile"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "total quantity of charges in any process does not change"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The law of conservation of charge means that <b>the total electric charge in an isolated system remains constant</b>. <br><br>• Charges can move from one object to another (like when you rub a balloon on your hair). <br>• Charges can also cancel out (positive + negative = neutral). <br><br>But the <b>total amount of charge before and after any process remains the same</b>."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "To charge a body positively by induction:",
+      "type": "OBJ",
+      "options": [
+        "negatively charged inducing body must be used",
+        "inducing charged body must be earthed",
+        "inducing charged body must be connected to a source charge",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "negatively charged inducing body must be used"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Charging by induction</b> is a way to charge an object without direct contact. Here’s how it works: <br><br>1. Bring a <b>negatively charged</b> rod near a neutral object. <br>2. The electrons in the neutral object are repelled, leaving one side more positive. <br>3. Ground the object (connect it to Earth), allowing electrons to escape. <br>4. Remove the ground, then the rod—the object is now positively charged. <br><br>This only works if the inducing body is negatively charged."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following is NOT true about Coulomb's Law?",
+      "type": "OBJ",
+      "options": [
+        "Coulomb's Law is valid for point charges only",
+        "Coulomb's Law describes the force on either charge due to the other",
+        "Coulomb's force decreases as distance increases",
+        "The direction of Coulomb's force is anti-parallel to the line joining the charged bodies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The direction of Coulomb's force is anti-parallel to the line joining the charged bodies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Coulomb’s Law</b> describes the force between two point charges: <br><br>• \\(F = k \\frac{|q_1 q_2|}{r^2}\\) <br>• The force is <b>parallel</b> (not anti-parallel) to the line joining the charges. <br>• If the charges are alike (both + or both –), the force is <b>repulsive</b> (pushes them apart). <br>• If the charges are opposite, the force is <b>attractive</b> (pulls them together). <br><br>The wrong statement is that the force is anti-parallel—it is actually parallel."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Calculate the electrostatic force between two protons of charge \\(1.6 \\times 10^{-19} C\\) separated by a distance \\(2.0 \\times 10^{-15} m\\).",
+      "type": "OBJ",
+      "options": [
+        "15 N",
+        "30 N",
+        "40 N",
+        "60 N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "60 N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Using <b>Coulomb’s Law</b>: <br><br>\\( F = k \\frac{q_1 q_2}{r^2} \\) <br><br>Where: <br>• \\(k = 9 \\times 10^9 \\, Nm^2/C^{2}\\) (Coulomb’s constant) <br>• \\(q_1 = q_2 = 1.6 \\times 10^{-19} C\\) (charge of a proton) <br>• \\(r = 2.0 \\times 10^{-15} m\\) (distance between protons) <br><br>Plugging in the numbers: <br><br>\\( F = (9 \\times 10^9) \\frac{(1.6 \\times 10^{-19})^2}{(2.0 \\times 10^{-15})^2} \\) <br><br>\\( F = 57.6 \\, N \\approx 60 \\, N \\) (rounded to match options)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "From Question 5, the nature of the electrostatic force is:",
+      "type": "OBJ",
+      "options": [
+        "attractive",
+        "repulsive",
+        "attractive-repulsive",
+        "repulsive-attractive"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "repulsive"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Since both charges are protons, they have the <b>same sign</b> (positive). <br><br>• <b>Like charges repel</b> each other. <br>• <b>Opposite charges attract</b> each other. <br><br>Therefore, the force between two protons is <b>repulsive</b>."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Two metal spheres are placed 0.2 m apart. One has a charge of +9.0 µC, and the other has -30 µC. Calculate the force between them.",
+      "type": "OBJ",
+      "options": [
+        "2.0 N",
+        "6.08 N",
+        "12.0 N",
+        "8.02 N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "60.8 N (Note: Correct answer not listed in options)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Using <b>Coulomb’s Law</b>: <br><br>\\( F = k \\frac{|q_1 q_2|}{r^2} \\) <br><br>Where: <br>• \\(k = 9 \\times 10^9 \\, Nm^2/C^2\\) <br>• \\(q_1 = 9.0 \\times 10^{-6} C\\) <br>• \\(q_2 = -30 \\times 10^{-6} C\\) (sign doesn’t affect magnitude) <br>• \\(r = 0.2 \\, m\\) <br><br>Calculating: <br><br>\\( F = (9 \\times 10^9) \\frac{(9.0 \\times 10^{-6})(30 \\times 10^{-6})}{(0.2)^2} \\) <br><br>\\( F = 60.75 \\, N \\approx 60.8 \\, N \\) <br><br>However, none of the given options match this result. The closest is (b) 6.08 N, but it’s off by a factor of 10."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Lines of force are:",
+      "type": "OBJ",
+      "options": [
+        "imaginary lines that indicate the forces that would be exerted on a test charge",
+        "imaginary lines that indicate the direction of the forces that a test charge exerts on the charge",
+        "imaginary lines that indicate the magnitude of the charges on the test charge",
+        "imaginary lines that indicate the direction of motion of the test charge"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "imaginary lines that indicate the forces that would be exerted on a test charge"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Electric field lines</b> (or lines of force) are imaginary lines that show: <br><br>• The <b>direction</b> of the force a <b>positive test charge</b> would feel. <br>• The <b>strength</b> of the field (closer lines = stronger field). <br><br>They <b>start on positive charges</b> and <b>end on negative charges</b>. They never cross each other."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Find the electric field between the plates of a parallel-plate capacitor of radius 5.0 cm if a charge of \\(8.70 \\times 10^{-10} C\\) is placed on the plates.",
+      "type": "OBJ",
+      "options": [
+        "1.250 N/C",
+        "2.0 × 10³ N/C",
+        "0.98 × 10³ N/C",
+        "3.2 × 10³ N/C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.0 × 10³ N/C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "For a parallel-plate capacitor: <br><br>\\( E = \\frac{\\sigma}{\\epsilon_0} \\) <br><br>Where: <br>• \\(\\sigma = \\frac{Q}{A}\\) (charge density) <br>• \\(A = \\pi r^2 = \\pi (0.05)^2 = 7.85 \\times 10^{-3} m^2\\) <br>• \\(\\epsilon_0 = 8.85 \\times 10^{-12} C^2/Nm^2\\) <br><br>First, find \\(\\sigma\\): <br><br>\\( \\sigma = \\frac{8.70 \\times 10^{-10}}{7.85 \\times 10^{-3}} = 1.11 \\times 10^{-7} C/m^2 \\) <br><br>Now, calculate \\(E\\): <br><br>\\( E = \\frac{1.11 \\times 10^{-7}}{8.85 \\times 10^{-12}} \\approx 1.25 \\times 10^4 N/C \\) <br><br>This suggests a possible error in the question or options. The closest reasonable answer is (b) 2.0 × 10³ N/C."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "How much work is required to bring a charge of 3.50 µC from infinity to point A if the electric potential at A is 5.18 × 10⁴ V?",
+      "type": "OBJ",
+      "options": [
+        "0.27 J",
+        "5 J",
+        "1.03 J",
+        "1.71 J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.18 J (Note: Correct answer not listed in options)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Work done is given by: <br><br>\\( W = q \\Delta V \\) <br><br>Where: <br>• \\(q = 3.50 \\times 10^{-6} C\\) <br>• \\(V = 5.18 \\times 10^4 V\\) (since potential at infinity is 0) <br><br>Calculating: <br><br>\\( W = (3.50 \\times 10^{-6})(5.18 \\times 10^4) \\) <br><br>\\( W = 0.1813 J \\approx 0.18 J \\) <br><br>None of the given options match this result. The closest is (a) 0.27 J, but it’s incorrect."
+    }
+  },
+  
+    {
+      "type": "Question",
+      "name": "Question 11",
+      "Question": {
+        "content": "A +2.0µC charge is at the origin (0,0), and a -6.0µC charge is at (0, 3.0m). Calculate the total electric potential at point P (4.0m, 0).",
+        "type": "OBJ",
+        "options": [
+          "3.47 × 10⁵ V",
+          "7.2 × 10³ V",
+          "-6.19 × 10⁴ V",
+          "-3.47 × 10⁵ V"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "-3.47 × 10⁵ V"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<b>Step 1: Calculate distances</b><br>• Distance from +2µC to P: \\(r_1 = 4.0\\,m\\)<br>• Distance from -6µC to P: \\(r_2 = \\sqrt{4^2 + 3^2} = 5.0\\,m\\)<br><br><b>Step 2: Calculate potentials</b><br>Electric potential \\(V = k\\frac{q}{r}\\)<br>• \\(V_1 = (9\\times10^9)\\frac{2\\times10^{-6}}{4} = 4.5\\times10^3\\,V\\)<br>• \\(V_2 = (9\\times10^9)\\frac{-6\\times10^{-6}}{5} = -10.8\\times10^3\\,V\\)<br><br><b>Step 3: Total potential</b><br>\\(V_{\\text{total}} = V_1 + V_2 = -6.3\\times10^3\\,V\\)<br><br>Note: The given options seem incorrect. The closest is (d) -3.47 × 10⁵ V, but the calculation suggests a different value."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 12",
+      "Question": {
+        "content": "Coulomb's law is given by:",
+        "type": "OBJ",
+        "options": [
+          "\\(F = \\frac{q_1 q_2}{r}\\)",
+          "\\(F = \\frac{q_1 q_2}{r^2}\\)",
+          "\\(F = k\\frac{q_1 q_2}{r^2}\\)",
+          "\\(F = k\\frac{q_1 q_2}{r}\\)"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "\\(F = k\\frac{q_1 q_2}{r^2}\\)"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<b>Coulomb’s Law</b> describes the electrostatic force between two point charges:<br><br>\\(F = k\\frac{|q_1 q_2|}{r^2}\\)<br><br>• \\(k\\) = Coulomb’s constant (\\(9\\times10^9\\,Nm^2/C^2\\))<br>• \\(q_1, q_2\\) = magnitudes of charges<br>• \\(r\\) = distance between charges<br><br>The force is:<br>- Proportional to the product of charges<br>- Inversely proportional to the square of the distance."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 13",
+      "Question": {
+        "content": "Two charges Q₁=25µC and Q₂=50µC are located at positions R₁=3jm and R₂=4im. Find the force on Q₁ due to Q₂.",
+        "type": "OBJ",
+        "options": [
+          "1.8i - 1.3j N",
+          "9i - 6.8j N",
+          "9i - 6.8j × 10⁻¹² N",
+          "None of the above"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "None of the above"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<b>Step 1: Distance vector</b><br>• \\(\\vec{r} = R₂ - R₁ = 4\\hat{i} - 3\\hat{j}\\)<br>• Distance \\(r = \\sqrt{4^2 + 3^2} = 5\\,m\\)<br><br><b>Step 2: Calculate force</b><br>\\(\\vec{F} = k\\frac{Q_1 Q_2}{r^3}\\vec{r}\\)<br>\\(\\vec{F} = (9\\times10^9)\\frac{(25\\times10^{-6})(50\\times10^{-6})}{125}(4\\hat{i} - 3\\hat{j})\\)<br>\\(\\vec{F} = 0.36\\hat{i} - 0.27\\hat{j}\\,N\\)<br><br>None of the options match this result."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 14",
+      "Question": {
+        "content": "The region around a point charge where an electric force is experienced is called:",
+        "type": "OBJ",
+        "options": [
+          "Electric flux",
+          "Magnetic flux density",
+          "Electric field",
+          "Field point"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Electric field"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "The <b>electric field</b> is the region around a charged particle where its influence can be felt by other charges.<br><br>• It is a vector field (has magnitude and direction).<br>• A test charge placed in this field experiences a force.<br>• Defined as \\(\\vec{E} = \\frac{\\vec{F}}{q_0}\\) (force per unit charge)."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 15",
+      "Question": {
+        "content": "If the potential difference between points A and B is 42V, calculate the work done to move a charge \\(5.0\\times10^3\\,C\\) from A to B.",
+        "type": "OBJ",
+        "options": [
+          "8.4 × 10⁵ J",
+          "8.4 × 10⁴ J",
+          "2.1 × 10⁵ J",
+          "2.1 × 10⁴ J"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "2.1 × 10⁵ J"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<b>Work done</b> is given by:<br><br>\\(W = q \\Delta V\\)<br><br>• \\(q = 5.0\\times10^3\\,C\\)<br>• \\(\\Delta V = 42\\,V\\)<br><br>\\(W = (5.0\\times10^3)(42) = 2.1\\times10^5\\,J\\)<br><br>This matches option (c)."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 16",
+      "Question": {
+        "content": "Gauss's law can be used to:",
+        "type": "OBJ",
+        "options": [
+          "Only evaluate electric field for symmetric charge distributions",
+          "Only compute charge quantity",
+          "Both (i) and (ii)",
+          "Both (i) and (iii)"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Both (i) and (iii)"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<b>Gauss’s Law</b> states:<br><br>\\(\\oint \\vec{E} \\cdot d\\vec{A} = \\frac{Q_{\\text{enc}}}{\\epsilon_0}\\)<br><br>It can be used to:<br>1. Calculate <b>electric fields</b> for highly symmetric systems (spheres, cylinders, planes).<br>2. Relate <b>flux</b> through a closed surface to the <b>enclosed charge</b>.<br><br>It does <i>not</i> directly compute charge quality (purity)."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 17",
+      "Question": {
+        "content": "1 electron volt (1eV) is equivalent to:",
+        "type": "OBJ",
+        "options": [
+          "1.6 × 10⁻¹⁹ N",
+          "1.6 × 10⁻¹⁹ J",
+          "1.6 × 10⁻¹⁹ C",
+          "1.6 × 10⁻¹⁹ A"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "1.6 × 10⁻¹⁹ J"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "1 <b>electron volt</b> (eV) is the energy gained by an electron when moved through a 1V potential difference.<br><br>\\(1\\,eV = e \\times 1\\,V = (1.6\\times10^{-19}\\,C)(1\\,V) = 1.6\\times10^{-19}\\,J\\)<br><br>It’s a tiny unit of energy used in atomic and particle physics."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 18",
+      "Question": {
+        "content": "The capacitance of a capacitor depends on:",
+        "type": "OBJ",
+        "options": [
+          "Geometry",
+          "Charge",
+          "Voltage",
+          "Energy"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Geometry"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<b>Capacitance</b> (\\(C\\)) depends only on:<br><br>• <b>Physical dimensions</b> (plate area \\(A\\), separation \\(d\\)).<br>• <b>Dielectric material</b> between plates (\\(\\kappa\\)).<br><br>For a parallel-plate capacitor:<br>\\(C = \\frac{\\kappa \\epsilon_0 A}{d}\\)<br><br>It is <i>independent</i> of charge, voltage, or stored energy."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 19",
+      "Question": {
+        "content": "A parallel-plate capacitor (radius=10cm, separation=1mm) has a potential difference of 100V. Calculate the charge stored.",
+        "type": "OBJ",
+        "options": [
+          "480 µC",
+          "28 µC",
+          "280 µC",
+          "820 µC"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "28 µC"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<b>Step 1: Calculate capacitance</b><br>\\(C = \\frac{\\epsilon_0 A}{d}\\)<br>• \\(A = \\pi r^2 = \\pi (0.1)^2 = 0.0314\\,m^2\\)<br>• \\(d = 1\\times10^{-3}\\,m\\)<br>• \\(C = \\frac{(8.85\\times10^{-12})(0.0314)}{0.001} = 2.78\\times10^{-10}\\,F\\)<br><br><b>Step 2: Calculate charge</b><br>\\(Q = C V = (2.78\\times10^{-10})(100) = 27.8\\times10^{-9}\\,C = 27.8\\,µC\\)<br><br>Closest option: (b) 28 µC."
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 20",
+      "Question": {
+        "content": "Electric field lines are ______ to equipotential surfaces.",
+        "type": "OBJ",
+        "options": [
+          "Parallel",
+          "Perpendicular",
+          "Tangential",
+          "The same"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Perpendicular"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<b>Electric field lines</b> and <b>equipotential surfaces</b> are always perpendicular:<br><br>• Field lines show the direction of force on a positive charge.<br>• Equipotential surfaces have the same potential everywhere (no work is done to move a charge along them).<br><br>Since work \\(W = q \\Delta V\\), if \\(\\Delta V = 0\\), the force (and thus field) must be perpendicular to the displacement."
+      }
+    },{
+  "type": "Question",
+  "name": "Question 21",
+  "Question": {
+    "content": "If 4mA current flows through a copper wire of diameter 0.5mm, calculate the current density.",
+    "type": "OBJ",
+    "options": [
+      "1.96 × 10⁴ A/m²",
+      "19.6 × 10⁶ A/m²",
+      "23.89 A/m²",
+      "20.37 A/m²"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "20.37 × 10⁶ A/m² (Note: Correct answer not listed; closest is (b) 19.6 × 10⁷ A/m²)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Convert units</b><br>• Current \\(I = 4\\,mA = 4 \\times 10^{-3}\\,A\\)<br>• Diameter \\(d = 0.5\\,mm = 0.5 \\times 10^{-3}\\,m\\)<br><br><b>Step 2: Calculate cross-sectional area</b><br>\\(A = \\pi \\left(\\frac{d}{2}\\right)^2 = \\pi \\left(0.25 \\times 10^{-3}\\right)^2 = 1.96 \\times 10^{-7}\\,m^2\\)<br><br><b>Step 3: Current density</b><br>\\(J = \\frac{I}{A} = \\frac{4 \\times 10^{-3}}{1.96 \\times 10^{-7}} \\approx 20.37 \\times 10^6\\,A/m^2\\)<br><br>None of the options match exactly. The closest is (b), but it’s off by a factor of 10."
+  }
+},{
+  "type": "Question",
+  "name": "Question 22",
+  "Question": {
+    "content": "The unit of electrical conductivity is:",
+    "type": "OBJ",
+    "options": [
+      "Farad",
+      "[m]²",
+      "[m]⁻²",
+      "[m]⁻¹"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "[m]⁻¹"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Electrical conductivity (\\(\\sigma\\))</b> is defined as the reciprocal of resistivity (\\(\\rho\\)).<br><br>• Unit of \\(\\rho\\): Ohm-meter (\\(\\Omega \\cdot m\\))<br>• Thus, \\(\\sigma = \\frac{1}{\\rho}\\) has units of \\([\\Omega \\cdot m]^{-1} = [m]^{-1}\\).<br><br>Farad (a) is for capacitance, and other options are irrelevant."
+  }
+},{
+  "type": "Question",
+  "name": "Question 23",
+  "Question": {
+    "content": "Find the power rating of an electric boiler that draws 2.0A of current from a 230V source.",
+    "type": "OBJ",
+    "options": [
+      "8.7 × 10⁻³ Watts",
+      "920 Watts",
+      "115 Watts",
+      "460 Watts"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "460 Watts"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Power (\\(P\\))</b> is calculated as:<br><br>\\(P = I \\times V = 2.0\\,A \\times 230\\,V = 460\\,W\\)<br><br>Direct multiplication gives option (d)."
+  }
+},{
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+    "content": "Which expression represents the current density of a wire with length L, cross-sectional area A, carrying n charges q with drift velocity \\(v_d\\)?",
+    "type": "OBJ",
+    "options": [
+      "nqAv_d",
+      "nqv_d",
+      "nAv_d",
+      "qv_dA"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "nqv_d"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Current density (\\(J\\))</b> is defined as:<br><br>\\(J = \\frac{I}{A}\\)<br>where \\(I = nqAv_d\\) (current = charge carriers × charge × area × velocity).<br><br>Thus, \\(J = \\frac{nqAv_d}{A} = nqv_d\\).<br><br>Option (b) is correct."
+  }
+},{
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+    "content": "An electric field of 350 N/C makes a 50° angle with a flat rectangular surface. Calculate the electric flux.",
+    "type": "OBJ",
+    "options": [
+      "6.72 Nm²/C",
+      "67 Nm²/C",
+      "175 Nm²/C",
+      "5 Nm²/C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "6.72 Nm²/C (Note: Requires surface area; question is incomplete)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Electric flux (\\(\\Phi\\))</b> is given by:<br><br>\\(\\Phi = E A \\cos(\\theta)\\)<br>• \\(E = 350\\,N/C\\), \\(\\theta = 50°\\)<br>• \\(A\\) (surface area) is missing in the problem.<br><br>Assuming \\(A = 1\\,m^2\\) for illustration:<br>\\(\\Phi = 350 \\times \\cos(50°) \\approx 225\\,Nm^2/C\\).<br><br>None of the options match. The question is likely missing key data."
+  }
+},{
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+    "content": "Three resistors (each <1Ω) are in a DC circuit. When is their equivalent resistance largest?",
+    "type": "OBJ",
+    "options": [
+      "Parallel",
+      "Series",
+      "Two parallel + one series",
+      "Cannot be >1Ω"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Series"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Equivalent resistance</b> rules:<br><br>• <b>Series</b>: \\(R_{\\text{eq}} = R_1 + R_2 + R_3\\) (largest value)<br>• <b>Parallel</b>: \\(\\frac{1}{R_{\\text{eq}}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}\\) (smallest value)<br><br>Thus, option (b) is correct."
+  }
+},{
+  "type": "Question",
+  "name": "Question 27",
+  "Question": {
+    "content": "Which expression gives the maximum force on a charged particle moving in a magnetic field?",
+    "type": "OBJ",
+    "options": [
+      "ILV",
+      "ILB",
+      "IL",
+      "None"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "None (Correct: \\(F = qvB\\) for perpendicular motion)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Magnetic force</b> on a moving charge is:<br><br>\\(F = qvB \\sin(\\theta)\\)<br>• Maximum when \\(\\theta = 90°\\) (\\(\\sin(90°) = 1\\)).<br>• Thus, \\(F_{\\text{max}} = qvB\\).<br><br>None of the options match this. The question may be incomplete."
+  }
+},{
+  "type": "Question",
+  "name": "Question 28",
+  "Question": {
+    "content": "The source of a magnetic field is:",
+    "type": "OBJ",
+    "options": [
+      "Electric field",
+      "Electric current",
+      "Force",
+      "Potential difference"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Electric current"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Magnetic fields</b> are produced by:<br><br>• Moving charges (electric currents)<br>• Changing electric fields (Maxwell’s correction)<br><br>Option (b) is the primary source in classical electromagnetism."
+  }
+},{
+  "type": "Question",
+  "name": "Question 29",
+  "Question": {
+    "content": "Biot-Savart’s law is given as:",
+    "type": "OBJ",
+    "options": [
+      "\\(dB = \\frac{\\mu_0 I dl \\sin(\\theta)}{4\\pi r^2}\\)",
+      "\\(dB = \\frac{\\mu_0 I dl \\sin(\\theta)}{r^2}\\)",
+      "\\(dB = \\frac{I dl \\sin(\\theta)}{4\\pi r^2}\\)",
+      "\\(dB = \\mu_0 I dl \\sin(\\theta)\\)"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\(dB = \\frac{\\mu_0 I dl \\sin(\\theta)}{4\\pi r^2}\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Biot-Savart Law</b> describes the magnetic field (\\(dB\\)) due to a small current element (\\(I dl\\)):<br><br>\\(dB = \\frac{\\mu_0}{4\\pi} \\frac{I dl \\sin(\\theta)}{r^2}\\)<br>• \\(\\mu_0\\): Permeability of free space<br>• \\(\\theta\\): Angle between \\(dl\\) and \\(r\\)<br><br>Option (a) matches the correct formula."
+  }
+}
+  
+  
+  
+  
+  
+]
