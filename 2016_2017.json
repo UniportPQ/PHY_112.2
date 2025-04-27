@@ -231,7 +231,6 @@
       "content": "Work done is given by: <br><br>\\( W = q \\Delta V \\) <br><br>Where: <br>• \\(q = 3.50 \\times 10^{-6} C\\) <br>• \\(V = 5.18 \\times 10^4 V\\) (since potential at infinity is 0) <br><br>Calculating: <br><br>\\( W = (3.50 \\times 10^{-6})(5.18 \\times 10^4) \\) <br><br>\\( W = 0.1813 J \\approx 0.18 J \\) <br><br>None of the given options match this result. The closest is (a) 0.27 J, but it’s incorrect."
     }
   },
-  
     {
       "type": "Question",
       "name": "Question 11",
@@ -640,10 +639,834 @@
     "type": "string",
     "content": "<b>Biot-Savart Law</b> describes the magnetic field (\\(dB\\)) due to a small current element (\\(I dl\\)):<br><br>\\(dB = \\frac{\\mu_0}{4\\pi} \\frac{I dl \\sin(\\theta)}{r^2}\\)<br>• \\(\\mu_0\\): Permeability of free space<br>• \\(\\theta\\): Angle between \\(dl\\) and \\(r\\)<br><br>Option (a) matches the correct formula."
   }
-}
+},
   
+  {
+  "type": "Question",
+  "name": "Question 30",
+  "Question": {
+    "content": "The magnetic field of a current-carrying circular loop is expressed as:",
+    "type": "OBJ",
+    "options": [
+      "B = μ₀IN/r²",
+      "dB = μ₀N/4r",
+      "dB = μ₀IN/4πr²",
+      "dB = μ₀IN/2r"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "dB = μ₀IN/2r"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Biot-Savart Law Application:</b><br>The magnetic field <b>at the center</b> of a circular loop with <i>N</i> turns, radius <i>r</i>, and current <i>I</i> is derived from:<br><br>\\( B = \\frac{\\mu_0 I N}{2r} \\)<br><br><b>Key Points:</b><br>1. <b>μ₀</b>: Permeability of free space (4π × 10⁻⁷ Tm/A)<br>2. <b>N</b>: Number of turns enhances the field proportionally<br>3. <b>2r</b>: Inverse dependence on loop radius<br><br><b>Why Other Options Fail:</b><br>- (a) Incorrect denominator (r² instead of 2r)<br>- (b) Missing current <i>I</i><br>- (c) Incorrect π term and denominator"
+  }
+},
   
-  
-  
-  
+  {
+  "type": "Question",
+  "name": "Question 31",
+  "Question": {
+    "content": "A 4.0F capacitor is desired. What is the area of the plates if they are separated by a 5cm air gap?",
+    "type": "OBJ",
+    "options": [
+      "0.023 × 10¹² m²",
+      "0.023 × 10¹⁰ m²",
+      "0.023 m²",
+      "0.023 × 10⁹ m²"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2.26 × 10¹⁰ m² (Note: Correct answer not listed; closest is (b) 0.023 × 10¹⁰ m²)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Use the parallel-plate capacitance formula</b><br>\\(C = \\frac{\\epsilon_0 A}{d}\\)<br>• \\(C = 4.0\\,F\\), \\(d = 5\\,cm = 0.05\\,m\\), \\(\\epsilon_0 = 8.85 \\times 10^{-12}\\,F/m\\)<br><br><b>Step 2: Solve for area (A)</b><br>\\(A = \\frac{C \\cdot d}{\\epsilon_0} = \\frac{4.0 \\times 0.05}{8.85 \\times 10^{-12}} \\approx 2.26 \\times 10^{10}\\,m^2\\)<br><br>None of the options match exactly. The closest is (b), but it’s off by a factor of 10."
+  }
+},{
+  "type": "Question",
+  "name": "Question 32",
+  "Question": {
+    "content": "Find the magnitude of the electric field when a force of 12N acts on a charge of 2µC placed in a uniform electric field.",
+    "type": "OBJ",
+    "options": [
+      "1.0 N/C",
+      "6 × 10⁶ N/C",
+      "1.67 × 10⁶ N/C",
+      "16.7 × 10⁶ N/C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "6 × 10⁶ N/C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Convert charge to Coulombs</b><br>\\(q = 2\\,\\mu C = 2 \\times 10^{-6}\\,C\\)<br><br><b>Step 2: Calculate electric field (E)</b><br>\\(E = \\frac{F}{q} = \\frac{12\\,N}{2 \\times 10^{-6}\\,C} = 6 \\times 10^6\\,N/C\\)<br><br>This matches option (b)."
+  }
+},{
+  "type": "Question",
+  "name": "Question 33",
+  "Question": {
+    "content": "Two charges Q₁=10µC and Q₂=-12µC are within a spherical surface. What is the total flux through the surface?",
+    "type": "OBJ",
+    "options": [
+      "-2.26 × 10⁶ Nm²/C",
+      "-5.56 × 10⁷ Nm²/C",
+      "1.66 × 10⁶ Nm²/C",
+      "20.76 × 10⁶ Nm²/C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "-2.26 × 10⁵ Nm²/C (Note: Correct answer not listed; closest is (a) -2.26 × 10⁶ Nm²/C)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Use Gauss’s Law</b><br>\\(\\Phi = \\frac{Q_{\\text{enc}}}{\\epsilon_0}\\)<br>• \\(Q_{\\text{enc}} = Q_1 + Q_2 = 10\\,\\mu C - 12\\,\\mu C = -2\\,\\mu C = -2 \\times 10^{-6}\\,C\\)<br>• \\(\\epsilon_0 = 8.85 \\times 10^{-12}\\,C^2/Nm^2\\)<br><br><b>Step 2: Calculate flux</b><br>\\(\\Phi = \\frac{-2 \\times 10^{-6}}{8.85 \\times 10^{-12}} \\approx -2.26 \\times 10^5\\,Nm^2/C\\)<br><br>None of the options match exactly. The closest is (a), but it’s off by a factor of 10."
+  }
+},{
+  "type": "Question",
+  "name": "Question 34",
+  "Question": {
+    "content": "Calculate the work done by an external agent carrying a charge of 5.0 × 10⁵ C from point A to B at constant speed, if the potential difference is 42V.",
+    "type": "OBJ",
+    "options": [
+      "8.4 × 10⁵ J",
+      "2.1 × 10⁷ J",
+      "1.19 × 10⁻⁷ J",
+      "210 J"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2.1 × 10⁷ J"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Use the work formula</b><br>\\(W = q \\Delta V\\)<br>• \\(q = 5.0 \\times 10^5\\,C\\), \\(\\Delta V = 42\\,V\\)<br><br><b>Step 2: Calculate work</b><br>\\(W = (5.0 \\times 10^5) \\times 42 = 2.1 \\times 10^7\\,J\\)<br><br>This matches option (b)."
+  }
+},{
+  "type": "Question",
+  "name": "Question 35",
+  "Question": {
+    "content": "What is the capacitance of a capacitor charged to 60V with a charge of 3 × 10⁻⁴ C?",
+    "type": "OBJ",
+    "options": [
+      "5 µF",
+      "5 µV",
+      "1.8 × 10⁻² F",
+      "1.8 × 10⁻⁶ F"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "5 µF"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Use the capacitance formula</b><br>\\(C = \\frac{Q}{V}\\)<br>• \\(Q = 3 \\times 10^{-4}\\,C\\), \\(V = 60\\,V\\)<br><br><b>Step 2: Calculate capacitance</b><br>\\(C = \\frac{3 \\times 10^{-4}}{60} = 5 \\times 10^{-6}\\,F = 5\\,\\mu F\\)<br><br>This matches option (a)."
+  }
+},{
+  "type": "Question",
+  "name": "Question 36",
+  "Question": {
+    "content": "Which of the following is not correct?",
+    "type": "OBJ",
+    "options": [
+      "Combining capacitors in parallel increases capacitance",
+      "Parallel-plate capacitance: \\(C = \\frac{\\epsilon_0 A}{d}\\)",
+      "Energy density: \\(U = \\frac{1}{2} \\epsilon_0 E^2\\)",
+      "Each capacitor in series has the same charge"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Parallel-plate capacitance: \\(C = \\frac{\\epsilon_0 A}{d}\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "The incorrect statement is (b). The correct formula for parallel-plate capacitance is:<br><br>\\(C = \\frac{\\epsilon_0 A}{d}\\)<br><br>Option (b) incorrectly writes it as \\(C = \\epsilon_0 d\\), which is dimensionally wrong."
+  }
+},{
+  "type": "Question",
+  "name": "Question 37",
+  "Question": {
+    "content": "How many electrons are in 3.20 × 10²⁵ C of charge? (Given: \\(e = 1.6 \\times 10^{-19}\\,C\\))",
+    "type": "OBJ",
+    "options": [
+      "2.00 × 10²⁵ electrons",
+      "2.00 × 10³ electrons",
+      "2.00 × 10¹³ electrons",
+      "1.6 × 10⁶ electrons"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2.00 × 10⁴⁴ electrons (Note: Correct answer not listed; question may have typos)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Use the formula</b><br>\\(n = \\frac{Q}{e}\\)<br>• \\(Q = 3.20 \\times 10^{25}\\,C\\), \\(e = 1.6 \\times 10^{-19}\\,C\\)<br><br><b>Step 2: Calculate number of electrons</b><br>\\(n = \\frac{3.20 \\times 10^{25}}{1.6 \\times 10^{-19}} = 2 \\times 10^{44}\\)<br><br>None of the options match. The question likely has a typo in the charge value."
+  }
+},{
+  "type": "Question",
+  "name": "Question 38",
+  "Question": {
+    "content": "Two point charges experience a force F at distance d. What is the force if the distance becomes d/2?",
+    "type": "OBJ",
+    "options": [
+      "4F",
+      "F/4",
+      "F/2",
+      "16F"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "4F"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Coulomb’s Law</b> states:<br><br>\\(F \\propto \\frac{1}{r^2}\\)<br>If distance \\(r\\) is halved (\\(r \\rightarrow \\frac{d}{2}\\)), force becomes:<br><br>\\(F_{\\text{new}} = \\frac{1}{(1/2)^2} F = 4F\\)<br><br>Thus, option (a) is correct."
+  }
+},{
+  "type": "Question",
+  "name": "Question 39",
+  "Question": {
+    "content": "A charged insulator and an uncharged conductor:",
+    "type": "OBJ",
+    "options": [
+      "Always repel",
+      "Always attract",
+      "No electrostatic force",
+      "Attract or repel depending on charge sign"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Always attract"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "An uncharged conductor will be <b>polarized</b> by a charged insulator, causing an attractive force regardless of the insulator’s charge sign. Thus, option (b) is correct."
+  }
+},{
+  "type": "Question",
+  "name": "Question 40",
+  "Question": {
+    "content": "Two charges +q and +9q are 4m apart. Where is the electric field zero?",
+    "type": "OBJ",
+    "options": [
+      "1m from +q",
+      "1m from +9q",
+      "3m from +q",
+      "No such point"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1m from +q"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Set up the equation</b><br>For the field to cancel:<br>\\(\\frac{kq}{x^2} = \\frac{k(9q)}{(4-x)^2}\\)<br><br><b>Step 2: Solve for x</b><br>\\(\\frac{1}{x^2} = \\frac{9}{(4-x)^2}\\)<br>\\(x = 1\\,m\\) from +q.<br><br>Thus, option (a) is correct."
+  }
+},{
+  "type": "Question",
+  "name": "Question 41",
+  "Question": {
+    "content": "Which statement is not true about a charge released in an electric field?",
+    "type": "OBJ",
+    "options": [
+      "Positive charge moves to lower potential",
+      "Positive charge moves to lower potential energy",
+      "Negative charge moves to higher potential",
+      "Negative charge moves to higher potential energy"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Negative charge moves to higher potential energy"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "A negative charge naturally moves to <b>higher potential</b> (lower potential energy). Option (d) incorrectly states it moves to higher potential energy, which violates energy minimization principles."
+  }
+},
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "Two parallel-plate capacitors are identical except one has a dielectric (κ=10.5) and the other is air-filled. How much larger is the dielectric-filled capacitor's capacitance?",
+      "type": "OBJ",
+      "options": ["0.0095", "1.0095", "10.5", "11.5"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10.5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The capacitance with a dielectric is \\(C = \\kappa C_0\\), where \\(C_0\\) is the air-filled capacitance. With \\(\\kappa = 10.5\\), the dielectric-filled capacitor is <b>10.5 times larger</b>."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "Three points (A, B, C) have potentials 8.0V, 4.0V, and -2.0V. A negative charge at B is released. Which way will it move?",
+      "type": "OBJ",
+      "options": ["Toward A", "Toward B", "It will not move", "Toward C"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Toward C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Negative charges move <b>from lower to higher potential</b>. Since point C (-2.0V) has lower potential than B (4.0V), the charge moves <b>toward C</b>."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "What capacitance is needed to store enough energy to power a 50W bulb for 30 minutes at 200V?",
+      "type": "OBJ",
+      "options": ["90F", "45F", "6F", "9F"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "45F"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Step 1:</b> Energy needed \\(E = P \\times t = 50W \\times 1800s = 90,000J\\).<br><b>Step 2:</b> Using \\(E = \\frac{1}{2}CV^2\\), solve for \\(C = \\frac{2E}{V^2} = 45F\\)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Electric field lines:",
+      "type": "OBJ",
+      "options": [
+        "Circle clockwise around positive charges",
+        "Circle counterclockwise around positive charges",
+        "Radiate outward from negative charges",
+        "Radiate inward toward negative charges"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Radiate inward toward negative charges"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Electric field lines <b>point inward toward negative charges</b> and <b>outward from positive charges</b>. They never form closed loops around point charges."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "A 9.0V battery charges a capacitor to 3.0µC. What is its capacitance?",
+      "type": "OBJ",
+      "options": ["0.33µF", "27µF", "0.30µF", "Cannot be determined"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.33µF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitance is calculated as \\(C = \\frac{Q}{V} = \\frac{3.0\\mu C}{9.0V} = 0.33\\mu F\\)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "A 50µF capacitor is connected to \\(V = 30\\sin(2000t)\\)V. What is its capacitive reactance?",
+      "type": "OBJ",
+      "options": ["3.2Ω", "7.2Ω", "2.9Ω", "4.2Ω"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10Ω (Note: Correct answer not listed)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitive reactance is \\(X_C = \\frac{1}{\\omega C} = \\frac{1}{2000 \\times 50 \\times 10^{-6}} = 10\\Omega\\). None of the provided options match this result."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "An electric kettle draws 4.0A at 230V. What is its power rating?",
+      "type": "OBJ",
+      "options": ["460W", "920W", "920kW", "8.7×10³W"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "920W"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Power is calculated as \\(P = IV = 4.0A \\times 230V = 920W\\)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "Electric field lines are ______ to equipotential surfaces.",
+      "type": "OBJ",
+      "options": ["Tangential", "Parallel", "Perpendicular", "Anti-parallel"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Perpendicular"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Electric field lines are always <b>perpendicular</b> to equipotential surfaces because no work is done when moving along an equipotential, requiring the force (and thus field) to be perpendicular to the displacement."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "The sum of all charges within a Gaussian surface is:",
+      "type": "OBJ",
+      "options": ["\\(q_{net}\\)", "Zero", "Infinite", "Constant"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(q_{net}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gauss's Law states that the total electric flux through a closed surface is proportional to the <b>net enclosed charge (\\(q_{net}\\))</b>, not necessarily zero or constant."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "Which of the following are conservative forces?",
+      "type": "OBJ",
+      "options": [
+        "Electrostatic force/Electric field strength",
+        "Electric flux/Electric field strength",
+        "Gravitation force/Electrostatic force",
+        "Gravitation force/Electromotive force"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gravitation force/Electrostatic force"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Conservative forces (like gravity and electrostatic force) don't lose energy when things move in loops. Just like a rollercoaster, you end with the same energy you started with!"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "Find the work done in an electric field if the potential difference is 50V and the charge moved is 60C.",
+      "type": "OBJ",
+      "options": [
+        "300 uJ",
+        "2x100",
+        "21µJ",
+        "80J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3000J (Note: Correct answer not listed)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Work = Charge × Voltage. Like carrying 60 buckets (charge) up a 50-step ladder (voltage): 60 × 50 = 3000J of work. The options seem wrong!"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "What is the change in potential energy for a 4C charge moving through 80V?",
+      "type": "OBJ",
+      "options": [
+        "20µJ",
+        "500J",
+        "0.32J",
+        "42J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "320J (Note: Correct answer not listed)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Energy change = Charge × Voltage. 4C × 80V = 320J. Think of it like a 4kg rock falling 80 meters – it gains energy!"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "What defines an electric dipole?",
+      "type": "OBJ",
+      "options": [
+        "Distance between two equal charges",
+        "Two equal and opposite charges separated by a distance",
+        "Two equal charges acted upon by electrostatic force",
+        "Two unequal charges in an electric field"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two equal and opposite charges separated by a distance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A dipole is like a magnet with + and - ends. Same size charges (+q and -q), just opposite signs, separated by space."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "Which statement describes Kirchhoff's Rules?",
+      "type": "OBJ",
+      "options": [
+        "Currents into a junction > currents out",
+        "Currents in = currents out, and loop voltages add to zero",
+        "Only loop voltages matter",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Currents in = currents out, and loop voltages add to zero"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Kirchhoff's Rules are like water pipes: what flows in must flow out (current rule), and all hills/drops in a loop cancel out (voltage rule)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "When do three small resistors (<1Ω) have the largest equivalent resistance?",
+      "type": "OBJ",
+      "options": [
+        "All in parallel",
+        "Two parallel + one series",
+        "Two series + one across them",
+        "All in series"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All in series"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Resistors in series add up (R₁ + R₂ + R₃). It's like stacking obstacles – more obstacles = harder to push through!"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "Which is NOT true about Gauss's Law?",
+      "type": "OBJ",
+      "options": [
+        "It's a special form of Coulomb's Law",
+        "It works for any surface shape",
+        "It explains electrostatic fields",
+        "It links flux to enclosed charge"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It works for any surface shape"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gauss's Law is easiest for symmetric shapes (spheres, cylinders). For weird shapes, it's like trying to measure water flow through a crumpled hose – possible but messy!"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "Calculate electric flux through a 50cm diameter sphere if E=1920N/C at 30°.",
+      "type": "OBJ",
+      "options": [
+        "653.05 Nm²/C",
+        "327 Nm²/C",
+        "411 Nm²/C",
+        "317 Nm²/C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "653.05 Nm²/C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Flux = E × Area × cos(angle). Area of sphere = πd². Like sunlight hitting a ball – tilt reduces effective area!"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "What's the direction of the electric field at a charged conductor's surface?",
+      "type": "OBJ",
+      "options": [
+        "Parallel to surface",
+        "Perpendicular to surface",
+        "Oblique angle",
+        "Horizontal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Perpendicular to surface"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "On conductors, field lines poke straight out (like hedgehog spines!). If they weren't perpendicular, charges would move along the surface."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "Why are capacitors passive elements?",
+      "type": "OBJ",
+      "options": [
+        "They store charge",
+        "No movable parts",
+        "Charge depends on material/config",
+        "Charge depends only on config"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They store charge"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Passive elements (like capacitors) store energy but don't create it. Think of them as rechargeable batteries – they hold juice but need outside help!"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "A 0.05µF capacitor has 0.2µC charge. What's the potential difference?",
+      "type": "OBJ",
+      "options": [
+        "4V",
+        "0.25V",
+        "1x10⁻¹⁴V",
+        "8V"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4V"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Voltage = Charge / Capacitance. Like water pressure = (amount of water) / (tank size). 0.2µC / 0.05µF = 4V."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "Three capacitors (3µF, 7µF, 5µF) are connected with the second and third in parallel, then in series with the first. Calculate equivalent capacitance.",
+      "type": "OBJ",
+      "options": ["14µF", "1.7µF", "1.19µF", "70µF"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.7µF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Step 1:</b> Parallel combination (C₂ + C₃ = 7µF + 5µF = 12µF).<br><b>Step 2:</b> Series combination with C₁: \\(\\frac{1}{C_{eq}} = \\frac{1}{3} + \\frac{1}{12} = \\frac{5}{12}\\).<br><b>Result:</b> \\(C_{eq} = \\frac{12}{5} = 2.4µF\\). (Note: Correct calculation yields 2.4µF; closest option is (b) 1.7µF, suggesting a problem error.)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "A parallel-plate capacitor has plates of area 10cm² separated by 2m in vacuum. Calculate capacitance.",
+      "type": "OBJ",
+      "options": [
+        "8.85×10⁻¹¹F",
+        "4.42×10⁻¹¹F",
+        "4.42×10⁻¹²F",
+        "8.85×10⁻¹²F"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4.42×10⁻¹²F"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Formula:</b> \\(C = \\frac{\\epsilon_0 A}{d}\\)<br><b>Given:</b> \\(A = 10^{-3}m^2\\), \\(d = 2m\\), \\(\\epsilon_0 = 8.85×10^{-12}F/m\\).<br><b>Calculation:</b> \\(C = \\frac{8.85×10^{-12} × 10^{-3}}{2} = 4.42×10^{-12}F\\)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "The potential difference between battery terminals with no external current flow is called:",
+      "type": "OBJ",
+      "options": [
+        "P.d",
+        "emf",
+        "Conductance",
+        "Electric potential"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "emf"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Electromotive force (emf) is the terminal voltage when no current flows, representing the maximum potential difference a battery can provide."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "A 30W bulb operates at 120V. Calculate charge passing through it in 1 minute.",
+      "type": "OBJ",
+      "options": ["4C", "3600C", "17C", "5C"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "15C (Note: Correct answer not listed)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Step 1:</b> Current \\(I = \\frac{P}{V} = \\frac{30W}{120V} = 0.25A\\).<br><b>Step 2:</b> Charge \\(Q = I × t = 0.25A × 60s = 15C\\). None of the options match."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "What is the flux magnitude when electric field lines are parallel to area A?",
+      "type": "OBJ",
+      "options": ["90", "180", "0", "60"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Electric flux \\(\\Phi = E A \\cos\\theta\\). When field lines are parallel to the surface, \\(\\theta = 90°\\) and \\(\\cos 90° = 0\\). Thus, \\(\\Phi = 0\\)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "Direction of electric field at a charged conductor's surface:",
+      "type": "OBJ",
+      "options": [
+        "Parallel to surface",
+        "Perpendicular to surface",
+        "Oblique angle",
+        "Horizontal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Perpendicular to surface"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "At equilibrium, the electric field at a conductor's surface must be perpendicular; any parallel component would cause charge motion, violating electrostatic conditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "The sum of all charges within a Gaussian surface is:",
+      "type": "OBJ",
+      "options": ["q_net", "Zero", "Infinite", "Constant"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "q_net"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Gauss's Law states \\(\\oint \\vec{E} \\cdot d\\vec{A} = \\frac{q_{\\text{enc}}}{\\epsilon_0}\\), where \\(q_{\\text{enc}}\\) is the net enclosed charge."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "A plastic rod acquires -0.616nC when rubbed against wool. How many electrons are transferred?",
+      "type": "OBJ",
+      "options": [
+        "2.67×10⁻¹² electrons",
+        "3.85×10⁹ electrons",
+        "3.85×10⁻¹² electrons",
+        "3.85×10¹² electrons"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3.85×10⁹ electrons"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Step 1:</b> Charge per electron \\(e = 1.6×10^{-19}C\\).<br><b>Step 2:</b> Number of electrons \\(n = \\frac{0.616×10^{-9}C}{1.6×10^{-19}C} = 3.85×10^9\\)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "Two point charges attract with force F. If both charges double with unchanged separation, the new force is:",
+      "type": "OBJ",
+      "options": ["F", "4F", "2F", "8F"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4F"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Coulomb's Law: \\(F \\propto q_1 q_2\\). If both charges double, \\(F_{\\text{new}} = (2q_1)(2q_2) = 4q_1 q_2 = 4F\\)."
+    }
+  }
 ]
