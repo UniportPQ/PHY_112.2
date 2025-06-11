@@ -172,15 +172,15 @@
     "content": "Which of the following equations of electrical power is NOT correct?",
     "type": "OBJ",
     "options": [
-      "P = IV",
-      "P =\\frac{V^2}{R}",
-      "P = I^2 R",
-      "= IR^2"
+      "\\( P = IV\\)",
+      "\\( P =\\frac{V^2}{R}\\)",
+      "\\( P = I^2 R\\)",
+      "\\( P = IR^2\\)"
     ]
   },
   "Answer": {
     "type": "string",
-    "content": "= IR^2"
+    "content": "\\( P= IR^2\\)"
   },
   "Explanation": {
     "type": "string",
@@ -294,7 +294,7 @@
   },
   "Explanation": {
     "type": "string",
-    "content": "<p>Resistivity\\(\\rho\\) is given by\\(\\rho =\\frac{RA}{L}\\), where\\( R = 6.0\\,\\Omega\\),\\( A = 0.2\\,\\text{m}^2\\), and\\( L = 2.5\\,\\text{m}\\). Substituting:\\[\\rho =\\frac{6.0\\times 0.2}{2.5} =\\frac{1.2}{2.5} = 0.48\\,\\Omega\\text{m}\\).</p>"
+    "content": "<p>Resistivity \\(\\rho\\) is given by \\[\\rho = \\frac{RA}{L}\\], where\\( R = 6.0\\,\\Omega\\),\\( A = 0.2\\,\\text{m}^2\\), and\\( L = 2.5\\,\\text{m}\\). <br>Substituting: \\[ \\rho =\\frac{6.0 \\times 0.2}{2.5} =\\frac{1.2}{2.5} = 0.48\\,\\Omega\\text{m}\\].</p>"
   }
 },
 {
@@ -502,15 +502,15 @@
     "content": "The expression for electric potential energy of an isolated point charge Q at a distance r relative to infinity is given as",
     "type": "OBJ",
     "options": [
-      "V = -∫₀ᵇ E . dl",
-      "V = -q₀ ∫₀ᵇ E . dl",
-      "V =\\frac{Q}{4πε₀r}",
-      "V = -\\frac{Q}{4πε₀r²}"
+      "\\( V = -∫₀ᵇ E . dl\\)",
+      "\\( V = -q₀ ∫₀ᵇ E . dl\\)",
+      "\\(V =\\frac{Q}{4πε₀r}\\)",
+      "\\(V = -\\frac{Q}{4πε₀r²}\\)"
     ]
   },
   "Answer": {
     "type": "string",
-    "content": "V = -\\frac{Q}{4πε₀r}"
+    "content": "\\( V = -\\frac{Q}{4πε₀r}\\)"
   },
   "Explanation": {
     "type": "string",
