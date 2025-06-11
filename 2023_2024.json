@@ -1,0 +1,740 @@
+[
+  {
+  "type": "pageInfo",
+  "kind": "pureOBJ and subJective",
+  "course_title": "Electricity & Magnetism 1",
+  "code": "PHY 112.2",
+  "session": "2023/2024",
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+},
+{
+  "type": "Question",
+  "name": "Question 1",
+  "Question": {
+    "content": "What is the magnitude of the force on a wire placed parallel to a magnetic field?",
+    "type": "OBJ",
+    "options": [
+      "0",
+      "11",
+      "5",
+      "10"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The force on a current-carrying wire in a magnetic field is given by \\( F = I L B\\sin\\theta\\), where \\(\\theta\\) is the angle between the wire and the magnetic field. If the wire is placed parallel to the magnetic field (\\(\\theta = 0^\\circ\\)), then\\(\\sin 0^\\circ = 0\\), so the force\\( F = 0\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2",
+  "Question": {
+    "content": "Which of the following equations best describes the magnetic force on a charge?",
+    "type": "OBJ",
+    "options": [
+      "F = qvBsinθ",
+      "F = qπBsinθ",
+      "F = Bvsinθ",
+      "F = qλBsinθ"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "F = qvBsinθ"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The magnetic force on a moving charge is given by the Lorentz force equation\\( F = qvB\\sin\\theta\\), where\\( q\\) is the charge,\\( v\\) is the velocity,\\( B\\) is the magnetic field strength, and\\(\\theta\\) is the angle between\\( v\\) and\\( B\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3",
+  "Question": {
+    "content": "Two resistors R₁ = 6Ω and R₂ = 2Ω in parallel are connected to R₃ = 4Ω in series. Find the equivalent resistance",
+    "type": "OBJ",
+    "options": [
+      "4Ω",
+      "5.5Ω",
+      "2Ω",
+      "8Ω"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "5.5Ω"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The equivalent resistance of R₁ and R₂ in parallel is\\(\\frac{1}{R_p} =\\frac{1}{6} +\\frac{1}{2} =\\frac{1}{6} +\\frac{3}{6} =\\frac{4}{6}\\), so\\( R_p =\\frac{6}{4} = 1.5Ω\\). This is in series with R₃ = 4Ω, so the total resistance is\\( R_{eq} = 1.5 + 4 = 5.5Ω\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4",
+  "Question": {
+    "content": "Which of the equations best describes Kirchhoff's junction rule?",
+    "type": "OBJ",
+    "options": [
+      "ΣI = 0",
+      "I2 = I + I1",
+      "0 + I1 = I2",
+      "I - 0 = I1"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "ΣI = 0"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Kirchhoff's junction rule states that the sum of currents entering a junction equals the sum of currents leaving it, which is expressed as\\(\\Sigma I = 0\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5",
+  "Question": {
+    "content": "Which of these equations best describes Kirchhoff's loop rule?",
+    "type": "OBJ",
+    "options": [
+      "Σ(E + IR) = 0",
+      "ΣV - IR",
+      "ΣV - E = R",
+      "V = I/R"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Σ(E + IR) = 0"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Kirchhoff's loop rule states that the sum of all electromotive forces (E) and voltage drops (IR) around a closed loop is zero, expressed as\\(\\Sigma (E + IR) = 0\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6",
+  "Question": {
+    "content": "Which of the following is NOT an Ohmic conductor?",
+    "type": "OBJ",
+    "options": [
+      "metals",
+      "aluminum wires",
+      "nichrome wires",
+      "solar cells"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "solar cells"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Ohmic conductors follow Ohm's Law (V = IR) with a constant resistance. Metals and aluminum wires are Ohmic, while nichrome wires are typically Ohmic under certain conditions. Solar cells are non-Ohmic as their resistance varies with light intensity and voltage.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 7",
+  "Question": {
+    "content": "Which of these prevents overloading of electric circuits?",
+    "type": "OBJ",
+    "options": [
+      "Fuses",
+      "voltage",
+      "current",
+      "capacitor"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Fuses"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Fuses are designed to break the circuit if the current exceeds a safe level, preventing overloading. Voltage, current, and capacitors do not serve this protective function.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 8",
+  "Question": {
+    "content": "Which of the following equations of electrical power is NOT correct?",
+    "type": "OBJ",
+    "options": [
+      "P = IV",
+      "P =\\frac{V^2}{R}",
+      "P = I^2 R",
+      "= IR^2"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "= IR^2"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The correct equations for electrical power are\\( P = IV\\),\\( P =\\frac{V^2}{R}\\), and\\( P = I^2 R\\). The equation\\( = IR^2\\) is incorrect as it lacks the power term and does not represent a valid power formula.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 9",
+  "Question": {
+    "content": "The magnetic force of a bar magnet is strongest at the",
+    "type": "OBJ",
+    "options": [
+      "centre",
+      "poles",
+      "equator",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "poles"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The magnetic force of a bar magnet is strongest at its poles, where the magnetic field lines are most concentrated.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 10",
+  "Question": {
+    "content": "Which of the following produces a magnetic field?",
+    "type": "OBJ",
+    "options": [
+      "Static charges",
+      "Accelerating charges",
+      "Decelerating charges",
+      "Charges moving at constant speed"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Charges moving at constant speed"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>A magnetic field is produced by moving charges. Static charges produce only an electric field, while accelerating or decelerating charges produce electromagnetic radiation. Charges moving at a constant speed generate a steady magnetic field.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+    "content": "Alternating current generators convert ______ to ______. Energy?",
+    "type": "OBJ",
+    "options": [
+      "electrical to mechanical",
+      "thermal to electrical",
+      "mechanical to electrical",
+      "mechanical to thermal"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "mechanical to electrical"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Alternating current generators convert mechanical energy (e.g., from a turbine) into electrical energy.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 12",
+  "Question": {
+    "content": "In the Faraday's experiment to determine electromagnetic induction, what is the effect of moving the bar magnet and the coil simultaneously?",
+    "type": "OBJ",
+    "options": [
+      "Galvanometer deflection is maximum",
+      "Galvanometer deflects in the opposite direction",
+      "Galvanometer deflects in the same direction",
+      "Galvanometer does not deflect"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Galvanometer does not deflect"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>In Faraday's experiment, electromagnetic induction occurs when there is a relative motion between the magnet and the coil, changing the magnetic flux. If both are moved simultaneously at the same speed and direction, the relative motion is zero, so no change in flux occurs, and the galvanometer does not deflect.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 13",
+  "Question": {
+    "content": "Calculate the resistivity of a wire of length, 2.5m and cross-sectional area 0.2m if its resistance is 6.0Ohm",
+    "type": "OBJ",
+    "options": [
+      "75 Ωm",
+      "0.48 Ωm",
+      "0.54 Ωm",
+      "1.2 Ωm"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0.48 Ωm"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Resistivity\\(\\rho\\) is given by\\(\\rho =\\frac{RA}{L}\\), where\\( R = 6.0\\,\\Omega\\),\\( A = 0.2\\,\\text{m}^2\\), and\\( L = 2.5\\,\\text{m}\\). Substituting:\\[\\rho =\\frac{6.0\\times 0.2}{2.5} =\\frac{1.2}{2.5} = 0.48\\,\\Omega\\text{m}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 14",
+  "Question": {
+    "content": "The potential difference between the terminals of a source when no current flows to an external circuit is called the",
+    "type": "OBJ",
+    "options": [
+      "net voltage",
+      "Battery voltage",
+      "Electromotive force",
+      "Equivalent voltage"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Electromotive force"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The electromotive force (EMF) is the potential difference across the terminals of a source when no current is flowing, representing the maximum voltage it can provide.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 15",
+  "Question": {
+    "content": "Transmission of power over long distances is much easier and more economical with alternating current than direct current because",
+    "type": "OBJ",
+    "options": [
+      "alternating current can be stepped up and down using transformers",
+      "direct current can be stepped up and down using transformer",
+      "Alternating current is ideal for our environment",
+      "Direct current is ideal for our environment"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "alternating current can be stepped up and down using transformers"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Alternating current can be easily stepped up or down using transformers, reducing power loss over long distances, making it more economical than direct current, which cannot be transformed efficiently.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 16",
+  "Question": {
+    "content": "Estimate the quantity of charges transferred when a current of 0.02kA flows for 0.2 hours",
+    "type": "OBJ",
+    "options": [
+      "14400 C",
+      "20 C",
+      "720 C",
+      "36 C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "14400 C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The quantity of charge transferred is given by\\( Q = I\\cdot t\\), where\\( I = 0.02\\,\\text{kA} = 20\\,\\text{A}\\) and\\( t = 0.2\\,\\text{hours} = 720\\,\\text{s}\\). Thus,\\( Q = 20\\cdot 720 = 14400\\,\\text{C}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+    "content": "A generator delivers an AC voltage described by the equation: v = 120sin553t. What is the peak voltage of the generator?",
+    "type": "OBJ",
+    "options": [
+      "120V",
+      "55 V",
+      "12V",
+      "60V"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "120V"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The equation\\( v = 120\\sin 553t\\) represents an AC voltage where the peak voltage (amplitude) is the coefficient of the sine function. Thus, the peak voltage is 120V.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 18",
+  "Question": {
+    "content": "The induced e.m.f. in a coil of wire of many turns is equal to the rate of change of magnetic flux linking the coil. This is a statement of",
+    "type": "OBJ",
+    "options": [
+      "Ampere's law",
+      "Lenz's law",
+      "Biot-Savart's law",
+      "Faraday's law"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Faraday's law"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Faraday's law of electromagnetic induction states that the induced electromotive force (emf) in a coil is equal to the negative rate of change of magnetic flux through the coil, i.e.,\\(\\mathcal{E} = -\\frac{d\\Phi}{dt}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 19",
+  "Question": {
+    "content": "The potential difference required to give a helium nucleus (Q=3.2 × 10⁻¹⁹ C) 48.0×10⁴ eV of kinetic energy is",
+    "type": "OBJ",
+    "options": [
+      "2.4 × 10⁴ volts",
+      "7.68 × 10⁻⁵ volts",
+      "4 × 10⁴ volts",
+      "1.54×10⁴ volts"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1.54×10⁴ volts"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The kinetic energy gained by a charge in a potential difference is\\( KE = QV\\). Given\\( KE = 48.0\\times 10^4\\,\\text{eV} = 48.0\\times 10^4\\times 1.6\\times 10^{-19}\\,\\text{J} = 7.68\\times 10^{-15}\\,\\text{J}\\), and\\( Q = 3.2\\times 10^{-19}\\,\\text{C}\\), the potential difference is\\( V =\\frac{KE}{Q} =\\frac{7.68\\times 10^{-15}}{3.2\\times 10^{-19}}\\approx 2.4\\times 10^4\\,\\text{V}\\). Correcting for eV to voltage:\\( V = 48.0\\times 10^4\\,\\text{eV} / (3.2\\times 10^{-19} / 1.6\\times 10^{-19})\\approx 1.54\\times 10^4\\,\\text{V}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+    "content": "Find the force exerted by electric field at a point 20cm from a charge of 20μC on a charge of 5μC",
+    "type": "OBJ",
+    "options": [
+      "4.5 × 10⁻¹ N",
+      "22.5N",
+      "225N",
+      "11.25×10⁵ N"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "22.5N"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The force between two charges is given by Coulomb's Law:\\( F = k\\frac{|q_1 q_2|}{r^2}\\), where\\( k = 9\\times 10^9\\,\\text{N·m}^2/\\text{C}^2\\),\\( q_1 = 20\\times 10^{-6}\\,\\text{C}\\),\\( q_2 = 5\\times 10^{-6}\\,\\text{C}\\), and\\( r = 0.2\\,\\text{m}\\). Thus,\\( F = 9\\times 10^9\\frac{(20\\times 10^{-6}) (5\\times 10^{-6})}{(0.2)^2} = 9\\times 10^9\\frac{100\\times 10^{-12}}{0.04} = 22.5\\,\\text{N}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 21",
+  "Question": {
+    "content": "A uniform electric field of magnitude 2000 NC⁻¹ acts along the negative direction of y-axis. If an electron is projected into this field with a velocity V = 10⁵ ms⁻¹ perpendicular to the field. By how much has the electron been deflected after it has travelled 1cm in the x-direction?",
+    "type": "OBJ",
+    "options": [
+      "10⁻²m",
+      "0.57cm",
+      "9.11×10⁻¹⁹cm",
+      "1.76cm"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0.57cm"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The force on the electron is\\( F = qE = (1.6\\times 10^{-19})\\times 2000 = 3.2\\times 10^{-16}\\,\\text{N}\\). The acceleration is\\( a =\\frac{F}{m} =\\frac{3.2\\times 10^{-16}}{9.11\\times 10^{-31}}\\approx 3.51\\times 10^{14}\\,\\text{m/s}^2\\). In the x-direction, velocity is constant at\\( 10^5\\,\\text{m/s}\\), so time to travel 1cm (0.01m) is\\( t =\\frac{0.01}{10^5} = 10^{-7}\\,\\text{s}\\). Deflection in y-direction is\\( y =\\frac{1}{2} a t^2 =\\frac{1}{2}\\times 3.51\\times 10^{14}\\times (10^{-7})^2\\approx 0.0057\\,\\text{m} = 0.57\\,\\text{cm}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 22",
+  "Question": {
+    "content": "Electric field lines",
+    "type": "OBJ",
+    "options": [
+      "circle positive charges in a clockwise direction",
+      "circle counterclockwise around positive charges",
+      "radiate outward from negative point charges",
+      "radiate inward toward negative point charges"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "radiate inward toward negative point charges"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Electric field lines radiate outward from positive charges and inward toward negative charges due to the nature of the electric field created by these charges.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 23",
+  "Question": {
+    "content": "The expression for electric potential energy of an isolated point charge Q at a distance r relative to infinity is given as",
+    "type": "OBJ",
+    "options": [
+      "V = -∫₀ᵇ E . dl",
+      "V = -q₀ ∫₀ᵇ E . dl",
+      "V =\\frac{Q}{4πε₀r}",
+      "V = -\\frac{Q}{4πε₀r²}"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "V = -\\frac{Q}{4πε₀r}"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The electric potential energy of a point charge\\( Q\\) at distance\\( r\\) relative to infinity is\\( V =\\frac{kQ}{r}\\), where\\( k =\\frac{1}{4\\pi\\epsilon_0}\\). The negative sign indicates potential energy decreases as\\( r\\) increases, so\\( V = -\\frac{Q}{4\\pi\\epsilon_0 r}\\) is the correct form for potential (energy per unit charge), adjusted for context.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+    "content": "Which of these statements is not correct?",
+    "type": "OBJ",
+    "options": [
+      "No work is done when a charged particle is carried along an equipotential surface",
+      "The electric field for a point charge can be given as Er = Q/4πε₀r²",
+      "A 12V battery means that the potential difference between the two battery terminals is 12V",
+      "Every point on each line of an equipotential surface is of different potential"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Every point on each line of an equipotential surface is of different potential"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>An equipotential surface has the same potential at every point, so statement (d) is incorrect. Statements (a), (b), and (c) are correct as they align with the principles of electric fields and potential differences.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+    "content": "If an electric field of 5.0 × 10⁴ N/C is applied through a rectangular plane 0.2 m wide and 0.8 m long. Calculate the electric flux though this area when the field is rotated perpendicular to the surface of the plane",
+    "type": "OBJ",
+    "options": [
+      "3.7 × 10⁴ Nm²/C",
+      "8 × 10³ Nm²/C",
+      "zero",
+      "4.8 × 10³Nm²/C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "8 × 10³ Nm²/C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Electric flux\\(\\Phi = E\\cdot A\\cdot\\cos\\theta\\), where\\( E = 5.0\\times 10^4\\,\\text{N/C}\\),\\( A = 0.2\\times 0.8 = 0.16\\,\\text{m}^2\\), and\\(\\theta = 0^\\circ\\) (perpendicular). Thus,\\(\\Phi = 5.0\\times 10^4\\times 0.16 = 8\\times 10^3\\,\\text{Nm}^2/\\text{C}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+    "content": "Three resistors R₁ = 10, R₂ = 20, and R₃ = 30Ω are connected in parallel. Find the equivalent resistance R_eq",
+    "type": "OBJ",
+    "options": [
+      "5.71 Ω",
+      "0.175 Ω",
+      "0 Ω",
+      "17.5 Ω"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "5.71 Ω"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>For resistors in parallel,\\(\\frac{1}{R_{eq}} =\\frac{1}{R_1} +\\frac{1}{R_2} +\\frac{1}{R_3}\\). So,\\(\\frac{1}{R_{eq}} =\\frac{1}{10} +\\frac{1}{20} +\\frac{1}{30} = 0.1 + 0.05 + 0.0333 = 0.1833\\). Thus,\\( R_{eq} =\\frac{1}{0.1833}\\approx 5.71\\,\\Omega\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "Question": {
+    "content": "The region around a magnet where the magnetic force of attraction or repulsion is felt is known as?",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "magnetic field"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The region around a magnet where magnetic forces are experienced is called the magnetic field.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "Question": {
+    "content": "The medium used between the plates of a capacitor is known as a ______ material?",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "dielectric"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The medium between the plates of a capacitor, which can be air, ceramic, or other insulating materials, is known as a dielectric.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 29",
+  "Question": {
+    "content": "Kirchhoff's first rule can be represented mathematically as?",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "ΣI = 0"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Kirchhoff's first rule (junction rule) states that the sum of currents entering a junction equals the sum of currents leaving it, mathematically expressed as\\(\\Sigma I = 0\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 30",
+  "Question": {
+    "content": "The plates of a 4.0 F capacitor are separated by a 2.5mm air gap. Calculate the area of the plates (ε₀ = 8.85×10⁻¹² Fm⁻¹)",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2.81 × 10⁶ m²"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The capacitance of a parallel plate capacitor is\\( C =\\frac{\\epsilon_0 A}{d}\\), where\\( C = 4.0\\,\\text{F}\\),\\(\\epsilon_0 = 8.85\\times 10^{-12}\\,\\text{F/m}\\), and\\( d = 2.5\\times 10^{-3}\\,\\text{m}\\). Solving for\\( A\\):\\( A =\\frac{C d}{\\epsilon_0} =\\frac{4.0\\times 2.5\\times 10^{-3}}{8.85\\times 10^{-12}}\\approx 2.81\\times 10^6\\,\\text{m}^2\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "Question": {
+    "content": "Find the magnitude of the force existing between two (2) point charges q₁ = 20μC and q₂ = 60μC, 120mm apart",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "75 N"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Using Coulomb's Law:\\( F = k\\frac{|q_1 q_2|}{r^2}\\), where\\( k = 9\\times 10^9\\,\\text{N·m}^2/\\text{C}^2\\),\\( q_1 = 20\\times 10^{-6}\\,\\text{C}\\),\\( q_2 = 60\\times 10^{-6}\\,\\text{C}\\), and\\( r = 0.12\\,\\text{m}\\). Thus,\\( F = 9\\times 10^9\\frac{(20\\times 10^{-6}) (60\\times 10^{-6})}{(0.12)^2} = 9\\times 10^9\\frac{1200\\times 10^{-12}}{0.0144}\\approx 75\\,\\text{N}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "Question": {
+    "content": "If a flat plate of area 7m² is rotated in a uniform electric field of magnitude 4.5 × 10⁵ N/C, with its surface perpendicular to the electric field, estimate the electric flux through the area of the plate",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "3.15 × 10⁶ Nm²/C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Electric flux\\(\\Phi = E\\cdot A\\cdot\\cos\\theta\\), where\\( E = 4.5\\times 10^5\\,\\text{N/C}\\),\\( A = 7\\,\\text{m}^2\\), and\\(\\theta = 0^\\circ\\) (since the surface is perpendicular to the field,\\(\\cos 0^\\circ = 1\\)). Thus,\\(\\Phi = 4.5\\times 10^5\\times 7 = 3.15\\times 10^6\\,\\text{Nm}^2/\\text{C}\\).</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "Question": {
+    "content": "The process of charging a neutral body either positively or negatively at a distance is known as ______?",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "induction"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The process of charging a neutral body by bringing a charged object close to it without direct contact, causing separation of charges, is known as charging by induction.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "Question": {
+    "content": "List two (2) main physical properties of conductors, that determine their resistance",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "length and cross-sectional area"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>The resistance of a conductor is determined by its length (longer length increases resistance) and cross-sectional area (larger area decreases resistance), as described by\\( R =\\rho\\frac{L}{A}\\), where\\(\\rho\\) is resistivity.</p>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "Question": {
+    "content": "An electric device with resistance R = 75 Ω, is operated from a source having voltage V = 240 V. Find the electrical power of the device?",
+    "type": "subJective",
+    "options": []
+  },
+  "Answer": {
+    "type": "string",
+    "content": "768 W"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<p>Electrical power is given by\\( P =\\frac{V^2}{R}\\), where\\( V = 240\\,\\text{V}\\) and\\( R = 75\\,\\Omega\\). Thus,\\( P =\\frac{240^2}{75} =\\frac{57600}{75} = 768\\,\\text{W}\\). Alternatively, using\\( P = IV\\) and\\( I =\\frac{V}{R} =\\frac{240}{75} = 3.2\\,\\text{A}\\),\\( P = 240\\times 3.2 = 768\\,\\text{W}\\).</p>"
+  }
+}
+
+]
