@@ -554,7 +554,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "Assuming two resistors (e.g., 10Ω and 10Ω) in parallel with a third (5Ω) in series: \\(R_{\\text{parallel}} = \\frac{10 \\times 10}{10 + 10} = 5Ω\\). Total \\(R = 5Ω + 5Ω = 10Ω\\). (Note: Answer matches if resistors are 10Ω, 10Ω, and 5Ω in a different configuration.)"
+      "content": "Assuming two resistors (e.g., 6Ω and 2Ω) in parallel with a third (6Ω) in series: \\(R_{\\text{parallel}} = \\frac{6 \\times 2}{6 + 2} = 1.5Ω\\). Total \\(R = 6Ω + 1.5Ω = 7.5Ω\\)."
     }
   },
           {
