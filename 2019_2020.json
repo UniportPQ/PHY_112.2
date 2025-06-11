@@ -291,13 +291,13 @@
       "content": "A magnet's pole strength is fixed unless demagnetized or altered externally. The other options are fundamental properties of magnets."
     }
   },
-    {
-        "type": "img",
-        "content": "https://lh3.googleusercontent.com/d/1TrpGw6V1UPEQGlu0HEIZV1hRkmpgstOU",
-        "alt": "Figure 1",
-        "Caption": "Use this diagram to answer the question below"
-    },
-
+  {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1TrpGw6V1UPEQGlu0HEIZV1hRkmpgstOU",
+    "alt": "Figure 1",
+    "Caption": "Use this diagram to answer the question below"
+  },
+  
   {
     "type": "Question",
     "name": "Question 16",
@@ -319,8 +319,8 @@
       "type": "string",
       "content": "By Kirchhoff's current law (junction rule), the sum of currents entering a junction equals the sum leaving. Assuming \\(I_1\\) and \\(I_5\\) enter while \\(I_2\\), \\(I_3\\), and \\(I_4\\) exit, the correct relation is \\(I_1 + I_5 = I_2 + I_3 + I_4\\)."
     }
-  },   
-
+  },
+  
   {
     "type": "Question",
     "name": "Question 17",
@@ -454,13 +454,13 @@
       "content": "Electric field \\(E = \\frac{F}{q} = \\frac{15}{3.5\\times10^{-6}} = 4.29\\times10^6\\,N/C\\). (Note: Charge unit corrected to \\(3.5\\times10^{-6}C\\) for realistic physics.)"
     }
   },
-      {
-        "type": "img",
-        "content": "https://lh3.googleusercontent.com/d/1Txuz5ojZMKSYT13sQb47_SNMihqCjeGx",
-        "alt": "Figure 2",
-        "Caption": "Use this diagram to answer the question below"
-    },
-
+  {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1Txuz5ojZMKSYT13sQb47_SNMihqCjeGx",
+    "alt": "Figure 2",
+    "Caption": "Use this diagram to answer the question below"
+  },
+  
   {
     "type": "Question",
     "name": "Question 23",
@@ -528,13 +528,13 @@
       "content": "Remanence (or residual magnetism) is the magnetization left behind after the external field is removed. Retentivity is the capacity to retain this magnetism, but 'Remanence' is the standard term for the property itself."
     }
   },
-        {
-        "type": "img",
-        "content": "https://lh3.googleusercontent.com/d/1U6N0ziWUxL9-hRa3iSl8jFVFrdXFRdxQ",
-        "alt": "Figure 3",
-        "Caption": "Use this diagram to answer the question below"
-    },
-
+  {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1U6N0ziWUxL9-hRa3iSl8jFVFrdXFRdxQ",
+    "alt": "Figure 3",
+    "Caption": "Use this diagram to answer the question below"
+  },
+  
   {
     "type": "Question",
     "name": "Question 26",
@@ -557,13 +557,13 @@
       "content": "Assuming two resistors (e.g., 6Ω and 2Ω) in parallel with a third (6Ω) in series: \\(R_{\\text{parallel}} = \\frac{6 \\times 2}{6 + 2} = 1.5Ω\\). Total \\(R = 6Ω + 1.5Ω = 7.5Ω\\)."
     }
   },
-          {
-        "type": "img",
-        "content": "https://lh3.googleusercontent.com/d/1UAabPojQT1UsnT_OeW_HddFrXmPqeWNl",
-        "alt": "Figure 4",
-        "Caption": "Use this diagram to answer the question below"
-    },
-
+  {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1UAabPojQT1UsnT_OeW_HddFrXmPqeWNl",
+    "alt": "Figure 4",
+    "Caption": "Use this diagram to answer the question below"
+  },
+  
   {
     "type": "Question",
     "name": "Question 27",
