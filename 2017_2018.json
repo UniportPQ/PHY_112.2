@@ -472,7 +472,7 @@
     "Question": {
       "content": "Find the work done in an electric field if the electric potential difference between two points is 50V and the external agent carries a charge of 60\\(\\mu\\)C",
       "type": "OBJ",
-      "options": ["42 \\(\\mu\\)J", "300 \\(\\mu\\)J", "21 × 10⁴ \\(\\mu\\)J", "21 \\(\\mu\\)J"]
+      "options": ["42 \\(\\mu\\)J", "\\(3000 \\mu J\\)", "21 × 10⁴ \\(\\mu\\)J", "21 \\(\\mu\\)J"]
     },
     "Answer": {
       "type": "string",
