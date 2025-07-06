@@ -327,7 +327,7 @@
     "Question": {
       "content": "Three resistors R\\(_1\\) = 1\\(\\Omega\\), R\\(2\\) = 2\\(\\Omega\\) and R\\(3\\) = 3\\(\\Omega\\) are connected in parallel. Find the equivalent resistance",
       "type": "OBJ",
-      "options": ["0.55\\(\\Omega\\)", "0.65\\(\\Omega\\)", "0.75\\(\\Omega\\)", "\\(0.85\\Omega\\)"]
+      "options": ["\\(0.55\\Omega\\)", "0.65\\(\\Omega\\)", "0.75\\(\\Omega\\)", "\\(0.85\\Omega\\)"]
     },
     "Answer": {
       "type": "string",
