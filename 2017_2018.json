@@ -552,7 +552,7 @@
     "Question": {
       "content": "The magnitude of the magnetic force is given by",
       "type": "OBJ",
-      "options": ["\\(F = KILB\\sin\\theta \\)", "\\(F = KILB\\cos\\theta\\)", "\\(F = KILBtan\\theta\\)", "\\(F = KILBcot\\theta \\)"]
+      "options": ["\\(F = KILB\\sin\\theta\\)", "\\(F = KILB\\cos\\theta\\)", "\\(F = KILBtan\\theta\\)", "\\(F = KILBcot\\theta \\)"]
     },
     "Answer": {
       "type": "string",
@@ -890,11 +890,11 @@
     "Question": {
       "content": "The magnitude of exerted force in a magnetic field is",
       "type": "OBJ",
-      "options": ["\\(F \\propto ILB\\cos\\theta\\)", "\\( F \\propto ILB\\tan\\theta\\)", "\\(F \\propto ILB\\sin\\theta \\)", "\\(F \\propto ILB\\cot\\theta\\)"]
+      "options": ["\\(F \\propto ILB\\cos\\theta\\)", "\\( F \\propto ILB\\tan\\theta\\)", "\\( F \\propto ILB\\sin\\theta\\)", "\\(F \\propto ILB\\cot\\theta\\)"]
     },
     "Answer": {
       "type": "string",
-      "content": "\\( F \\propto ILB\\sin\\theta \\)"
+      "content": "\\( F \\propto ILB\\sin\\theta\\)"
     },
     "Explanation": {
       "type": "string",
