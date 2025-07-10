@@ -99,28 +99,28 @@
         "content": "The material between the plates of a capacitor is called a dielectric, which is why Dielectric is the correct answer. A dielectric increases capacitance by reducing the electric field between the plates through polarization. Polarization is a process, not a material. Charge refers to electric charge, not a material. Ionic describes a type of bonding or particles, not the role in a capacitor."
       }
     },
-    {
-      "type": "Question",
-      "name": "Question 5",
-      "Question": {
-        "content": "What is the force between two positive charges 100µC and 200µC when it is separated by a distance of 3 cm",
-        "type": "OBJ",
-        "options": [
-          "20N",
-          "2 x 10¹¹N",
-          "2x10⁸N",
-          "6x10³N"
-        ]
-      },
-      "Answer": {
-        "type": "string",
-        "content": "6x10³N"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": "The force between two point charges is given by Coulomb’s Law, \\( F = k \\frac{q_1 q_2}{r^2} \\), where \\( k \\approx 9 \\times 10^9 \\text{Nm}^2/\\text{C}^2 \\), \\( q_1 = 100 \\mu\\text{C} = 100 \\times 10^{-6} \\text{C} \\), \\( q_2 = 200 \\mu\\text{C} = 200 \\times 10^{-6} \\text{C} \\), and \\( r = 3 \\text{cm} = 0.03 \\text{m} \\). First, \\( q_1 q_2 = 100 \\times 200 \\times 10^{-12} = 2 \\times 10^{-8} \\text{C}^2 \\), and \\( r^2 = (0.03)^2 = 0.0009 \\text{m}^2 \\). So, \\( F = 9 \\times 10^9 \\times \\frac{2 \\times 10^{-8}}{0.0009} = 9 \\times 10^9 \\times \\frac{2}{9} \\times 10^{-4} = 2 \\times 10^5 \\times \\frac{2}{9} \\times 9 \\times 10^9 \\times 10^{-4} = 2 \\times 10^5 \\times 3 = 6 \\times 10^3 \\text{N} \\). This makes 6x10³N the correct answer."
-      }
-    },
+  {
+  "type": "Question",
+  "name": "Question 5",
+  "Question": {
+    "content": "What is the force between two positive charges 100µC and 200µC when it is separated by a distance of 3 cm",
+    "type": "OBJ",
+    "options": [
+      "20N",
+      "2 x 10¹¹N",
+      "2x10⁸N",
+      "6x10³N"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2x10⁵N"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Coulomb's Law Calculation</h3><p>The electrostatic force between two point charges is given by:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>F = k(q₁q₂)/r²</strong></p><p>Where:</p><ul><li><strong>k</strong> (Coulomb's constant) ≈ 9 × 10<sup>9</sup> Nm²/C²</li><li><strong>q₁</strong> = 100 µC = 100 × 10<sup>-6</sup> C</li><li><strong>q₂</strong> = 200 µC = 200 × 10<sup>-6</sup> C</li><li><strong>r</strong> = 3 cm = 0.03 m</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step Solution:</h4><p><strong>1. Calculate q₁ × q₂:</strong><br>100 × 10<sup>-6</sup> C × 200 × 10<sup>-6</sup> C = 2 × 10<sup>-8</sup> C²</p><p><strong>2. Calculate r²:</strong><br>(0.03 m)² = 0.0009 m²</p><p><strong>3. Apply Coulomb's Law:</strong><br>F = (9 × 10<sup>9</sup>) × (2 × 10<sup>-8</sup>)/0.0009</p><p><strong>4. Simplify:</strong><br>= (9 × 10<sup>9</sup>) × (2/9) × 10<sup>-4</sup><br>= 2 × 10<sup>5</sup> N</p></div>"
+  }
+},
     {
       "type": "Question",
       "name": "Question 6",
