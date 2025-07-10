@@ -370,15 +370,15 @@
         "content": "The expression for electric potential energy of an isolated point charge Q at a distance r relative to infinity is given as",
         "type": "OBJ",
         "options": [
-          "V = ∫^B_A E.dl",
-          "V = -q_0 ∫^B_A E.dl",
-          "V = Q / 4π∈_0 r",
-          "V = Q / 4π∈_0 r²"
+          "\\(V = ∫^B_A E.dl\\)",
+          "\\(V = -q_0 ∫^B_A E.dl\\)",
+          "\\(V = Q / 4π∈_0 r\\)",
+          "\\(V = Q / 4π∈_0 r²\\)"
         ]
       },
       "Answer": {
         "type": "string",
-        "content": "V = Q / 4π∈_0 r"
+        "content": "\\(V = Q / 4π∈_0 r\\)"
       },
       "Explanation": {
         "type": "string",
@@ -414,43 +414,44 @@
         "content": "The capacitance of a parallel plate capacitor whose plates have area A and separated by a distance d can be obtained from the expression",
         "type": "OBJ",
         "options": [
-          "C = ∫^∞_0 E.dl",
-          "C = ∈_0 A / d",
-          "C = ∈_0 d / A",
-          "C = ∈_0 A"
+          "\\(C = ∫^∞_0 E.dl\\)",
+          "\\(C = ∈_0 A / d\\)",
+          "\\(C = ∈_0 d / A\\)",
+          "\\(C = ∈_0 A\\)"
         ]
       },
       "Answer": {
         "type": "string",
-        "content": "C = ∈_0 A / d"
+        "content": "\\(C = ∈_0 A / d\\)"
       },
       "Explanation": {
         "type": "string",
         "content": "The capacitance of a parallel plate capacitor is given by \\( C = \\frac{\\epsilon_0 A}{d} \\), where \\( \\epsilon_0 \\) is the permittivity of free space, \\( A \\) is the area of the plates, and \\( d \\) is the separation between them. This makes C = ∈_0 A / d the correct answer. C = ∫^∞_0 E.dl relates to electric potential, not capacitance directly. C = ∈_0 d / A is the inverse of the correct formula, and C = ∈_0 A omits the distance \\( d \\), which is incorrect."
       }
     },
-    {
-      "type": "Question",
-      "name": "Question 20",
-      "Question": {
-        "content": "The equivalent charge of three capacitors 3µF, 12µF and 4µF that are connected in series across a potential difference of 12V is",
-        "type": "OBJ",
-        "options": [
-          "19µC",
-          "1.5µC",
-          "0.1µC",
-          "12µC"
-        ]
-      },
-      "Answer": {
-        "type": "string",
-        "content": "12µC"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": "For capacitors in series, the equivalent capacitance \\( C_{\\text{eq}} \\) is found using \\( \\frac{1}{C_{\\text{eq}}} = \\frac{1}{C_1} + \\frac{1}{C_2} + \\frac{1}{C_3} \\). Here, \\( C_1 = 3 \\mu\\text{F} \\), \\( C_2 = 12 \\mu\\text{F} \\), \\( C_3 = 4 \\mu\\text{F} \\), so \\( \\frac{1}{C_{\\text{eq}}} = \\frac{1}{3} + \\frac{1}{12} + \\frac{1}{4} = \\frac{4 + 1 + 3}{12} = \\frac{8}{12} = \\frac{2}{3} \\), thus \\( C_{\\text{eq}} = \\frac{3}{2} = 1.5 \\mu\\text{F} \\). The charge on capacitors in series is the same and given by \\( Q = C_{\\text{eq}} V \\), where \\( V = 12 \\text{V} \\). So, \\( Q = 1.5 \\times 10^{-6} \\times 12 = 18 \\times 10^{-6} = 18 \\mu\\text{C} \\). However, the question asks for the 'equivalent charge,' and the closest option is 12µC, suggesting a possible miscalculation or error in the question. Let’s recheck: if \\( C_{\\text{eq}} = 1 \\mu\\text{F} \\) (possibly a typo in the question), then \\( Q = 1 \\times 10^{-6} \\times 12 = 12 \\mu\\text{C} \\), matching 12µC. The other options—19µC, 1.5µC, 0.1µC—don’t fit the corrected scenario."
-      }
-    },
+
+{
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+    "content": "The equivalent charge of three capacitors 3µF, 12µF and 4µF that are connected in series across a potential difference of 12V is",
+    "type": "OBJ",
+    "options": [
+      "19µC",
+      "1.5µC",
+      "0.1µC",
+      "12µC"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "18µC"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "For capacitors in series, the equivalent capacitance \\( C_{\\text{eq}} \\) is found using \\( \\frac{1}{C_{\\text{eq}}} = \\frac{1}{C_1} + \\frac{1}{C_2} + \\frac{1}{C_3} \\). Here, \\( C_1 = 3 \\mu\\text{F} \\), \\( C_2 = 12 \\mu\\text{F} \\), \\( C_3 = 4 \\mu\\text{F} \\), so \\( \\frac{1}{C_{\\text{eq}}} = \\frac{1}{3} + \\frac{1}{12} + \\frac{1}{4} = \\frac{4}{12} + \\frac{1}{12} + \\frac{3}{12} = \\frac{8}{12} = \\frac{2}{3} \\), thus \\( C_{\\text{eq}} = \\frac{3}{2} = 1.5 \\mu\\text{F} \\). The charge on capacitors in series is the same and given by \\( Q = C_{\\text{eq}} V \\), where \\( V = 12 \\text{V} \\). So, \\( Q = 1.5 \\mu\\text{F} \\times 12 \\text{V} = 18 \\mu\\text{C} \\). The correct answer is **18µC**, but since it is not listed among the options, the closest reasonable choice is **12µC** (assuming a possible error in the question or options). However, the mathematically derived charge is **18µC**."
+  }
+},
     {
       "type": "Question",
       "name": "Question 21",
