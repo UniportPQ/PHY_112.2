@@ -231,29 +231,28 @@
         "content": "A material that provides zero resistance to electrical currents below a critical temperature is called a superconductor, which is why superconductor is the correct answer. This phenomenon is known as superconductivity. Dielectric refers to an insulating material used in capacitors. Capacitor is a device, not a material. Insulator has high resistance, the opposite of a superconductor."
       }
     },
-    {
-      "type": "Question",
-      "name": "Question 11",
-      "Question": {
-        "content": "When a 5nC test is placed at a point, it experiences a force of 2x10⁴N. What is the electric field E at that point?",
-        "type": "OBJ",
-        "options": [
-          "4 x 10⁵ N/C",
-          "4x10⁴ N/C",
-          "4x10⁵N/C",
-          "4x10⁴N/C"
-        ]
-      },
-      "Answer": {
-        "type": "string",
-        "content": "4x10¹²N/C"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": "The electric field \\( E \\) is defined as \\( E = \\frac{F}{q} \\), where \\( F = 2 \\times 10^4 \\text{N} \\) and \\( q = 5 \\text{nC} = 5 \\times 10^{-9} \\text{C} \\). So, \\( E = \\frac{2 \\times 10^4}{5 \\times 10^{-9}} = \\frac{2}{5} \\times 10^{13} = 0.4 \\times 10^{13} = 4 \\times 10^{12} \\text{N/C} \\). None of the options match exactly (4x10⁵ N/C, 4x10⁴ N/C, etc.), suggesting a possible error in the question or options. Based on the calculation, the answer should be 4x10¹²N/C, but since it’s not an option, I’ll note the discrepancy."
-      }
-    },
-    {
+{
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+    "content": "When a 5nC test is placed at a point, it experiences a force of \\( 2 \\times 10^{-4} N \\). What is the electric field E at that point?",
+    "type": "OBJ",
+    "options": [
+      "4 x 10⁵N/C",
+      "4 x 10⁴N/C",
+      "4 x 10⁵N/C",
+      "4 x 10⁴N/C"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "4 × 10⁴ N/C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div><h3>Step-by-Step Explanation:</h3><ol><li><strong>Given:</strong><ul><li>Test charge, \\( q = 5 \\, \\text{nC} = 5 \\times 10^{-9} \\, \\text{C} \\)</li><li>Force experienced, \\( F = 2 \\times 10^{-4} \\, \\text{N} \\)</li></ul></li><li><strong>Formula:</strong> The electric field \\( E \\) is calculated using:<br>\\[ E = \\frac{F}{q} \\]</li><li><strong>Substitute values:</strong><br>\\[ E = \\frac{2 \\times 10^{-4} \\, \\text{N}}{5 \\times 10^{-9} \\, \\text{C}} \\]</li><li><strong>Simplify:</strong><ul><li>Divide the coefficients: \\( \\frac{2}{5} = 0.4 \\)</li><li>Subtract exponents: \\( 10^{-4 - (-9)} = 10^{5} \\)</li><li>Thus, \\( E = 0.4 \\times 10^{5} \\, \\text{N/C} \\)</li></ul></li><li><strong>Express in scientific notation:</strong><br>\\[ E = 4 \\times 10^{4} \\, \\text{N/C} \\]</li><li><strong>Conclusion:</strong> The electric field at the point is \\( 4 \\times 10^{4} \\, \\text{N/C} \\), which matches options <strong>b</strong> and <strong>d</strong>.</li></ol></div>"
+  }
+},    {
       "type": "Question",
       "name": "Question 12",
       "Question": {
