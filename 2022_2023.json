@@ -678,7 +678,7 @@
   },
   "Explanation": {
     "type": "string",
-    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Circuit Analysis Using Kirchhoff's Voltage Law</h3><p>For loop abcda:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>4I - 24 + 14I + 8 + 8I + 6I = 0</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step Solution:</h4><ol><li>Combine like terms:<br> (4I + 14I + 8I + 6I) + (-24 + 8) = 0 ⇒ 32I - 16 = 0</li><li>Solve for current I:<br> 32I = 16 ⇒ I = 16/32 = <strong>0.5A</strong></li></ol><p style='color: #27ae60;'><em>Verification: The solution matches the provided correct calculation.</em></p></div>"
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Circuit Analysis Using Kirchhoff's Voltage Law</h3><p>For loop abcda:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>4I - 24 + 14I + 8 + 8I + 6I = 0</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step Solution:</h4><ol><li>Combine like terms:<br> (4I + 14I + 8I + 6I) + (-24 + 8) = 0 ⇒ 32I - 16 = 0</li><li>Solve for current I:<br> 32I = 16 ⇒ I = 16/32 = <strong>0.5A</strong></li></ol></div>"
   }
 },
 {
