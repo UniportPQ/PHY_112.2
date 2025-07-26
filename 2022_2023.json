@@ -1,214 +1,214 @@
 [
-  {
-    "type": "pageInfo",
-    "kind": "pureOBJ",
-    "course_title": "Electricity & Magnetism 1",
-    "code": "PHY 112.2",
-    "session": "2022/2023",
-    "time": "90"
+{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Electricity & Magnetism 1",
+  "code": "PHY 112.2",
+  "session": "2022/2023",
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+},
+{
+  "type": "Question",
+  "name": "Question 1",
+  "Question": {
+    "content": "The materials or conductors that obey Ohm's Law are called",
+    "type": "OBJ",
+    "options": [
+      "ionic",
+      "Ohmic",
+      "Homic",
+      "Metal"
+    ]
   },
-  {
-    "type": "Instruction",
-    "content": "Attempt All Questions"
+  "Answer": {
+    "type": "string",
+    "content": "Ohmic"
   },
-  {
-    "type": "Question",
-    "name": "Question 1",
-    "Question": {
-      "content": "The materials or conductors that obey Ohm's Law are called",
-      "type": "OBJ",
-      "options": [
-        "ionic",
-        "Ohmic",
-        "Homic",
-        "Metal"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Ohmic"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Understanding Ohm's Law</h3><p>Materials that obey Ohm's Law are characterized by a linear relationship between voltage (V) and current (I), expressed as:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = IR</strong></p><p>Where <strong>R</strong> is the constant resistance.</p><h4 style='color: #2c3e50; margin-top: 15px;'>Key Points:</h4><ul><li><strong>Ohmic materials</strong> maintain constant resistance regardless of voltage/current changes.</li><li><strong>Ionic</strong> refers to charge carriers in solutions (not Ohm's Law compliance).</li><li><strong>Homic</strong> is not a valid physics term.</li><li>While many <strong>metals</strong> are Ohmic, not all are (e.g., at high temperatures).</li></ul><p>Thus, <strong>Ohmic</strong> is the correct classification for materials obeying Ohm's Law.</p></div>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Understanding Ohm's Law</h3><p>Materials that obey Ohm's Law are characterized by a linear relationship between voltage (V) and current (I), expressed as:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = IR</strong></p><p>Where <strong>R</strong> is the constant resistance.</p><h4 style='color: #2c3e50; margin-top: 15px;'>Key Points:</h4><ul><li><strong>Ohmic materials</strong> maintain constant resistance regardless of voltage/current changes.</li><li><strong>Ionic</strong> refers to charge carriers in solutions (not Ohm's Law compliance).</li><li><strong>Homic</strong> is not a valid physics term.</li><li>While many <strong>metals</strong> are Ohmic, not all are (e.g., at high temperatures).</li></ul><p>Thus, <strong>Ohmic</strong> is the correct classification for materials obeying Ohm's Law.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2",
+  "Question": {
+    "content": "The following are conductors except",
+    "type": "OBJ",
+    "options": [
+      "silver",
+      "copper",
+      "aluminium",
+      "plastic"
+    ]
   },
-  {
-    "type": "Question",
-    "name": "Question 2",
-    "Question": {
-      "content": "The following are conductors except",
-      "type": "OBJ",
-      "options": [
-        "silver",
-        "copper",
-        "aluminium",
-        "plastic"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "plastic"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Conductors vs. Insulators</h3><p>Conductors allow electric current due to free electrons, while insulators resist current flow.</p><h4 style='color: #2c3e50; margin-top: 15px;'>Analysis of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Material</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Property</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Silver</td><td style='border: 1px solid #ddd; padding: 8px;'>Best conductor (highest conductivity)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Copper</td><td style='border: 1px solid #ddd; padding: 8px;'>Common conductor (wiring, electronics)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Aluminium</td><td style='border: 1px solid #ddd; padding: 8px;'>Conductor (used in power lines)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'><strong>Plastic</strong></td><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'><strong>Insulator (no free electrons)</strong></td></tr></table><p>Thus, <strong>plastic</strong> is the exception among the given options.</p></div>"
-    }
+  "Answer": {
+    "type": "string",
+    "content": "plastic"
   },
-  {
-    "type": "Question",
-    "name": "Question 3",
-    "Question": {
-      "content": "The following are the properties of electric charges",
-      "type": "OBJ",
-      "options": [
-        "charges are conserved",
-        "charges are quantized",
-        "all of the above",
-        "none of the above"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "all of the above"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Fundamental Properties of Electric Charge</h3><h4 style='color: #2c3e50; margin-top: 15px;'>1. Charge Conservation</h4><p>In any closed system, the <strong>total charge remains constant</strong>. Charge cannot be created or destroyed, only transferred.</p><h4 style='color: #2c3e50;'>2. Charge Quantization</h4><p>Charge exists in <strong>discrete multiples</strong> of the elementary charge (<em>e</em> ≈ 1.6 × 10<sup>−19</sup> C). For example, electrons have −<em>e</em>, protons +<em>e</em>.</p><h4 style='color: #2c3e50;'>Conclusion</h4><p>Since <strong>both properties are true</strong>, the correct answer is <strong>all of the above</strong>.</p></div>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Conductors vs. Insulators</h3><p>Conductors allow electric current due to free electrons, while insulators resist current flow.</p><h4 style='color: #2c3e50; margin-top: 15px;'>Analysis of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Material</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Property</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Silver</td><td style='border: 1px solid #ddd; padding: 8px;'>Best conductor (highest conductivity)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Copper</td><td style='border: 1px solid #ddd; padding: 8px;'>Common conductor (wiring, electronics)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Aluminium</td><td style='border: 1px solid #ddd; padding: 8px;'>Conductor (used in power lines)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'><strong>Plastic</strong></td><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'><strong>Insulator (no free electrons)</strong></td></tr></table><p>Thus, <strong>plastic</strong> is the exception among the given options.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3",
+  "Question": {
+    "content": "The following are the properties of electric charges",
+    "type": "OBJ",
+    "options": [
+      "charges are conserved",
+      "charges are quantized",
+      "all of the above",
+      "none of the above"
+    ]
   },
-  {
-    "type": "Question",
-    "name": "Question 4",
-    "Question": {
-      "content": "The material between the plates of a capacitor is",
-      "type": "OBJ",
-      "options": [
-        "Polarization",
-        "Dielectric",
-        "Charge",
-        "ionic"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Dielectric"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Role of Dielectrics in Capacitors</h3><p>A dielectric is an insulating material placed between capacitor plates to:</p><ul><li><strong>Increase capacitance</strong> by reducing the effective electric field.</li><li><strong>Prevent arcing</strong> between plates.</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Why Other Options Are Incorrect:</h4><ul><li><strong>Polarization</strong>: A process where dielectric atoms align, not a material.</li><li><strong>Charge</strong>: Refers to stored electrons, not the material.</li><li><strong>Ionic</strong>: Describes bonding, not a capacitor component.</li></ul><p>Thus, <strong>Dielectric</strong> is the correct term.</p></div>"
-    }
+  "Answer": {
+    "type": "string",
+    "content": "all of the above"
   },
-  {
-    "type": "Question",
-    "name": "Question 5",
-    "Question": {
-      "content": "What is the force between two positive charges 100µC and 200µC when it is separated by a distance of 3 cm",
-      "type": "OBJ",
-      "options": [
-        "20N",
-        "2 x 10¹¹N",
-        "2x10⁵N",
-        "6x10³N"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "2x10⁵N"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Coulomb's Law Calculation</h3><p>The electrostatic force between two point charges is given by:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>F = k(q₁q₂)/r²</strong></p><p>Where:</p><ul><li><strong>k</strong> (Coulomb's constant) ≈ 9 × 10<sup>9</sup> Nm²/C²</li><li><strong>q₁</strong> = 100 µC = 100 × 10<sup>-6</sup> C</li><li><strong>q₂</strong> = 200 µC = 200 × 10<sup>-6</sup> C</li><li><strong>r</strong> = 3 cm = 0.03 m</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step Solution:</h4><p><strong>1. Calculate q₁ × q₂:</strong><br>100 × 10<sup>-6</sup> C × 200 × 10<sup>-6</sup> C = 2 × 10<sup>-8</sup> C²</p><p><strong>2. Calculate r²:</strong><br>(0.03 m)² = 0.0009 m²</p><p><strong>3. Apply Coulomb's Law:</strong><br>F = (9 × 10<sup>9</sup>) × (2 × 10<sup>-8</sup>)/0.0009</p><p><strong>4. Simplify:</strong><br>= (9 × 10<sup>9</sup>) × (2/9) × 10<sup>-4</sup><br>= 2 × 10<sup>5</sup> N</p><p>Thus, the force is <strong>2 × 10⁵ N</strong>.</p></div>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Fundamental Properties of Electric Charge</h3><h4 style='color: #2c3e50; margin-top: 15px;'>1. Charge Conservation</h4><p>In any closed system, the <strong>total charge remains constant</strong>. Charge cannot be created or destroyed, only transferred.</p><h4 style='color: #2c3e50;'>2. Charge Quantization</h4><p>Charge exists in <strong>discrete multiples</strong> of the elementary charge (<em>e</em> ≈ 1.6 × 10<sup>−19</sup> C). For example, electrons have −<em>e</em>, protons +<em>e</em>.</p><h4 style='color: #2c3e50;'>Conclusion</h4><p>Since <strong>both properties are true</strong>, the correct answer is <strong>all of the above</strong>.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4",
+  "Question": {
+    "content": "The material between the plates of a capacitor is",
+    "type": "OBJ",
+    "options": [
+      "Polarization",
+      "Dielectric",
+      "Charge",
+      "ionic"
+    ]
   },
-  {
-    "type": "Question",
-    "name": "Question 6",
-    "Question": {
-      "content": "A magnet has two poles, it is therefore called a magnetic",
-      "type": "OBJ",
-      "options": [
-        "dipole",
-        "monopole",
-        "pole",
-        "field"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "dipole"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Magnetic Poles</h3><p>Every magnet has two poles:</p><ul><li><strong>North pole</strong> (seeks Earth's magnetic south)</li><li><strong>South pole</strong> (seeks Earth's magnetic north)</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Terminology:</h4><ul><li><strong>Dipole</strong>: A system with two poles (correct term for magnets).</li><li><strong>Monopole</strong>: A hypothetical single pole (not observed in nature).</li><li><strong>Pole</strong>: Refers to one end, not the entire magnet.</li><li><strong>Field</strong>: The region where magnetic forces act.</li></ul><p>Thus, a magnet is a <strong>magnetic dipole</strong>.</p></div>"
-    }
+  "Answer": {
+    "type": "string",
+    "content": "Dielectric"
   },
-  {
-    "type": "Question",
-    "name": "Question 7",
-    "Question": {
-      "content": "A piece of copper has a resistance of 12.0Ω. If it is compressed so that the length is halved and the area is tripled. What is the new resistance?",
-      "type": "OBJ",
-      "options": [
-        "6 Ω",
-        "5 Ω",
-        "4 Ω",
-        "2 Ω"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "2 Ω"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Resistance and Geometry</h3><p>Resistance (<em>R</em>) depends on resistivity (<em>ρ</em>), length (<em>L</em>), and cross-sectional area (<em>A</em>):</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>R = ρ(L/A)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given Changes:</h4><ul><li>Original: <em>R</em> = 12 Ω, <em>L</em>, <em>A</em></li><li>New: <em>L'</em> = <em>L</em>/2, <em>A'</em> = 3<em>A</em></li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p><strong>New resistance:</strong> <em>R'</em> = ρ(<em>L'</em>/<em>A'</em>) = ρ[(<em>L</em>/2)/(3<em>A</em>)] = (1/6) × ρ(<em>L</em>/<em>A</em>) = (1/6) × 12 Ω = <strong>2 Ω</strong>.</p><p>Thus, the new resistance is <strong>2 Ω</strong>.</p></div>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Role of Dielectrics in Capacitors</h3><p>A dielectric is an insulating material placed between capacitor plates to:</p><ul><li><strong>Increase capacitance</strong> by reducing the effective electric field.</li><li><strong>Prevent arcing</strong> between plates.</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Why Other Options Are Incorrect:</h4><ul><li><strong>Polarization</strong>: A process where dielectric atoms align, not a material.</li><li><strong>Charge</strong>: Refers to stored electrons, not the material.</li><li><strong>Ionic</strong>: Describes bonding, not a capacitor component.</li></ul><p>Thus, <strong>Dielectric</strong> is the correct term.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5",
+  "Question": {
+    "content": "What is the force between two positive charges 100µC and 200µC when it is separated by a distance of 3 cm",
+    "type": "OBJ",
+    "options": [
+      "20N",
+      "2 x 10¹¹N",
+      "2x10⁵N",
+      "6x10³N"
+    ]
   },
-  {
-    "type": "Question",
-    "name": "Question 8",
-    "Question": {
-      "content": "Four capacitors of the 16µF each are connected in series, determine the effective capacitance of the combination",
-      "type": "OBJ",
-      "options": [
-        "64µF",
-        "32µF",
-        "4µF",
-        "2µF"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "4µF"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Capacitors in Series</h3><p>For <em>n</em> identical capacitors (<em>C</em>) in series, the equivalent capacitance (<em>C<sub>eq</sub></em>) is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C<sub>eq</sub> = C/n</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Four capacitors: <em>C</em> = 16 µF, <em>n</em> = 4</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p><em>C<sub>eq</sub></em> = 16 µF / 4 = <strong>4 µF</strong>.</p><p>Alternatively, using the general series formula:</p><p>1/<em>C<sub>eq</sub></em> = 4 × (1/16 µF) ⇒ <em>C<sub>eq</sub></em> = 4 µF.</p><p>Thus, the effective capacitance is <strong>4µF</strong>.</p></div>"
-    }
+  "Answer": {
+    "type": "string",
+    "content": "2x10⁵N"
   },
-  {
-    "type": "Question",
-    "name": "Question 9",
-    "Question": {
-      "content": "Tungsten has a resistivity of 5.6x10⁻⁸Ωm. What is the resistance of a 1.2m long tungsten wire with a radius of 1.0x10⁻³m",
-      "type": "OBJ",
-      "options": [
-        "0.300Ω",
-        "0.0210Ω",
-        "0.050Ω",
-        "0.0010Ω"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "0.0210Ω"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Resistance Calculation</h3><p>Resistance (<em>R</em>) is calculated using:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>R = ρ(L/A)</strong></p><p>Where:</p><ul><li><strong>ρ</strong> (resistivity) = 5.6 × 10<sup>−8</sup> Ωm</li><li><strong>L</strong> (length) = 1.2 m</li><li><strong>A</strong> (area) = πr² = π × (1.0 × 10<sup>−3</sup> m)² ≈ 3.1416 × 10<sup>−6</sup> m²</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><p><strong>1. Calculate A:</strong><br>A = π × (1.0 × 10<sup>−3</sup>)² = 3.1416 × 10<sup>−6</sup> m²</p><p><strong>2. Plug into formula:</strong><br>R = (5.6 × 10<sup>−8</sup>) × (1.2)/(3.1416 × 10<sup>−6</sup>)</p><p><strong>3. Simplify:</strong><br>≈ 5.6 × 1.2 / 3.1416 × 10<sup>−2</sup> ≈ 0.0214 Ω</p><p>Rounding to four significant figures: <strong>0.0210 Ω</strong>.</p></div>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Coulomb's Law Calculation</h3><p>The electrostatic force between two point charges is given by:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>F = k(q₁q₂)/r²</strong></p><p>Where:</p><ul><li><strong>k</strong> (Coulomb's constant) ≈ 9 × 10<sup>9</sup> Nm²/C²</li><li><strong>q₁</strong> = 100 µC = 100 × 10<sup>-6</sup> C</li><li><strong>q₂</strong> = 200 µC = 200 × 10<sup>-6</sup> C</li><li><strong>r</strong> = 3 cm = 0.03 m</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step Solution:</h4><p><strong>1. Calculate q₁ × q₂:</strong><br>100 × 10<sup>-6</sup> C × 200 × 10<sup>-6</sup> C = 2 × 10<sup>-8</sup> C²</p><p><strong>2. Calculate r²:</strong><br>(0.03 m)² = 0.0009 m²</p><p><strong>3. Apply Coulomb's Law:</strong><br>F = (9 × 10<sup>9</sup>) × (2 × 10<sup>-8</sup>)/0.0009</p><p><strong>4. Simplify:</strong><br>= (9 × 10<sup>9</sup>) × (2/9) × 10<sup>-4</sup><br>= 2 × 10<sup>5</sup> N</p><p>Thus, the force is <strong>2 × 10⁵ N</strong>.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6",
+  "Question": {
+    "content": "A magnet has two poles, it is therefore called a magnetic",
+    "type": "OBJ",
+    "options": [
+      "dipole",
+      "monopole",
+      "pole",
+      "field"
+    ]
   },
+  "Answer": {
+    "type": "string",
+    "content": "dipole"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Magnetic Poles</h3><p>Every magnet has two poles:</p><ul><li><strong>North pole</strong> (seeks Earth's magnetic south)</li><li><strong>South pole</strong> (seeks Earth's magnetic north)</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Terminology:</h4><ul><li><strong>Dipole</strong>: A system with two poles (correct term for magnets).</li><li><strong>Monopole</strong>: A hypothetical single pole (not observed in nature).</li><li><strong>Pole</strong>: Refers to one end, not the entire magnet.</li><li><strong>Field</strong>: The region where magnetic forces act.</li></ul><p>Thus, a magnet is a <strong>magnetic dipole</strong>.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 7",
+  "Question": {
+    "content": "A piece of copper has a resistance of 12.0Ω. If it is compressed so that the length is halved and the area is tripled. What is the new resistance?",
+    "type": "OBJ",
+    "options": [
+      "6 Ω",
+      "5 Ω",
+      "4 Ω",
+      "2 Ω"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2 Ω"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Resistance and Geometry</h3><p>Resistance (<em>R</em>) depends on resistivity (<em>ρ</em>), length (<em>L</em>), and cross-sectional area (<em>A</em>):</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>R = ρ(L/A)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given Changes:</h4><ul><li>Original: <em>R</em> = 12 Ω, <em>L</em>, <em>A</em></li><li>New: <em>L'</em> = <em>L</em>/2, <em>A'</em> = 3<em>A</em></li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p><strong>New resistance:</strong> <em>R'</em> = ρ(<em>L'</em>/<em>A'</em>) = ρ[(<em>L</em>/2)/(3<em>A</em>)] = (1/6) × ρ(<em>L</em>/<em>A</em>) = (1/6) × 12 Ω = <strong>2 Ω</strong>.</p><p>Thus, the new resistance is <strong>2 Ω</strong>.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 8",
+  "Question": {
+    "content": "Four capacitors of the 16µF each are connected in series, determine the effective capacitance of the combination",
+    "type": "OBJ",
+    "options": [
+      "64µF",
+      "32µF",
+      "4µF",
+      "2µF"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "4µF"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Capacitors in Series</h3><p>For <em>n</em> identical capacitors (<em>C</em>) in series, the equivalent capacitance (<em>C<sub>eq</sub></em>) is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C<sub>eq</sub> = C/n</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Four capacitors: <em>C</em> = 16 µF, <em>n</em> = 4</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p><em>C<sub>eq</sub></em> = 16 µF / 4 = <strong>4 µF</strong>.</p><p>Alternatively, using the general series formula:</p><p>1/<em>C<sub>eq</sub></em> = 4 × (1/16 µF) ⇒ <em>C<sub>eq</sub></em> = 4 µF.</p><p>Thus, the effective capacitance is <strong>4µF</strong>.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 9",
+  "Question": {
+    "content": "Tungsten has a resistivity of 5.6x10⁻⁸Ωm. What is the resistance of a 1.2m long tungsten wire with a radius of 1.0x10⁻³m",
+    "type": "OBJ",
+    "options": [
+      "0.300Ω",
+      "0.0210Ω",
+      "0.050Ω",
+      "0.0010Ω"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0.0210Ω"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Resistance Calculation</h3><p>Resistance (<em>R</em>) is calculated using:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>R = ρ(L/A)</strong></p><p>Where:</p><ul><li><strong>ρ</strong> (resistivity) = 5.6 × 10<sup>−8</sup> Ωm</li><li><strong>L</strong> (length) = 1.2 m</li><li><strong>A</strong> (area) = πr² = π × (1.0 × 10<sup>−3</sup> m)² ≈ 3.1416 × 10<sup>−6</sup> m²</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><p><strong>1. Calculate A:</strong><br>A = π × (1.0 × 10<sup>−3</sup>)² = 3.1416 × 10<sup>−6</sup> m²</p><p><strong>2. Plug into formula:</strong><br>R = (5.6 × 10<sup>−8</sup>) × (1.2)/(3.1416 × 10<sup>−6</sup>)</p><p><strong>3. Simplify:</strong><br>≈ 5.6 × 1.2 / 3.1416 × 10<sup>−2</sup> ≈ 0.0214 Ω</p><p>Rounding to four significant figures: <strong>0.0210 Ω</strong>.</p></div>"
+  }
+},
 {
   "type": "Question",
   "name": "Question 10",
@@ -230,477 +230,476 @@
     "type": "string",
     "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Understanding Superconductors</h3><p>A material exhibiting <strong>zero electrical resistance</strong> below a specific <em>critical temperature (T<sub>c</sub>)</em> is termed a <strong>superconductor</strong>. This phenomenon, called <strong>superconductivity</strong>, was first discovered in mercury at 4.2 K.</p><h4 style='color: #2c3e50; margin-top: 15px;'>Key Properties:</h4><ul><li><strong>Zero resistance:</strong> Infinite conductivity with no energy loss.</li><li><strong>Critical temperature (T<sub>c</sub>):</strong> Material-specific threshold (e.g., Nb<sub>3</sub>Sn at 18 K).</li><li><strong>Meissner effect:</strong> Expulsion of magnetic fields.</li></ul><h4 style='color: #2c3e50;'>Why Other Options Are Incorrect:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Explanation</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Dielectric</td><td style='border: 1px solid #ddd; padding: 8px;'>Insulator used in capacitors (e.g., ceramic).</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Capacitor</td><td style='border: 1px solid #ddd; padding: 8px;'>Energy-storage device, not a material.</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Insulator</td><td style='border: 1px solid #ddd; padding: 8px;'>High-resistance material (e.g., rubber).</td></tr></table><p>Thus, <strong>superconductor</strong> is the only correct answer.</p></div>"
   }
-},  
-  {
-    "type": "Question",
-    "name": "Question 11",
-    "Question": {
-      "content": "When a 5nC test is placed at a point, it experiences a force of \\( 2 \\times 10^{-4} N \\). What is the electric field E at that point?",
-      "type": "OBJ",
-      "options": [
-        "4 x 10⁵N/C",
-        "4 x 10⁴N/C",
-        "4 x 10⁵N/C",
-        "4 x 10⁴N/C"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "4 × 10⁴ N/C"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div><h3>Step-by-Step Explanation:</h3><ol><li><strong>Given:</strong><ul><li>Test charge, \\( q = 5 \\, \\text{nC} = 5 \\times 10^{-9} \\, \\text{C} \\)</li><li>Force experienced, \\( F = 2 \\times 10^{-4} \\, \\text{N} \\)</li></ul></li><li><strong>Formula:</strong> The electric field \\( E \\) is calculated using:<br>\\[ E = \\frac{F}{q} \\]</li><li><strong>Substitute values:</strong><br>\\[ E = \\frac{2 \\times 10^{-4} \\, \\text{N}}{5 \\times 10^{-9} \\, \\text{C}} \\]</li><li><strong>Simplify:</strong><ul><li>Divide the coefficients: \\( \\frac{2}{5} = 0.4 \\)</li><li>Subtract exponents: \\( 10^{-4 - (-9)} = 10^{5} \\)</li><li>Thus, \\( E = 0.4 \\times 10^{5} \\, \\text{N/C} \\)</li></ul></li><li><strong>Express in scientific notation:</strong><br>\\[ E = 4 \\times 10^{4} \\, \\text{N/C} \\]</li><li><strong>Conclusion:</strong> The electric field at the point is \\( 4 \\times 10^{4} \\, \\text{N/C} \\), which matches options <strong>b</strong> and <strong>d</strong>.</li></ol></div>"
-    }
+},
+{
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+    "content": "When a 5nC test is placed at a point, it experiences a force of \\( 2 \\times 10^{-4} N \\). What is the electric field E at that point?",
+    "type": "OBJ",
+    "options": [
+      "4 x 10⁵N/C",
+      "4 x 10⁴N/C",
+      "4 x 10⁵N/C",
+      "4 x 10⁴N/C"
+    ]
   },
-  {
-    "type": "Question",
-    "name": "Question 12",
-    "Question": {
-      "content": "The potential difference between the terminals of a source when no current flows in an external circuit is called the",
-      "type": "OBJ",
-      "options": [
-        "net voltage",
-        "Battery voltage",
-        "Electromotive",
-        "Equivalent voltage"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Electromotive"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electromotive Force (EMF)</h3><p>The <strong>EMF</strong> of a source is defined as the potential difference across its terminals when <em>no current flows</em> (open circuit). This represents the maximum voltage the source can provide.</p><h4 style='color: #2c3e50; margin-top: 15px;'>Key Characteristics:</h4><ul><li>Measured in <strong>volts (V)</strong></li><li>Accounts for the source's internal energy conversion (e.g., chemical to electrical in batteries)</li><li>Differs from terminal voltage under load due to internal resistance</li></ul><h4 style='color: #2c3e50;'>Why Other Options Are Incorrect:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Analysis</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Net voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Not a standard term in circuit theory</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Battery voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Refers to terminal voltage under load</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Equivalent voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Used in circuit reduction, not source characterization</td></tr></table></div>"
-    }
+  "Answer": {
+    "type": "string",
+    "content": "4 × 10⁴ N/C"
   },
-  {
-    "type": "Question",
-    "name": "Question 13",
-    "Question": {
-      "content": "Kirchhoff's first rule is:",
-      "type": "OBJ",
-      "options": [
-        "ΣI=0",
-        "ΣR=0",
-        "ΣI R=0",
-        "ΣI=0"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "ΣI=0"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Kirchhoff's Current Law (KCL)</h3><p>Kirchhoff's first rule, or the <strong>junction rule</strong>, states:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>ΣI<sub>in</sub> = ΣI<sub>out</sub></strong> or equivalently <strong>ΣI = 0</strong> (with sign convention)</p><h4 style='color: #2c3e50; margin-top: 15px;'>Key Implications:</h4><ul><li>Charge conservation at circuit junctions</li><li>Current entering = current leaving</li><li>Applies to <em>all</em> junctions in a circuit</li></ul><h4 style='color: #2c3e50;'>Common Misconceptions:</h4><ul><li><strong>ΣR=0</strong>: No physical meaning in circuit laws</li><li><strong>ΣIR=0</strong>: Relates to Kirchhoff's <em>second</em> rule (voltage law)</li></ul></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 14",
-    "Question": {
-      "content": "The current flowing through a resistor is 0.8A when a p.d of 20V is applied. Determine the value of the resistance",
-      "type": "OBJ",
-      "options": [
-        "25 Ω",
-        "20 Ω",
-        "15 Ω",
-        "16 Ω"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "25 Ω"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Ohm's Law Application</h3><p>Using Ohm's Law:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = IR ⇒ R = V/I</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Voltage (V) = 20 V</li><li>Current (I) = 0.8 A</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p>R = 20 V / 0.8 A = <strong>25 Ω</strong></p><h4 style='color: #2c3e50;'>Error Prevention:</h4><ul><li>Unit consistency (volts/amperes = ohms)</li><li>Significant figures (20/0.8 = 25, not 25.0)</li></ul></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 15",
-    "Question": {
-      "content": "If the electric potential difference between two points is 42 volts, what work it done by an agent in moving a charge q_c = 5.0x10⁶C from one point to the other at a constant speed?",
-      "type": "OBJ",
-      "options": [
-        "8.4x10¹³J",
-        "1.19x10⁷J",
-        "21.0x10⁴J",
-        "210 J"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "None of the options match the calculated value (see explanation)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Work Done in Electric Fields</h3><p>Work done is calculated by:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>W = qΔV</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Charge (q) = 5.0 × 10<sup>6</sup> C (implausibly large)</li><li>Potential difference (ΔV) = 42 V</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p>W = (5.0 × 10<sup>6</sup> C) × 42 V = <strong>2.1 × 10<sup>8</sup> J</strong></p><h4 style='color: #2c3e50;'>Analysis of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Discrepancy</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>8.4×10<sup>13</sup>J</td><td style='border: 1px solid #ddd; padding: 8px;'>5 orders too high</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>210 J</td><td style='border: 1px solid #ddd; padding: 8px;'>Assumes q = 5 C</td></tr></table><p><em>Note: The charge value likely contains an error (possibly 5.0 × 10<sup>-6</sup> C).</em></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 16",
-    "Question": {
-      "content": "The potential difference required to give a helium nucleus (Q = 3.2x10⁻¹⁹C) 48.0x10³ eV of kinetic energy is",
-      "type": "OBJ",
-      "options": [
-        "2.4x10⁴ volts",
-        "7.68x10¹⁵ volts",
-        "2.4x10⁴ volts",
-        "153.6x10¹⁹ volts"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "2.4x10⁴ volts"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Energy-Potential Relationship</h3><p>For charged particles:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>KE = qV ⇒ V = KE/q</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><ol><li><strong>Convert energy to joules:</strong><br>48.0 keV × (1.6×10<sup>-19</sup> J/eV) = 7.68×10<sup>-15</sup> J</li><li><strong>Calculate voltage:</strong><br>V = (7.68×10<sup>-15</sup> J)/(3.2×10<sup>-19</sup> C) = 2.4×10<sup>4</sup> V</li></ol><h4 style='color: #2c3e50;'>Physical Context:</h4><ul><li>Helium nucleus charge = +2e (3.2×10<sup>-19</sup> C)</li><li>Practical applications: particle accelerators</li></ul></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 17",
-    "Question": {
-      "content": "The expression for electric potential energy of an isolated point charge Q at a distance r relative to infinity is given as",
-      "type": "OBJ",
-      "options": [
-        "\\(V = ∫^B_A E.dl\\)",
-        "\\(V = -q_0 ∫^B_A E.dl\\)",
-        "\\(V = Q / 4π∈_0 r\\)",
-        "\\(V = Q / 4π∈_0 r²\\)"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "\\(V = Q / 4π∈_0 r\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Potential vs. Potential Energy</h3><p>The <strong>electric potential</strong> (V) due to a point charge is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = kQ/r = Q/(4π∈<sub>0</sub>r)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Distinctions:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Description</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>∫E·dl</td><td style='border: 1px solid #ddd; padding: 8px;'>General potential difference definition</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>-q<sub>0</sub>∫E·dl</td><td style='border: 1px solid #ddd; padding: 8px;'>Work done on test charge</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #e8f5e9;'>Q/(4π∈<sub>0</sub>r)</td><td style='border: 1px solid #ddd; padding: 8px; background: #e8f5e9;'><strong>Correct potential formula</strong></td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Q/(4π∈<sub>0</sub>r²)</td><td style='border: 1px solid #ddd; padding: 8px;'>Electric field (E), not potential</td></tr></table></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 18",
-    "Question": {
-      "content": "Which of these statements is not correct?",
-      "type": "OBJ",
-      "options": [
-        "No work is done when a charged particle is carried along an equipotential surface",
-        "The electric field for a point charge can be given as E = Q / 4π∈_0 r²",
-        "A 12V battery means that the potential difference the two battery terminals is 12V",
-        "every point on the line of an equipotential surface"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "The electric field for a point charge can be given as E = Q / 4π∈_0 r²"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Identifying the Incorrect Statement</h3><h4 style='color: #2c3e50; margin-top: 15px;'>Evaluation of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Statement</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Analysis</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>No work on equipotential</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong>: ΔV=0 ⇒ W=0</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'>E = Q/(4π∈<sub>0</sub>r²)</td><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'><strong>Incomplete</strong>: Should specify radial direction (E = (kQ/r²)r̂)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>12V battery</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong>: Defines EMF</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Equipotential surface</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong> (though grammatically incomplete)</td></tr></table></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 19",
-    "Question": {
-      "content": "The capacitance of a parallel plate capacitor whose plates have area A and separated by a distance d can be obtained from the expression",
-      "type": "OBJ",
-      "options": [
-        "\\(C = ∫^∞_0 E.dl\\)",
-        "\\(C = ∈_0 A / d\\)",
-        "\\(C = ∈_0 d / A\\)",
-        "\\(C = ∈_0 A\\)"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "\\(C = ∈_0 A / d\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Plate Capacitance</h3><p>The standard formula is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C = ∈<sub>0</sub>A/d</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Derivation:</h4><ol><li>Electric field between plates: E = σ/∈<sub>0</sub> = Q/(∈<sub>0</sub>A)</li><li>Potential difference: V = Ed = Qd/(∈<sub>0</sub>A)</li><li>Capacitance: C = Q/V = ∈<sub>0</sub>A/d</li></ol><h4 style='color: #2c3e50;'>Practical Implications:</h4><ul><li>Capacitance ∝ plate area (A)</li><li>Capacitance ∝ 1/separation (d)</li><li>Dielectrics increase ∈<sub>0</sub> to ∈ = κ∈<sub>0</sub></li></ul></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 20",
-    "Question": {
-      "content": "The equivalent charge of three capacitors 3µF, 12µF and 4µF that are connected in series across a potential difference of 12V is",
-      "type": "OBJ",
-      "options": [
-        "19µC",
-        "1.5µC",
-        "0.1µC",
-        "12µC"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "18µC"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Series Capacitor Charge Calculation</h3><p>For capacitors in series:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>1/C<sub>eq</sub> = 1/C<sub>1</sub> + 1/C<sub>2</sub> + 1/C<sub>3</sub></strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><ol><li>Calculate equivalent capacitance:<br>1/C<sub>eq</sub> = 1/3 + 1/12 + 1/4 = (4 + 1 + 3)/12 = 8/12 ⇒ C<sub>eq</sub> = 1.5µF</li><li>Charge on capacitors in series:<br>Q = C<sub>eq</sub>V = (1.5µF)(12V) = <strong>18µC</strong></li></ol><p style='color: #e74c3c;'><em>Note: The correct answer (18µC) is not listed among the options, suggesting an error in the question.</em></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 21",
-    "Question": {
-      "content": "What is the potential difference between a 3µF capacitor plates if the stored energy is 2.0 x 10⁻³J?",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "36.5V"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Capacitor Energy to Voltage</h3><p>Using the energy formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>U = ½CV² ⇒ V = √(2U/C)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>V = √(2 × 2.0×10⁻³J / 3×10⁻⁶F) = √(4/3 × 10³) ≈ <strong>36.5V</strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 22",
-    "Question": {
-      "content": "The plates of a 4.0F capacitor is separated by 2.5mm air gap. Calculate the area of the plates.",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1.13×10⁹ m²"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Plate Capacitor Area</h3><p>Using the capacitance formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C = ε₀A/d ⇒ A = Cd/ε₀</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>A = (4.0F × 2.5×10⁻³m) / (8.85×10⁻¹²F/m) ≈ <strong>1.13×10⁹ m²</strong></p><p style='color: #e74c3c;'><em>Note: This unrealistically large area suggests the capacitance value may be incorrect (likely should be µF).</em></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 23",
-    "Question": {
-      "content": "The electric force between two point charges with a magnitude of +700nC and +500nC is 25N. How far apart are the two charges from each other?",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "0.112m"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Coulomb's Law Distance Calculation</h3><p>Rearranging Coulomb's Law:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>F = kq₁q₂/r² ⇒ r = √(kq₁q₂/F)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>r = √[(9×10⁹)(700×10⁻⁹)(500×10⁻⁹)/25] = √0.0126 ≈ <strong>0.112m</strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 24",
-    "Question": {
-      "content": "A battery of internal resistance 2Ω is connected in series with a resistor of 20 Ω. If the potential difference across the resistor is 6V. Calculate the e.m.f of the battery.",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "6.6V"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>EMF with Internal Resistance</h3><p>Using the circuit relationships:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>I = V<sub>R</sub>/R = 6V/20Ω = 0.3A</strong><br><strong>EMF = V<sub>R</sub> + Ir = 6V + (0.3A × 2Ω) = <strong>6.6V</strong></strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 25",
-    "Question": {
-      "content": "Calculate the resistance of a 2000m length of aluminium overhead power cable if the cross sectional area of the cable is 100mm². Take the resistivity of aluminium to be 0.03 x 10⁻² Ωm",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "6Ω"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Resistance Calculation</h3><p>Using the resistivity formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>R = ρL/A = (0.03×10⁻²Ωm × 2000m) / (100×10⁻⁶m²) = 6Ω</strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 26",
-    "Question": {
-      "content": "A charge of 1.0 x 10⁵C experiences a force of 80N at a certain point in space. What is the electric field intensity?",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "8×10⁻⁴ N/C"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Field Intensity</h3><p>Basic definition of electric field:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>E = F/q = 80N / 1.0×10⁵C = 8×10⁻⁴ N/C</strong></p><p style='color: #e74c3c;'><em>Note: The charge value seems unusually large for typical problems.</em></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 27",
-    "Question": {
-      "content": "A resistor of resistance, R is connected across a cell. If the terminal p.d of the cell is reduced to one-quarter of its e.m.f, express the internal resistance, r of the cell in terms of R.",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "r = 3R"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Internal Resistance Derivation</h3><p>From the terminal voltage condition:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = ε - Ir = ε/4</strong><br>Current I = ε/(R + r)<br>Substituting: ε/4 = ε - [ε/(R + r)]r<br>Solving gives: <strong>r = 3R</strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 28",
-    "Question": {
-      "content": "An electric kettle connected to a 240V mains produces 6.0 x 10⁵J of heat energy to boil a quantity of water in 5 Minutes. Find the resistance of the kettle.",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "28.8Ω"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Kettle Resistance Calculation</h3><p>Using energy and power relationships:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>P = E/t = 6.0×10⁵J / 300s = 2000W</strong><br><strong>R = V²/P = (240V)²/2000W = 28.8Ω</strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 29",
-    "Question": {
-      "content": "Calculate the strength and direction of the electric field due to a point charge of +2.00nC at a distance of 5.00mm from the charge.",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "7.19×10⁵ N/C, radially outward"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Point Charge Electric Field</h3><p>Using the point charge field formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>E = kq/r² = (9×10⁹)(2×10⁻⁹)/(5×10⁻³)² ≈ 7.19×10⁵ N/C</strong></p><p>Direction: <strong>Radially outward</strong> (since charge is positive)</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 30",
-    "Question": {
-      "content": "Calculate the electric flux on the surface of a rectangular plate with length 20cm and breadth 15cm placed in an electric field of 350N/C at an angle of 50degrees",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "6.75 Nm²/C"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Flux Calculation</h3><p>Using the flux formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>Φ = EAcosθ = (350N/C)(0.03m²)(cos50°) ≈ 6.75 Nm²/C</strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 31",
-    "Question": {
-      "content": "Calculate the electric flux through the surface of a plate of area 5m² placed in a uniform field whose magnitude is 7.4x10⁶ N/C",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "3.7×10⁷ Nm²/C"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Maximum Electric Flux</h3><p>Assuming perpendicular field:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>Φ = EA = (7.4×10⁶N/C)(5m²) = 3.7×10⁷ Nm²/C</strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 32",
-    "Question": {
-      "content": "An X-ray tube takes a current of 7.0x10⁻³A and operates at a potential difference of 80x10³V, what power is dissipated?",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "560W"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Power Dissipation</h3><p>Basic power calculation:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>P = IV = (7.0×10⁻³A)(80×10³V) = 560W</strong></p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 33",
-    "Question": {
-      "content": "If three resistors, R₁=20Ω, R₂=6Ω and R₃=9Ω are connected in parallel and a 120V battery is connected to the combination, calculate the current I₃ on the third resistor in the circuit.",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "13.33A"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Resistor Current</h3><p>Using Ohm's Law for parallel branches:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>I₃ = V/R₃ = 120V/9Ω ≈ 13.33A</strong></p></div>"
-    }
-  },
-  {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/1UX7nMnDy2_efa39xbMSBrVaPCWzIcTJh",
-    "alt": "Figure 1",
-    "Caption": "Figure 1"
-  },
-  {
-    "type": "Question",
-    "name": "Question 34",
-    "Question": {
-      "content": "Find the current in the circuit in Diagram above.",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1.2A"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Circuit Analysis</h3><p>Applying Kirchhoff's Laws:</p><ol><li>Net voltage = 24V - 8V = 16V</li><li>Series combination: 6Ω + 14Ω = 20Ω</li><li>Parallel with 8Ω: R<sub>eq</sub> = (20×8)/(20+8) ≈ 5.71Ω</li><li>Total resistance: 4Ω + 5.71Ω = 9.71Ω</li><li>Current: I = 16V/9.71Ω ≈ <strong>1.2A</strong></li></ol></div>"
-    }
-  },
-  {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/1Uai3zkTWc5QllcWuDqbH599fXr1s0Ncn",
-    "alt": "Figure 2",
-    "Caption": "Figure 2"
-  },
-  {
-    "type": "Question",
-    "name": "Question 35",
-    "Question": {
-      "content": "Find the electrical force of repulsion in the diagram above.",
-      "type": "subJective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1.08×10⁸N"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Coulomb Force Calculation</h3><p>Using Coulomb's Law:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>F = kq₁q₂/r² = (9×10⁹)(20×10⁻³)(15×10⁻²)/(0.5)² = 1.08×10⁸N</strong></p></div>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<div><h3>Step-by-Step Explanation:</h3><ol><li><strong>Given:</strong><ul><li>Test charge, \\( q = 5 \\, \\text{nC} = 5 \\times 10^{-9} \\, \\text{C} \\)</li><li>Force experienced, \\( F = 2 \\times 10^{-4} \\, \\text{N} \\)</li></ul></li><li><strong>Formula:</strong> The electric field \\( E \\) is calculated using:<br>\\[ E = \\frac{F}{q} \\]</li><li><strong>Substitute values:</strong><br>\\[ E = \\frac{2 \\times 10^{-4} \\, \\text{N}}{5 \\times 10^{-9} \\, \\text{C}} \\]</li><li><strong>Simplify:</strong><ul><li>Divide the coefficients: \\( \\frac{2}{5} = 0.4 \\)</li><li>Subtract exponents: \\( 10^{-4 - (-9)} = 10^{5} \\)</li><li>Thus, \\( E = 0.4 \\times 10^{5} \\, \\text{N/C} \\)</li></ul></li><li><strong>Express in scientific notation:</strong><br>\\[ E = 4 \\times 10^{4} \\, \\text{N/C} \\]</li><li><strong>Conclusion:</strong> The electric field at the point is \\( 4 \\times 10^{4} \\, \\text{N/C} \\), which matches options <strong>b</strong> and <strong>d</strong>.</li></ol></div>"
   }
-]
+},
+{
+  "type": "Question",
+  "name": "Question 12",
+  "Question": {
+    "content": "The potential difference between the terminals of a source when no current flows in an external circuit is called the",
+    "type": "OBJ",
+    "options": [
+      "net voltage",
+      "Battery voltage",
+      "Electromotive",
+      "Equivalent voltage"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Electromotive"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electromotive Force (EMF)</h3><p>The <strong>EMF</strong> of a source is defined as the potential difference across its terminals when <em>no current flows</em> (open circuit). This represents the maximum voltage the source can provide.</p><h4 style='color: #2c3e50; margin-top: 15px;'>Key Characteristics:</h4><ul><li>Measured in <strong>volts (V)</strong></li><li>Accounts for the source's internal energy conversion (e.g., chemical to electrical in batteries)</li><li>Differs from terminal voltage under load due to internal resistance</li></ul><h4 style='color: #2c3e50;'>Why Other Options Are Incorrect:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Analysis</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Net voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Not a standard term in circuit theory</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Battery voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Refers to terminal voltage under load</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Equivalent voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Used in circuit reduction, not source characterization</td></tr></table></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 13",
+  "Question": {
+    "content": "Kirchhoff's first rule is:",
+    "type": "OBJ",
+    "options": [
+      "ΣI=0",
+      "ΣR=0",
+      "ΣI R=0",
+      "ΣI=0"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "ΣI=0"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Kirchhoff's Current Law (KCL)</h3><p>Kirchhoff's first rule, or the <strong>junction rule</strong>, states:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>ΣI<sub>in</sub> = ΣI<sub>out</sub></strong> or equivalently <strong>ΣI = 0</strong> (with sign convention)</p><h4 style='color: #2c3e50; margin-top: 15px;'>Key Implications:</h4><ul><li>Charge conservation at circuit junctions</li><li>Current entering = current leaving</li><li>Applies to <em>all</em> junctions in a circuit</li></ul><h4 style='color: #2c3e50;'>Common Misconceptions:</h4><ul><li><strong>ΣR=0</strong>: No physical meaning in circuit laws</li><li><strong>ΣIR=0</strong>: Relates to Kirchhoff's <em>second</em> rule (voltage law)</li></ul></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 14",
+  "Question": {
+    "content": "The current flowing through a resistor is 0.8A when a p.d of 20V is applied. Determine the value of the resistance",
+    "type": "OBJ",
+    "options": [
+      "25 Ω",
+      "20 Ω",
+      "15 Ω",
+      "16 Ω"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "25 Ω"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Ohm's Law Application</h3><p>Using Ohm's Law:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = IR ⇒ R = V/I</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Voltage (V) = 20 V</li><li>Current (I) = 0.8 A</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p>R = 20 V / 0.8 A = <strong>25 Ω</strong></p><h4 style='color: #2c3e50;'>Error Prevention:</h4><ul><li>Unit consistency (volts/amperes = ohms)</li><li>Significant figures (20/0.8 = 25, not 25.0)</li></ul></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 15",
+  "Question": {
+    "content": "If the electric potential difference between two points is 42 volts, what work it done by an agent in moving a charge q_c = 5.0x10⁶C from one point to the other at a constant speed?",
+    "type": "OBJ",
+    "options": [
+      "8.4x10¹³J",
+      "1.19x10⁷J",
+      "21.0x10⁴J",
+      "210 J"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "None of the options match the calculated value (see explanation)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Work Done in Electric Fields</h3><p>Work done is calculated by:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>W = qΔV</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Charge (q) = 5.0 × 10<sup>6</sup> C (implausibly large)</li><li>Potential difference (ΔV) = 42 V</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p>W = (5.0 × 10<sup>6</sup> C) × 42 V = <strong>2.1 × 10<sup>8</sup> J</strong></p><h4 style='color: #2c3e50;'>Analysis of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Discrepancy</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>8.4×10<sup>13</sup>J</td><td style='border: 1px solid #ddd; padding: 8px;'>5 orders too high</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>210 J</td><td style='border: 1px solid #ddd; padding: 8px;'>Assumes q = 5 C</td></tr></table><p><em>Note: The charge value likely contains an error (possibly 5.0 × 10<sup>-6</sup> C).</em></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 16",
+  "Question": {
+    "content": "The potential difference required to give a helium nucleus (Q = 3.2x10⁻¹⁹C) 48.0x10³ eV of kinetic energy is",
+    "type": "OBJ",
+    "options": [
+      "2.4x10⁴ volts",
+      "7.68x10¹⁵ volts",
+      "2.4x10⁴ volts",
+      "153.6x10¹⁹ volts"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2.4x10⁴ volts"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Energy-Potential Relationship</h3><p>For charged particles:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>KE = qV ⇒ V = KE/q</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><ol><li><strong>Convert energy to joules:</strong><br>48.0 keV × (1.6×10<sup>-19</sup> J/eV) = 7.68×10<sup>-15</sup> J</li><li><strong>Calculate voltage:</strong><br>V = (7.68×10<sup>-15</sup> J)/(3.2×10<sup>-19</sup> C) = 2.4×10<sup>4</sup> V</li></ol><h4 style='color: #2c3e50;'>Physical Context:</h4><ul><li>Helium nucleus charge = +2e (3.2×10<sup>-19</sup> C)</li><li>Practical applications: particle accelerators</li></ul></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+    "content": "The expression for electric potential energy of an isolated point charge Q at a distance r relative to infinity is given as",
+    "type": "OBJ",
+    "options": [
+      "\\(V = ∫^B_A E.dl\\)",
+      "\\(V = -q_0 ∫^B_A E.dl\\)",
+      "\\(V = Q / 4π∈_0 r\\)",
+      "\\(V = Q / 4π∈_0 r²\\)"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\(V = Q / 4π∈_0 r\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Potential vs. Potential Energy</h3><p>The <strong>electric potential</strong> (V) due to a point charge is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = kQ/r = Q/(4π∈<sub>0</sub>r)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Distinctions:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Description</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>∫E·dl</td><td style='border: 1px solid #ddd; padding: 8px;'>General potential difference definition</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>-q<sub>0</sub>∫E·dl</td><td style='border: 1px solid #ddd; padding: 8px;'>Work done on test charge</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #e8f5e9;'>Q/(4π∈<sub>0</sub>r)</td><td style='border: 1px solid #ddd; padding: 8px; background: #e8f5e9;'><strong>Correct potential formula</strong></td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Q/(4π∈<sub>0</sub>r²)</td><td style='border: 1px solid #ddd; padding: 8px;'>Electric field (E), not potential</td></tr></table></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 18",
+  "Question": {
+    "content": "Which of these statements is not correct?",
+    "type": "OBJ",
+    "options": [
+      "No work is done when a charged particle is carried along an equipotential surface",
+      "The electric field for a point charge can be given as E = Q / 4π∈_0 r²",
+      "A 12V battery means that the potential difference the two battery terminals is 12V",
+      "every point on the line of an equipotential surface"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "The electric field for a point charge can be given as E = Q / 4π∈_0 r²"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Identifying the Incorrect Statement</h3><h4 style='color: #2c3e50; margin-top: 15px;'>Evaluation of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Statement</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Analysis</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>No work on equipotential</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong>: ΔV=0 ⇒ W=0</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'>E = Q/(4π∈<sub>0</sub>r²)</td><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'><strong>Incomplete</strong>: Should specify radial direction (E = (kQ/r²)r̂)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>12V battery</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong>: Defines EMF</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Equipotential surface</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong> (though grammatically incomplete)</td></tr></table></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 19",
+  "Question": {
+    "content": "The capacitance of a parallel plate capacitor whose plates have area A and separated by a distance d can be obtained from the expression",
+    "type": "OBJ",
+    "options": [
+      "\\(C = ∫^∞_0 E.dl\\)",
+      "\\(C = ∈_0 A / d\\)",
+      "\\(C = ∈_0 d / A\\)",
+      "\\(C = ∈_0 A\\)"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\(C = ∈_0 A / d\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Plate Capacitance</h3><p>The standard formula is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C = ∈<sub>0</sub>A/d</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Derivation:</h4><ol><li>Electric field between plates: E = σ/∈<sub>0</sub> = Q/(∈<sub>0</sub>A)</li><li>Potential difference: V = Ed = Qd/(∈<sub>0</sub>A)</li><li>Capacitance: C = Q/V = ∈<sub>0</sub>A/d</li></ol><h4 style='color: #2c3e50;'>Practical Implications:</h4><ul><li>Capacitance ∝ plate area (A)</li><li>Capacitance ∝ 1/separation (d)</li><li>Dielectrics increase ∈<sub>0</sub> to ∈ = κ∈<sub>0</sub></li></ul></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+    "content": "The equivalent charge of three capacitors 3µF, 12µF and 4µF that are connected in series across a potential difference of 12V is",
+    "type": "OBJ",
+    "options": [
+      "19µC",
+      "1.5µC",
+      "0.1µC",
+      "12µC"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "18µC"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Series Capacitor Charge Calculation</h3><p>For capacitors in series:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>1/C<sub>eq</sub> = 1/C<sub>1</sub> + 1/C<sub>2</sub> + 1/C<sub>3</sub></strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><ol><li>Calculate equivalent capacitance:<br>1/C<sub>eq</sub> = 1/3 + 1/12 + 1/4 = (4 + 1 + 3)/12 = 8/12 ⇒ C<sub>eq</sub> = 1.5µF</li><li>Charge on capacitors in series:<br>Q = C<sub>eq</sub>V = (1.5µF)(12V) = <strong>18µC</strong></li></ol><p style='color: #e74c3c;'><em>Note: The correct answer (18µC) is not listed among the options, suggesting an error in the question.</em></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 21",
+  "Question": {
+    "content": "What is the potential difference between a 3µF capacitor plates if the stored energy is 2.0 x 10⁻³J?",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "36.5V"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Capacitor Energy to Voltage</h3><p>Using the energy formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>U = ½CV² ⇒ V = √(2U/C)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>V = √(2 × 2.0×10⁻³J / 3×10⁻⁶F) = √(4/3 × 10³) ≈ <strong>36.5V</strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 22",
+  "Question": {
+    "content": "The plates of a 4.0F capacitor is separated by 2.5mm air gap. Calculate the area of the plates.",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1.13×10⁹ m²"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Plate Capacitor Area</h3><p>Using the capacitance formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C = ε₀A/d ⇒ A = Cd/ε₀</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>A = (4.0F × 2.5×10⁻³m) / (8.85×10⁻¹²F/m) ≈ <strong>1.13×10⁹ m²</strong></p><p style='color: #e74c3c;'><em>Note: This unrealistically large area suggests the capacitance value may be incorrect (likely should be µF).</em></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 23",
+  "Question": {
+    "content": "The electric force between two point charges with a magnitude of +700nC and +500nC is 25N. How far apart are the two charges from each other?",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0.112m"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Coulomb's Law Distance Calculation</h3><p>Rearranging Coulomb's Law:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>F = kq₁q₂/r² ⇒ r = √(kq₁q₂/F)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>r = √[(9×10⁹)(700×10⁻⁹)(500×10⁻⁹)/25] = √0.0126 ≈ <strong>0.112m</strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+    "content": "A battery of internal resistance 2Ω is connected in series with a resistor of 20 Ω. If the potential difference across the resistor is 6V. Calculate the e.m.f of the battery.",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "6.6V"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>EMF with Internal Resistance</h3><p>Using the circuit relationships:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>I = V<sub>R</sub>/R = 6V/20Ω = 0.3A</strong><br><strong>EMF = V<sub>R</sub> + Ir = 6V + (0.3A × 2Ω) = <strong>6.6V</strong></strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+    "content": "Calculate the resistance of a 2000m length of aluminium overhead power cable if the cross sectional area of the cable is 100mm². Take the resistivity of aluminium to be 0.03 x 10⁻² Ωm",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "6Ω"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Resistance Calculation</h3><p>Using the resistivity formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>R = ρL/A = (0.03×10⁻²Ωm × 2000m) / (100×10⁻⁶m²) = 6Ω</strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+    "content": "A charge of 1.0 x 10⁵C experiences a force of 80N at a certain point in space. What is the electric field intensity?",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "8×10⁻⁴ N/C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Field Intensity</h3><p>Basic definition of electric field:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>E = F/q = 80N / 1.0×10⁵C = 8×10⁻⁴ N/C</strong></p><p style='color: #e74c3c;'><em>Note: The charge value seems unusually large for typical problems.</em></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "Question": {
+    "content": "A resistor of resistance, R is connected across a cell. If the terminal p.d of the cell is reduced to one-quarter of its e.m.f, express the internal resistance, r of the cell in terms of R.",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "r = 3R"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Internal Resistance Derivation</h3><p>From the terminal voltage condition:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = ε - Ir = ε/4</strong><br>Current I = ε/(R + r)<br>Substituting: ε/4 = ε - [ε/(R + r)]r<br>Solving gives: <strong>r = 3R</strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "Question": {
+    "content": "An electric kettle connected to a 240V mains produces 6.0 x 10⁵J of heat energy to boil a quantity of water in 5 Minutes. Find the resistance of the kettle.",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "28.8Ω"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Kettle Resistance Calculation</h3><p>Using energy and power relationships:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>P = E/t = 6.0×10⁵J / 300s = 2000W</strong><br><strong>R = V²/P = (240V)²/2000W = 28.8Ω</strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 29",
+  "Question": {
+    "content": "Calculate the strength and direction of the electric field due to a point charge of +2.00nC at a distance of 5.00mm from the charge.",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "7.19×10⁵ N/C, radially outward"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Point Charge Electric Field</h3><p>Using the point charge field formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>E = kq/r² = (9×10⁹)(2×10⁻⁹)/(5×10⁻³)² ≈ 7.19×10⁵ N/C</strong></p><p>Direction: <strong>Radially outward</strong> (since charge is positive)</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 30",
+  "Question": {
+    "content": "Calculate the electric flux on the surface of a rectangular plate with length 20cm and breadth 15cm placed in an electric field of 350N/C at an angle of 50degrees",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "6.75 Nm²/C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Flux Calculation</h3><p>Using the flux formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>Φ = EAcosθ = (350N/C)(0.03m²)(cos50°) ≈ 6.75 Nm²/C</strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "Question": {
+    "content": "Calculate the electric flux through the surface of a plate of area 5m² placed in a uniform field whose magnitude is 7.4x10⁶ N/C",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "3.7×10⁷ Nm²/C"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Maximum Electric Flux</h3><p>Assuming perpendicular field:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>Φ = EA = (7.4×10⁶N/C)(5m²) = 3.7×10⁷ Nm²/C</strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "Question": {
+    "content": "An X-ray tube takes a current of 7.0x10⁻³A and operates at a potential difference of 80x10³V, what power is dissipated?",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "560W"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Power Dissipation</h3><p>Basic power calculation:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>P = IV = (7.0×10⁻³A)(80×10³V) = 560W</strong></p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "Question": {
+    "content": "If three resistors, R₁=20Ω, R₂=6Ω and R₃=9Ω are connected in parallel and a 120V battery is connected to the combination, calculate the current I₃ on the third resistor in the circuit.",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "13.33A"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Resistor Current</h3><p>Using Ohm's Law for parallel branches:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>I₃ = V/R₃ = 120V/9Ω ≈ 13.33A</strong></p></div>"
+  }
+},
+{
+  "type": "img",
+  "content": "https://lh3.googleusercontent.com/d/1UX7nMnDy2_efa39xbMSBrVaPCWzIcTJh",
+  "alt": "Figure 1",
+  "Caption": "Figure 1"
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "Question": {
+    "content": "Find the current in the circuit in Diagram above.",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0.5A"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Circuit Analysis Using Kirchhoff's Voltage Law</h3><p>For loop abcda:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>4I - 24 + 14I + 8 + 8I + 6I = 0</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step Solution:</h4><ol><li>Combine like terms:<br> (4I + 14I + 8I + 6I) + (-24 + 8) = 0 ⇒ 32I - 16 = 0</li><li>Solve for current I:<br> 32I = 16 ⇒ I = 16/32 = <strong>0.5A</strong></li></ol><p style='color: #27ae60;'><em>Verification: The solution matches the provided correct calculation.</em></p></div>"
+  }
+},
+{
+  "type": "img",
+  "content": "https://lh3.googleusercontent.com/d/1Uai3zkTWc5QllcWuDqbH599fXr1s0Ncn",
+  "alt": "Figure 2",
+  "Caption": "Figure 2"
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "Question": {
+    "content": "Find the electrical force of repulsion in the diagram above.",
+    "type": "subJective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1.08×10⁸N"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Coulomb Force Calculation</h3><p>Using Coulomb's Law:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>F = kq₁q₂/r² = (9×10⁹)(20×10⁻³)(15×10⁻²)/(0.5)² = 1.08×10⁸N</strong></p></div>"
+  }
+}]

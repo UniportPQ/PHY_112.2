@@ -232,29 +232,28 @@
       "content": "The potential difference across the terminals of a source when no current flows (open circuit) is called the electromotive force (EMF), which is why electromotive force is the correct answer. EMF is the maximum voltage a source can provide, measured when no current flows, so no energy is lost to internal resistance. Net voltage and battery voltage are not standard terms in this context. Equivalent voltage might refer to a combined circuit’s voltage, not the source’s EMF. Thus, electromotive force is the precise term."
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 11",
-    "Question": {
-      "content": "If one speaks of measuring an AC voltage of 120V from an electric outlet using an AC voltmeter, it will read about",
-      "type": "OBJ",
-      "options": [
-        "120V",
-        "85V",
-        "170A",
-        "85A"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "85V"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "In AC circuits, the stated voltage (e.g., 120V) is typically the root mean square (RMS) voltage. An AC voltmeter measures the RMS voltage, but the question’s phrasing suggests a possible misunderstanding. The peak voltage \\( V_{\\text{peak}} \\) is related to the RMS voltage by \\( V_{\\text{RMS}} = \\frac{V_{\\text{peak}}}{\\sqrt{2}} \\). For an RMS voltage of 120V, the peak voltage is \\( V_{\\text{peak}} = 120 \\times \\sqrt{2} \\approx 170 \\text{V} \\). However, the options 170A and 85A are incorrect units (current, not voltage). Between 120V and 85V, 85V might reflect a common RMS value in some regions (e.g., 120V RMS corresponds to a peak of 170V, but 85V RMS corresponds to a peak of \\( 85 \\times \\sqrt{2} \\approx 120 \\text{V} \\)), suggesting the question may imply a different standard. Given typical AC voltmeter readings, 85V is the closest plausible RMS value in the options, though 120V would be expected for a direct reading."
-    }
+{
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+    "content": "If one speaks of measuring an AC voltage of 120V from an electric outlet using an AC voltmeter, it will read about",
+    "type": "OBJ",
+    "options": [
+      "120V",
+      "85V",
+      "170V",
+      "85A"
+    ]
   },
-  {
+  "Answer": {
+    "type": "string",
+    "content": "120V"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Understanding AC Voltage Measurements</h3><p>When measuring AC voltage:</p><ol><li><strong>RMS vs. Peak Voltage</strong>:<br>AC voltages are typically specified as <strong>RMS (Root Mean Square)</strong> values. For a sinusoidal waveform:<br><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'>\\( V_{\\text{RMS}} = \\frac{V_{\\text{peak}}}{\\sqrt{2}} \\)</p></li><li><strong>Given Value</strong>:<br>The question states <strong>120V</strong>, which is the standard RMS voltage for household outlets in many countries (e.g., the US).</li><li><strong>Voltmeter Function</strong>:<br>An AC voltmeter is calibrated to display the <strong>RMS voltage</strong>, not the peak voltage. Thus, it will read <strong>120V</strong> directly.</li><li><strong>Peak Voltage Calculation</strong>:<br>For reference, the peak voltage for 120V RMS is:<br><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'>\\( V_{\\text{peak}} = 120 \\times \\sqrt{2} \\approx 170V \\)</p></li><li><strong>Options Analysis</strong>:<ul><li><strong>120V</strong>: Correct (RMS reading).</li><li><strong>85V</strong>: Incorrect (might confuse with European standards or misapplied calculation).</li><li><strong>170V</strong>: Incorrect (this is the peak voltage, not what the voltmeter reads).</li><li><strong>85A</strong>: Incorrect (units are for current, not voltage).</li></ul></li></ol><p style='color: #27ae60;'><strong>Conclusion</strong>: The voltmeter will read <strong>120V</strong>, the RMS value of the AC voltage.</p></div>"
+  }
+},  {
     "type": "Question",
     "name": "Question 12",
     "Question": {
