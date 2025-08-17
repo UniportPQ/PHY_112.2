@@ -562,28 +562,27 @@
   }
 },
 {
-  "type": "Question",
-  "name": "Question 26",
-  "Question": {
-    "content": "Three resistors R₁ = 10, R₂ = 20, and R₃ = 30Ω are connected in parallel. Find the equivalent resistance R_eq",
-    "type": "OBJ",
-    "options": [
-      "5.71 Ω",
-      "0.175 Ω",
-      "0 Ω",
-      "17.5 Ω"
-    ]
-  },
-  "Answer": {
-    "type": "string",
-    "content": "5.71 Ω"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<p>For resistors in parallel,\\(\\frac{1}{R_{eq}} =\\frac{1}{R_1} +\\frac{1}{R_2} +\\frac{1}{R_3}\\). So,\\(\\frac{1}{R_{eq}} =\\frac{1}{10} +\\frac{1}{20} +\\frac{1}{30} = 0.1 + 0.05 + 0.0333 = 0.1833\\). Thus,\\( R_{eq} =\\frac{1}{0.1833}\\approx 5.71\\,\\Omega\\).</p>"
-  }
-},
-{
+ "type": "Question",
+ "name": "Question 26",
+ "Question": {
+  "content": "Three resistors R₁ = 10Ω, R₂ = 20Ω, and R₃ = 30Ω are connected in parallel. Find the equivalent resistance R_eq.",
+  "type": "OBJ",
+  "options": [
+   "5.45 Ω",
+   "0.183 Ω",
+   "60 Ω",
+   "17.5 Ω"
+  ]
+ },
+ "Answer": {
+  "type": "string",
+  "content": "5.45 Ω"
+ },
+ "Explanation": {
+  "type": "string",
+  "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'>\n  <h3 style='margin-top: 0; color: #2c3e50;'>Step-by-Step Solution:</h3>\n  <ol>\n    <li><strong>Formula for Parallel Resistors</strong>:\n      <p>\\[ \\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3} \\]</p>\n    </li>\n    <li><strong>Substitute Values</strong>:\n      <p>\\[ \\frac{1}{R_{eq}} = \\frac{1}{10} + \\frac{1}{20} + \\frac{1}{30} \\]</p>\n    </li>\n    <li><strong>Find Common Denominator (60)</strong>:\n      <p>\\[ \\frac{1}{R_{eq}} = \\frac{6}{60} + \\frac{3}{60} + \\frac{2}{60} = \\frac{11}{60} \\]</p>\n    </li>\n    <li><strong>Calculate R<sub>eq</sub></strong>:\n      <p>\\[ R_{eq} = \\frac{60}{11} \\approx 5.4545\\, \\Omega \\]</p>\n      <p><em>Rounded to 2 decimal places: <strong>5.45 Ω</strong></em></p>\n    </li>\n  </ol>\n  <p><strong>Key Note</strong>: The earlier answer (5.71 Ω) arose from rounding intermediate steps (e.g., 1/30 ≈ 0.0333). Using exact fractions avoids this error.</p>\n</div>"
+ }
+},{
   "type": "Question",
   "name": "Question 27",
   "Question": {
