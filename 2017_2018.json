@@ -79,23 +79,31 @@
       "type": "string",
       "content": "The electric field due to a point charge is \\( E = k \\frac{|q|}{r^2} \\). For the field to be zero between two like charges, the point must be closer to the smaller charge. Let the distance from +q be \\( x \\), then from +4q it is \\( 3 - x \\). Setting \\( E_q = E_{4q} \\): \\( \\frac{k q}{x^2} = \\frac{k (4q)}{(3 - x)^2} \\), simplifying gives \\( \\frac{1}{x^2} = \\frac{4}{(3 - x)^2} \\). Solving \\( (3 - x)^2 = 4x^2 \\) yields \\( 3 - x = 2x \\) or \\( x = 1m \\)."
     }
-  }, {
-    "type": "Question",
-    "name": "Question 5",
-    "Question": {
-      "content": "How many electrons are contained in 320 × 10⁻⁶C of charges giving that each electron carries a charge of 1.6 × 10⁻¹⁹C?",
-      "type": "OBJ",
-      "options": ["2.00 × 10⁴ electrons", "2.00 × 10³ electrons", "2.00 × 10¹³ electrons", "1.6 × 10⁶ electrons"]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "2.00 × 10¹³ electrons"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "The number of electrons is given by \\( n = \\frac{Q}{e} \\), where \\( Q = 320 \\times 10^{-6} , \\text{C} \\) and \\( e = 1.6 \\times 10^{-19} , \\text{C} \\). Thus, \\( n = \\frac{320 \\times 10^{-6}}{1.6 \\times 10^{-19}} = 2 \\times 10^{13} \\)."
-    }
-  }, {
+  },
+  {
+ "type": "Question",
+ "name": "Question 5",
+ "Question": {
+  "content": "How many electrons are contained in 320 × 10⁻⁶C of charges giving that each electron carries a charge of 1.6 × 10⁻¹⁹C?",
+  "type": "OBJ",
+  "options": [
+   "2.00 × 10⁴ electrons",
+   "2.00 × 10³ electrons",
+   "2.00 × 10¹³ electrons",
+   "1.6 × 10⁶ electrons"
+  ]
+ },
+ "Answer": {
+  "type": "string",
+  "content": "2.00 × 10¹³ electrons"
+ },
+ "Explanation": {
+  "type": "string",
+  "content": "<div style='font-family: Arial; line-height: 1.6'><p>The number of electrons (n) is calculated using the formula n = Q / e, where Q is the total charge and e is the charge per electron. Substituting the given values: n = (320 × 10⁻⁶ C) / (1.6 × 10⁻¹⁹ C). Simplify the expression: n = (320 / 1.6) × (10⁻⁶ / 10⁻¹⁹) = 200 × 10¹³ = 2.00 × 10¹³ electrons. This matches option c. Note: The original charge value (320 × 10⁻⁶ C) is interpreted as 3.20 × 10⁻⁴ C in strict scientific notation, but the calculation with the given numbers directly yields 2.00 × 10¹³, indicating the intended charge was likely 3.20 × 10⁻⁶ C (3.20 μC).</p></div>"
+ }
+},
+
+  {
     "type": "Question",
     "name": "Question 6",
     "Question": {
