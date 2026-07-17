@@ -1,0 +1,541 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Work",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2022/2023",
+    "Question": {
+      "content": "If the electric potential difference between two points is 42 volts, what work it done by an agent in moving a charge q_c = 5.0x10⁶C from one point to the other at a constant speed?",
+      "type": "OBJ",
+      "options": [
+        "8.4x10¹³J",
+        "1.19x10⁷J",
+        "21.0x10⁴J",
+        "210 J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the options match the calculated value (see explanation)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Work Done in Electric Fields</h3><p>Work done is calculated by:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>W = qΔV</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Charge (q) = 5.0 × 10<sup>6</sup> C (implausibly large)</li><li>Potential difference (ΔV) = 42 V</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p>W = (5.0 × 10<sup>6</sup> C) × 42 V = <strong>2.1 × 10<sup>8</sup> J</strong></p><h4 style='color: #2c3e50;'>Analysis of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Discrepancy</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>8.4×10<sup>13</sup>J</td><td style='border: 1px solid #ddd; padding: 8px;'>5 orders too high</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>210 J</td><td style='border: 1px solid #ddd; padding: 8px;'>Assumes q = 5 C</td></tr></table><p><em>Note: The charge value likely contains an error (possibly 5.0 × 10<sup>-6</sup> C).</em></p></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electrostatics",
+      "Electric Potential",
+      "Electric Charges",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2022/2023",
+    "Question": {
+      "content": "The potential difference required to give a helium nucleus (Q = 3.2x10⁻¹⁹C) 48.0x10³ eV of kinetic energy is",
+      "type": "OBJ",
+      "options": [
+        "2.4x10⁴ volts",
+        "7.68x10¹⁵ volts",
+        "2.4x10⁴ volts",
+        "153.6x10¹⁹ volts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.4x10⁴ volts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Energy-Potential Relationship</h3><p>For charged particles:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>KE = qV ⇒ V = KE/q</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><ol><li><strong>Convert energy to joules:</strong><br>48.0 keV × (1.6×10<sup>-19</sup> J/eV) = 7.68×10<sup>-15</sup> J</li><li><strong>Calculate voltage:</strong><br>V = (7.68×10<sup>-15</sup> J)/(3.2×10<sup>-19</sup> C) = 2.4×10<sup>4</sup> V</li></ol><h4 style='color: #2c3e50;'>Physical Context:</h4><ul><li>Helium nucleus charge = +2e (3.2×10<sup>-19</sup> C)</li><li>Practical applications: particle accelerators</li></ul></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electric Potential",
+      "Electric Charges",
+      "Electrostatics",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2022/2023",
+    "Question": {
+      "content": "The expression for electric potential energy of an isolated point charge Q at a distance r relative to infinity is given as",
+      "type": "OBJ",
+      "options": [
+        "\\(V = ∫^B_A E.dl\\)",
+        "\\(V = -q_0 ∫^B_A E.dl\\)",
+        "\\(V = Q / 4π∈_0 r\\)",
+        "\\(V = Q / 4π∈_0 r²\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(V = Q / 4π∈_0 r\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Potential vs. Potential Energy</h3><p>The <strong>electric potential</strong> (V) due to a point charge is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = kQ/r = Q/(4π∈<sub>0</sub>r)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Distinctions:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Description</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>∫E·dl</td><td style='border: 1px solid #ddd; padding: 8px;'>General potential difference definition</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>-q<sub>0</sub>∫E·dl</td><td style='border: 1px solid #ddd; padding: 8px;'>Work done on test charge</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #e8f5e9;'>Q/(4π∈<sub>0</sub>r)</td><td style='border: 1px solid #ddd; padding: 8px; background: #e8f5e9;'><strong>Correct potential formula</strong></td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Q/(4π∈<sub>0</sub>r²)</td><td style='border: 1px solid #ddd; padding: 8px;'>Electric field (E), not potential</td></tr></table></div>"
+    },
+    "topic": [
+      "Electric Potential",
+      "Electrostatics",
+      "Electric Charges",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2022/2023",
+    "Question": {
+      "content": "Which of these statements is not correct?",
+      "type": "OBJ",
+      "options": [
+        "No work is done when a charged particle is carried along an equipotential surface",
+        "The electric field for a point charge can be given as E = Q / 4π∈_0 r²",
+        "A 12V battery means that the potential difference the two battery terminals is 12V",
+        "every point on the line of an equipotential surface"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The electric field for a point charge can be given as E = Q / 4π∈_0 r²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Identifying the Incorrect Statement</h3><h4 style='color: #2c3e50; margin-top: 15px;'>Evaluation of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Statement</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Analysis</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>No work on equipotential</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong>: ΔV=0 ⇒ W=0</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'>E = Q/(4π∈<sub>0</sub>r²)</td><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'><strong>Incomplete</strong>: Should specify radial direction (E = (kQ/r²)r̂)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>12V battery</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong>: Defines EMF</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Equipotential surface</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong> (though grammatically incomplete)</td></tr></table></div>"
+    },
+    "topic": [
+      "Electrostatics",
+      "Electric Potential",
+      "Electric Fields",
+      "Work",
+      "Electric Charges"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2022/2023",
+    "Question": {
+      "content": "An electric kettle connected to a 240V mains produces 6.0 x 10⁵J of heat energy to boil a quantity of water in 5 Minutes. Find the resistance of the kettle.",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "28.8Ω"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Kettle Resistance Calculation</h3><p>Using energy and power relationships:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>P = E/t = 6.0×10⁵J / 300s = 2000W</strong><br><strong>R = V²/P = (240V)²/2000W = 28.8Ω</strong></p></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Resistance",
+      "Electric Potential",
+      "Electric Current",
+      "Ohm's Law",
+      "DC Circuits",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2016/2017",
+    "Question": {
+      "content": "How much work is required to bring a charge of 3.50 µC from infinity to point A if the electric potential at A is 5.18 × 10⁴ V?",
+      "type": "OBJ",
+      "options": [
+        "0.27 J",
+        "5 J",
+        "1.03 J",
+        "1.71 J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.18 J (Note: Correct answer not listed in options)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Work done is given by: <br><br>\\( W = q \\Delta V \\) <br><br>Where: <br>• \\(q = 3.50 \\times 10^{-6} C\\) <br>• \\(V = 5.18 \\times 10^4 V\\) (since potential at infinity is 0) <br><br>Calculating: <br><br>\\( W = (3.50 \\times 10^{-6})(5.18 \\times 10^4) \\) <br><br>\\( W = 0.1813 J \\approx 0.18 J \\) <br><br>None of the given options match this result. The closest is (a) 0.27 J, but it’s incorrect."
+    },
+    "topic": [
+      "Electromagnetism and Electrodynamics",
+      "Electrostatics",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2016/2017",
+    "Question": {
+      "content": "If the potential difference between points A and B is 42V, calculate the work done to move a charge \\(5.0\\times10^3\\,C\\) from A to B.",
+      "type": "OBJ",
+      "options": [
+        "8.4 × 10⁵ J",
+        "8.4 × 10⁴ J",
+        "2.1 × 10⁵ J",
+        "2.1 × 10⁴ J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.1 × 10⁵ J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Work done</b> is given by:<br><br>\\(W = q \\Delta V\\)<br><br>• \\(q = 5.0\\times10^3\\,C\\)<br>• \\(\\Delta V = 42\\,V\\)<br><br>\\(W = (5.0\\times10^3)(42) = 2.1\\times10^5\\,J\\)<br><br>This matches option (c)."
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism and Electrodynamics",
+      "Electrostatics",
+      "Electric Potential",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2016/2017",
+    "Question": {
+      "content": "1 electron volt (1eV) is equivalent to:",
+      "type": "OBJ",
+      "options": [
+        "1.6 × 10⁻¹⁹ N",
+        "1.6 × 10⁻¹⁹ J",
+        "1.6 × 10⁻¹⁹ C",
+        "1.6 × 10⁻¹⁹ A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.6 × 10⁻¹⁹ J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "1 <b>electron volt</b> (eV) is the energy gained by an electron when moved through a 1V potential difference.<br><br>\\(1\\,eV = e \\times 1\\,V = (1.6\\times10^{-19}\\,C)(1\\,V) = 1.6\\times10^{-19}\\,J\\)<br><br>It’s a tiny unit of energy used in atomic and particle physics."
+    },
+    "topic": [
+      "Electromagnetism and Electrodynamics",
+      "Electrostatics",
+      "Electric Potential",
+      "Work",
+      "Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2016/2017",
+    "Question": {
+      "content": "Calculate the work done by an external agent carrying a charge of 5.0 × 10⁵ C from point A to B at constant speed, if the potential difference is 42V.",
+      "type": "OBJ",
+      "options": [
+        "8.4 × 10⁵ J",
+        "2.1 × 10⁷ J",
+        "1.19 × 10⁻⁷ J",
+        "210 J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.1 × 10⁷ J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Step 1: Use the work formula</b><br>\\(W = q \\Delta V\\)<br>• \\(q = 5.0 \\times 10^5\\,C\\), \\(\\Delta V = 42\\,V\\)<br><br><b>Step 2: Calculate work</b><br>\\(W = (5.0 \\times 10^5) \\times 42 = 2.1 \\times 10^7\\,J\\)<br><br>This matches option (b)."
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism and Electrodynamics",
+      "Electrostatics",
+      "Electric Potential",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 41 @ 2016/2017",
+    "Question": {
+      "content": "Which statement is not true about a charge released in an electric field?",
+      "type": "OBJ",
+      "options": [
+        "Positive charge moves to lower potential",
+        "Positive charge moves to lower potential energy",
+        "Negative charge moves to higher potential",
+        "Negative charge moves to higher potential energy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Negative charge moves to higher potential energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A negative charge naturally moves to <b>higher potential</b> (lower potential energy). Option (d) incorrectly states it moves to higher potential energy, which violates energy minimization principles."
+    },
+    "topic": [
+      "Electromagnetism and Electrodynamics",
+      "Electrostatics",
+      "Electric Fields",
+      "Electric Potential",
+      "Electric Charge",
+      "Energy",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 43 @ 2016/2017",
+    "Question": {
+      "content": "Three points (A, B, C) have potentials 8.0V, 4.0V, and -2.0V. A negative charge at B is released. Which way will it move?",
+      "type": "OBJ",
+      "options": [
+        "Toward A",
+        "Toward B",
+        "It will not move",
+        "Toward C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Toward C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Negative charges move <b>from lower to higher potential</b>. Since point C (-2.0V) has lower potential than B (4.0V), the charge moves <b>toward C</b>."
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism and Electrodynamics",
+      "Electrostatics",
+      "Electric Potential",
+      "Electric Fields",
+      "Work",
+      "Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 51 @ 2016/2017",
+    "Question": {
+      "content": "Which of the following are conservative forces?",
+      "type": "OBJ",
+      "options": [
+        "Electrostatic force/Electric field strength",
+        "Electric flux/Electric field strength",
+        "Gravitation force/Electrostatic force",
+        "Gravitation force/Electromotive force"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gravitation force/Electrostatic force"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Conservative forces (like gravity and electrostatic force) don't lose energy when things move in loops. Just like a rollercoaster, you end with the same energy you started with!"
+    },
+    "topic": [
+      "Conservation Laws",
+      "Classical Mechanics",
+      "Electrostatics",
+      "Electromagnetism and Electrodynamics",
+      "Work",
+      "Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 52 @ 2016/2017",
+    "Question": {
+      "content": "Find the work done in an electric field if the potential difference is 50V and the charge moved is 60C.",
+      "type": "OBJ",
+      "options": [
+        "300 uJ",
+        "2x100",
+        "21µJ",
+        "80J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3000J (Note: Correct answer not listed)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Work = Charge × Voltage. Like carrying 60 buckets (charge) up a 50-step ladder (voltage): 60 × 50 = 3000J of work. The options seem wrong!"
+    },
+    "topic": [
+      "Electromagnetism and Electrodynamics",
+      "Electrostatics",
+      "Work",
+      "Electric Potential",
+      "Electric Fields",
+      "Electric Charge"
+    ]
+  }
+]
