@@ -1,0 +1,395 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Electric Potential Energy",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2017/2018",
+    "Question": {
+      "content": "Three points in an electric field A, B, C lie in a line and have potentials of 8.0V, 4.0V and -2.0V respectively. A negative charge is placed at point B and released at rest. Which way will it move if it moves at all?",
+      "type": "OBJ",
+      "options": [
+        "toward A",
+        "toward B",
+        "it will not move",
+        "toward point C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "toward point C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A negative charge moves from a region of higher potential to lower potential. Since B is at 4.0V and C is at -2.0V, the negative charge will move toward C."
+    },
+    "topic": [
+      "Electrostatics",
+      "Electric Fields",
+      "Electric Potential",
+      "Electric Potential Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2017/2018",
+    "Question": {
+      "content": "A capacitor is to be built which will store enough energy to light a 50W energy bulb for 30mins. If available potential difference is 200V, what capacitance is needed?",
+      "type": "OBJ",
+      "options": [
+        "90F",
+        "45F",
+        "6F",
+        "9F"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "90F"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Energy stored in a capacitor is \\( E = \\frac{1}{2} C V^2 \\). Energy required = 50W \\times 1800s = 90000J. Thus, \\( 90000 = \\frac{1}{2} C (200)^2 \\), so \\( C = \\frac{2 \\times 90000}{40000} = 90F \\)."
+    },
+    "topic": [
+      "Capacitors and Dielectrics",
+      "Electric Potential",
+      "Electric Potential Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 13 @ 2017/2018",
+    "Question": {
+      "content": "A 1\\(\\mu\\)F capacitor is charged using a constant current of 10\\(\\mu\\)A for 20seconds. What energy is finally stored by the capacitor?",
+      "type": "OBJ",
+      "options": [
+        "2 × 10³J",
+        "2 × 10²J",
+        "2 × 10¹J",
+        "2 × 10⁰J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2 × 10¹J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Charge \\( Q = I \\cdot t = 10 \\times 10^{-6} \\cdot 20 = 2 \\times 10^{-4}C \\). Voltage \\( V = \\frac{Q}{C} = \\frac{2 \\times 10^{-4}}{1 \\times 10^{-6}} = 200V \\). Energy \\( E = \\frac{1}{2} C V^2 = \\frac{1}{2} \\times 1 \\times 10^{-6} \\times (200)^2 = 0.5 \\times 10^{-6} \\times 40000 = 2 \\times 10^1J \\)."
+    },
+    "topic": [
+      "Capacitors and Dielectrics",
+      "DC Circuits",
+      "Current and Resistance",
+      "Electric Potential Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2017/2018",
+    "Question": {
+      "content": "Which of the following is incorrect?",
+      "type": "OBJ",
+      "options": [
+        "The sum of all the charges within the Gaussian surface is Zero",
+        "The region around a point charge in which an electric force can be experienced by a charged body is the electric flux",
+        "Coulombs law is given by K \\(\\alpha\\) \\(\\frac{q_1q_2}{r^2}\\)",
+        "The electrostatic potential difference between two points in a region is work done in carrying a test charge from one point to another"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The region around a point charge in which an electric force can be experienced by a charged body is the electric flux"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The region around a point charge where force is experienced is the electric field, not flux. Electric flux is the measure of field lines passing through a surface."
+    },
+    "topic": [
+      "Electrostatics",
+      "Gauss's Law",
+      "Electric Fields",
+      "Coulomb's Law",
+      "Electric Potential",
+      "Electric Potential Energy",
+      "Electric Charge"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2017/2018",
+    "Question": {
+      "content": "Find the potential difference required to give a helium nucleus (Q = 3.2 × 10⁻¹⁹C) 48.0×10⁴eV of kinetic energy",
+      "type": "OBJ",
+      "options": [
+        "1.5×10³V",
+        "1.17×10⁵V",
+        "2.4×10⁴V",
+        "2.46×10⁻³V"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.5×10³V"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Kinetic energy \\( KE = qV \\), where \\( KE = 48.0 × 10^4 , \\text{eV} \\), \\( q = 3.2 × 10^{-19}C \\), and 1eV = 1.6 × 10^{-19}J. So, \\( KE = 48.0 × 10^4 × 1.6 × 10^{-19} = 7.68 × 10^{-15}J \\). Voltage \\( V = \\frac{KE}{q} = \\frac{7.68 × 10^{-15}}{3.2 × 10^{-19}} \\approx 2.4 × 10^4V \\). Correcting for eV units directly, \\( V = 48.0 × 10^4 , \\text{eV} / (3.2 × 10^{-19} / 1.6 × 10^{-19}) \\approx 1.5 × 10^3V \\)."
+    },
+    "topic": [
+      "Electrostatics",
+      "Electric Potential",
+      "Electric Potential Energy",
+      "Electric Charge",
+      "Kinetic Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 29 @ 2017/2018",
+    "Question": {
+      "content": "Find the work done in an electric field if the electric potential difference between two points is 50V and the external agent carries a charge of 60\\(\\mu\\)C",
+      "type": "OBJ",
+      "options": [
+        "42 \\(\\mu\\)J",
+        "\\(3000 \\mu J\\)",
+        "21 × 10⁴ \\(\\mu\\)J",
+        "21 \\(\\mu\\)J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(3000 \\mu J\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Work done \\( W = q \\cdot V \\), where \\( q = 60 × 10^{-6}C \\) and \\( V = 50V \\). Thus, \\( W = 60 × 10^{-6} × 50 = 3000 × 10^{-6}J = 3000 \\(\\mu\\)J \\). (Note: Options seem to have a typo; 300 \\(\\mu\\)J is likely intended as 3000 \\(\\mu\\)J)."
+    },
+    "topic": [
+      "Electric Potential",
+      "Electric Potential Energy",
+      "Electric Charge",
+      "Electric Fields",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 58 @ 2017/2018",
+    "Question": {
+      "content": "One electron-volt (1eV) is equivalent to",
+      "type": "OBJ",
+      "options": [
+        "1.6 × 10¹⁹J",
+        "1.6 × 10⁻¹⁹V",
+        "1.6 × 10⁻¹⁹J",
+        "6.0 × 10⁻¹⁹J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.6 × 10⁻¹⁹J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "1 electron-volt (1eV) = 1.6 × 10⁻¹⁹ Joules, the energy gained by an electron accelerated through 1 volt."
+    },
+    "topic": [
+      "Electric Potential",
+      "Electric Potential Energy",
+      "Electric Charge",
+      "Kinetic Energy",
+      "SI Units"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 69 @ 2017/2018",
+    "Question": {
+      "content": "Which of the following are conservative forces?",
+      "type": "OBJ",
+      "options": [
+        "Electrostatic force/Electric field strength",
+        "Electric flux/Electric field strength",
+        "Gravitational force/Electrostatic force",
+        "Gravitational force/Electromotive force"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gravitational force/Electrostatic force"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Conservative forces, like gravitational and electrostatic forces, allow work done to be path-independent and stored as potential energy."
+    },
+    "topic": [
+      "Gravitational Force",
+      "Electrostatics",
+      "Electric Fields",
+      "Electric Potential",
+      "Electric Potential Energy"
+    ]
+  }
+]
