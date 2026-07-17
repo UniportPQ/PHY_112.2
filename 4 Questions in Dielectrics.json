@@ -1,0 +1,270 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Dielectrics",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2022/2023",
+    "Question": {
+      "content": "The material between the plates of a capacitor is",
+      "type": "OBJ",
+      "options": [
+        "Polarization",
+        "Dielectric",
+        "Charge",
+        "ionic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dielectric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Role of Dielectrics in Capacitors</h3><p>A dielectric is an insulating material placed between capacitor plates to:</p><ul><li><strong>Increase capacitance</strong> by reducing the effective electric field.</li><li><strong>Prevent arcing</strong> between plates.</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Why Other Options Are Incorrect:</h4><ul><li><strong>Polarization</strong>: A process where dielectric atoms align, not a material.</li><li><strong>Charge</strong>: Refers to stored electrons, not the material.</li><li><strong>Ionic</strong>: Describes bonding, not a capacitor component.</li></ul><p>Thus, <strong>Dielectric</strong> is the correct term.</p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "Electrostatics",
+      "Dielectrics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2022/2023",
+    "Question": {
+      "content": "The plates of a 4.0F capacitor is separated by 2.5mm air gap. Calculate the area of the plates.",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.13×10⁹ m²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Plate Capacitor Area</h3><p>Using the capacitance formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C = ε₀A/d ⇒ A = Cd/ε₀</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>A = (4.0F × 2.5×10⁻³m) / (8.85×10⁻¹²F/m) ≈ <strong>1.13×10⁹ m²</strong></p><p style='color: #e74c3c;'><em>Note: This unrealistically large area suggests the capacitance value may be incorrect (likely should be µF).</em></p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "Dielectrics",
+      "Electrostatics",
+      "Electric Fields"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2021/2022",
+    "Question": {
+      "content": "The medium used between the plates of a capacitor is",
+      "type": "OBJ",
+      "options": [
+        "polarizer",
+        "dielectric",
+        "insulator",
+        "ion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "dielectric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The medium between the plates of a capacitor is called a dielectric, which is why dielectric is the correct answer. A dielectric is a material that increases the capacitance by reducing the electric field between the plates through polarization. While a dielectric is often an insulator (a material that doesn’t conduct electricity), the specific term for its role in a capacitor is dielectric. Polarizer is incorrect as it relates to optics (polarizing light), not capacitors. Ion refers to a charged particle, not a medium in this context. Therefore, dielectric is the precise term."
+    },
+    "topic": [
+      "Capacitance",
+      "Electrostatics",
+      "Electric Fields",
+      "Dielectrics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 42 @ 2016/2017",
+    "Question": {
+      "content": "Two parallel-plate capacitors are identical except one has a dielectric (κ=10.5) and the other is air-filled. How much larger is the dielectric-filled capacitor's capacitance?",
+      "type": "OBJ",
+      "options": [
+        "0.0095",
+        "1.0095",
+        "10.5",
+        "11.5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10.5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The capacitance with a dielectric is \\(C = \\kappa C_0\\), where \\(C_0\\) is the air-filled capacitance. With \\(\\kappa = 10.5\\), the dielectric-filled capacitor is <b>10.5 times larger</b>."
+    },
+    "topic": [
+      "Capacitors",
+      "Dielectrics",
+      "Electrostatics",
+      "Electromagnetism and Electrodynamics"
+    ]
+  }
+]

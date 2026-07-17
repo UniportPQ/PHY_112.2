@@ -1,0 +1,906 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Magnetic Force",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2023/2024",
+    "Question": {
+      "content": "What is the magnitude of the force on a wire placed parallel to a magnetic field?",
+      "type": "OBJ",
+      "options": [
+        "0",
+        "11",
+        "5",
+        "10"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The force on a current-carrying wire in a magnetic field is given by \\( F = I L B\\sin\\theta\\), where \\(\\theta\\) is the angle between the wire and the magnetic field. If the wire is placed parallel to the magnetic field (\\(\\theta = 0^\\circ\\)), then\\(\\sin 0^\\circ = 0\\), so the force\\( F = 0\\).</p>"
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Magnetic Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2023/2024",
+    "Question": {
+      "content": "Which of the following equations best describes the magnetic force on a charge?",
+      "type": "OBJ",
+      "options": [
+        "F = qvBsinθ",
+        "F = qπBsinθ",
+        "F = Bvsinθ",
+        "F = qλBsinθ"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "F = qvBsinθ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The magnetic force on a moving charge is given by the Lorentz force equation\\( F = qvB\\sin\\theta\\), where\\( q\\) is the charge,\\( v\\) is the velocity,\\( B\\) is the magnetic field strength, and\\(\\theta\\) is the angle between\\( v\\) and\\( B\\).</p>"
+    },
+    "topic": [
+      "Magnetic Force",
+      "Magnetic Fields",
+      "Electromagnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2023/2024",
+    "Question": {
+      "content": "The magnetic force of a bar magnet is strongest at the",
+      "type": "OBJ",
+      "options": [
+        "centre",
+        "poles",
+        "equator",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "poles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The magnetic force of a bar magnet is strongest at its poles, where the magnetic field lines are most concentrated.</p>"
+    },
+    "topic": [
+      "Magnetic Force",
+      "Magnetic Fields",
+      "Bar Magnets"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2023/2024",
+    "Question": {
+      "content": "The region around a magnet where the magnetic force of attraction or repulsion is felt is known as?",
+      "type": "subJective",
+      "options": []
+    },
+    "Answer": {
+      "type": "string",
+      "content": "magnetic field"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The region around a magnet where magnetic forces are experienced is called the magnetic field.</p>"
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Electromagnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2021/2022",
+    "Question": {
+      "content": "The magnetic field unit 1 Tesla is equal to",
+      "type": "OBJ",
+      "options": [
+        "1Wb/m²",
+        "1Wb/m²m",
+        "1N/(A.m)",
+        "1Wb/m"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1Wb/m²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The unit of magnetic field strength, Tesla (T), is defined as the magnetic flux density. By definition, 1 Tesla equals 1 Weber per square meter (\\( 1 \\text{T} = 1 \\frac{\\text{Wb}}{\\text{m}^2} \\)). This makes 1Wb/m² the correct answer. 1Wb/m²m is dimensionally incorrect (it simplifies to Wb/m³, which isn’t a unit of magnetic field). 1N/(A.m) is a derived unit for magnetic field (from the force on a current-carrying wire, \\( F = I L B \\)), but it’s equivalent to 1 T, not the primary definition. 1Wb/m is a unit of magnetic flux per length, not magnetic field. Thus, 1Wb/m² is the correct definition of 1 Tesla."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Units of Measurement"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2021/2022",
+    "Question": {
+      "content": "A conductor of length 8m carries a current of 0.32A while kept in magnetic field of magnetic flux density 2.0T. What is the maximum force acting on it?",
+      "type": "OBJ",
+      "options": [
+        "5.12N",
+        "1.28N",
+        "0.64N",
+        "0.32N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5.12N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The force on a current-carrying conductor in a magnetic field is given by \\( F = I L B \\sin \\theta \\), where \\( I \\) is the current, \\( L \\) is the length, \\( B \\) is the magnetic flux density, and \\( \theta \\) is the angle between the conductor and the field. For the maximum force, \\( \\sin \\theta = 1 \\) (when the conductor is perpendicular to the field). Given \\( I = 0.32 \\text{A} \\), \\( L = 8 \\text{m} \\), and \\( B = 2.0 \\text{T} \\), the maximum force is \\( F = 0.32 \\times 8 \\times 2.0 \\times 1 = 5.12 \\text{N} \\). This makes 5.12N the correct answer. The other options—1.28N, 0.64N, and 0.32N—correspond to incorrect calculations or assumptions about \\( \theta \\) (e.g., 0.64N would imply \\( \\sin \\theta = 0.125 \\), which isn’t the maximum)."
+    },
+    "topic": [
+      "Magnetic Force",
+      "Magnetic Fields",
+      "Electric Current",
+      "Conductors"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2021/2022",
+    "Question": {
+      "content": "The magnetic force on a wire of length L carrying a current I immersed in a uniform magnetic field B and at an angle θ to the magnetic field is",
+      "type": "OBJ",
+      "options": [
+        "ILB sin θ",
+        "vLB sin θ",
+        "IL",
+        "Bθ"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ILB sin θ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic force on a current-carrying wire in a magnetic field is given by the formula \\( F = I L B \\sin \\theta \\), where \\( I \\) is the current, \\( L \\) is the length, \\( B \\) is the magnetic field, and \\( \theta \\) is the angle between the wire and the field. This makes ILB sin θ the correct answer, as it directly matches the standard formula. vLB sin θ is incorrect because \\( v \\) (velocity) applies to a moving charge, not a wire with current. IL is the force when \\( \theta = 90^\\circ \\), but the question specifies a general angle \\( \theta \\). Bθ is dimensionally incorrect and not a force formula. Thus, ILB sin θ is the correct expression."
+    },
+    "topic": [
+      "Magnetic Force",
+      "Magnetic Fields",
+      "Electric Current"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2021/2022",
+    "Question": {
+      "content": "Calculate the magnetic force on a conductor of length 10m carrying a current of 5A and placed perpendicular to magnetic field of 2.0T",
+      "type": "OBJ",
+      "options": [
+        "1kN",
+        "2kN",
+        "3kN",
+        "5kN"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the options match the calculated value (see explanation)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic force on a current-carrying conductor is \\( F = I L B \\sin \\theta \\). Here, \\( I = 5 \\text{A} \\), \\( L = 10 \\text{m} \\), \\( B = 2.0 \\text{T} \\), and the conductor is perpendicular to the field, so \\( \\sin \\theta = 1 \\). Thus, \\( F = 5 \\times 10 \\times 2.0 \\times 1 = 100 \\text{N} \\). However, the options are in kN: 1kN = 1000N, 2kN = 2000N, 3kN = 3000N, 5kN = 5000N. The calculated force, 100N, is 0.1kN, which isn’t listed. This suggests a possible error in the question’s options (perhaps the current or field strength is different). Based on the given values, the correct force is 100N, but since it’s not an option, none of the provided choices match."
+    },
+    "topic": [
+      "Magnetic Force",
+      "Magnetic Fields",
+      "Electric Current",
+      "Conductors",
+      "Units of Measurement"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2021/2022",
+    "Question": {
+      "content": "In the determination of the poles of a bar magnet, the north pole of the earth is actually the",
+      "type": "OBJ",
+      "options": [
+        "north pole of the bar magnet",
+        "south pole of the earth",
+        "south pole of the bar magnet",
+        "magnetic pole of the magnet"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "south pole of the earth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Earth’s magnetic north pole attracts the north pole of a bar magnet, meaning the Earth’s magnetic north pole is actually a magnetic south pole (since opposite poles attract), which is why south pole of the earth is the correct answer. North pole of the bar magnet and south pole of the bar magnet refer to the magnet’s poles, not the Earth’s. Magnetic pole of the magnet is vague and not specific to the Earth’s pole."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2021/2022",
+    "Question": {
+      "content": "The force on a charge travelling in a magnetic field is maximum when charge is",
+      "type": "OBJ",
+      "options": [
+        "moving parallel to the field",
+        "moving perpendicular",
+        "moving at 60° to the field",
+        "moving at 45° to the field"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "moving perpendicular"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The force on a moving charge in a magnetic field is given by \\( F = q v B \\sin \\theta \\), where \\( \\theta \\) is the angle between the velocity of the charge and the magnetic field. The force is maximum when \\( \\sin \\theta = 1 \\), which occurs at \\( \\theta = 90^\\circ \\), meaning the charge is moving perpendicular to the field. This makes moving perpendicular the correct answer. Moving parallel (\\( \\theta = 0^\\circ \\), \\( \\sin 0 = 0 \\)) results in zero force. Moving at 60° (\\( \\sin 60^\\circ \\approx 0.866 \\)) or 45° (\\( \\sin 45^\\circ \\approx 0.707 \\)) gives a smaller force."
+    },
+    "topic": [
+      "Magnetic Force",
+      "Magnetic Fields",
+      "Lorentz Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2019/2020",
+    "Question": {
+      "content": "An electron (speed \\(5\\times10^6\\,m/s\\)) encounters a 0.4T magnetic field at 30°. Find the magnetic force (\\(e = 1.6\\times10^{-19}C\\)).",
+      "type": "OBJ",
+      "options": [
+        "\\(1.6\\times10^{13}N\\)",
+        "\\(1.6\\times10^{-13}N\\)",
+        "\\(1.6\\times10^{-23}N\\)",
+        "\\(1.4\\times10^{-14}N\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(1.6\\times10^{-13}N\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic force \\(F = qvB\\sin\\theta\\). Substituting: \\(F = (1.6\\times10^{-19})(5\\times10^6)(0.4)\\sin30° = 1.6\\times10^{-13}N\\)."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Magnetic Fields",
+      "Magnetic Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2019/2020",
+    "Question": {
+      "content": "Force on a moving charge in a uniform magnetic field is maximum when the angle between \\(\\vec{v}\\) and \\(\\vec{B}\\) is:",
+      "type": "OBJ",
+      "options": [
+        "\\(0^\\circ\\)",
+        "\\(30^\\circ\\)",
+        "\\(60^\\circ\\)",
+        "\\(90^\\circ\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(90^\\circ\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic force \\(F = qvB\\sin\\theta\\) is maximized when \\(\\theta = 90^\\circ\\) (since \\(\\sin90^\\circ = 1\\))."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Magnetic Fields",
+      "Magnetic Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 55 @ 2019/2020",
+    "Question": {
+      "content": "The magnitude of force on a current-carrying conductor in a magnetic field is given by:",
+      "type": "OBJ",
+      "options": [
+        "\\(F = ILB\\cos\\theta\\)",
+        "\\(F = ILB\\tan\\theta\\)",
+        "\\(F = ILB\\sin\\theta\\)",
+        "\\(F = ILB\\sec^2\\theta\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(F = ILB\\sin\\theta\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The force on a current \\(I\\) in a conductor of length \\(L\\) in a field \\(B\\) is \\(F = ILB\\sin\\theta\\), where \\(\\theta\\) is the angle between current and field."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Electric Current and Resistance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 62 @ 2019/2020",
+    "Question": {
+      "content": "When a charged particle enters a uniform magnetic field, its motion becomes:",
+      "type": "OBJ",
+      "options": [
+        "Parabolic",
+        "Circular",
+        "Rectangular",
+        "Straight line"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Circular"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Lorentz force \\(F = qvB\\) acts perpendicular to velocity, causing circular motion: \\(r = \\frac{mv}{qB}\\)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2018/2019",
+    "Question": {
+      "content": "The force on a charge travelling in a magnetic field is maximum when charge is",
+      "type": "OBJ",
+      "options": [
+        "moving parallel to the field",
+        "moving perpendicular",
+        "moving at 60° to the field",
+        "moving 45° to the field"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "moving perpendicular"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The magnetic force on a moving charge is given by:</p> \\[ F = qvB\\sinθ \\] <p>Where θ is the angle between velocity (v) and magnetic field (B). The force is maximum when sinθ = 1 (θ = 90°), meaning the charge moves <b>perpendicular</b> to the field.</p>"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Magnetic Force",
+      "Charged Particle Motion",
+      "Lorentz Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2018/2019",
+    "Question": {
+      "content": "Calculate the magnetic force on a conductor of length 10m carrying a current of 5A and placed perpendicular to magnetic field of 20T.",
+      "type": "OBJ",
+      "options": [
+        "1kN",
+        "2kN",
+        "3kN",
+        "5kN"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1kN"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The magnetic force on a current-carrying conductor is:</p> \\[ F = BIL\\sinθ \\] <p>For θ = 90° (perpendicular):</p> \\[ F = 20T × 5A × 10m = 1000N = 1kN \\]"
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism",
+      "Magnetic Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 53 @ 2018/2019",
+    "Question": {
+      "content": "An ion (q = +2e) enters a magnetic field of 1.2T at a velocity of 2.5×10⁵m/s, perpendicular to the field. Determine the force on the ion.",
+      "type": "OBJ",
+      "options": [
+        "9.6×10⁻¹⁴N",
+        "9×10⁻⁷N",
+        "6.5×10⁻¹⁴N",
+        "15×10⁻¹⁴N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "9.6×10⁻¹⁴N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "F = qvBsinθ = (2×1.6×10⁻¹⁹C)(2.5×10⁵m/s)(1.2T)(sin90°) = 9.6×10⁻¹⁴N."
+    },
+    "topic": [
+      "Electromagnetism",
+      "Magnetic Force",
+      "Charged Particle Motion",
+      "Lorentz Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 54 @ 2018/2019",
+    "Question": {
+      "content": "A conductor of length 10m carries a current of 0.5A while kept in a magnetic field of magnetic flux density 2.0T. What is the maximum force acting on it?",
+      "type": "OBJ",
+      "options": [
+        "20N",
+        "30N",
+        "50N",
+        "40N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "F = I·L·B·sinθ. Maximum force occurs at θ=90°: F = (0.5A)(10m)(2.0T) = 10N. (Note: Correct answer not listed; options may be erroneous.)"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Magnetic Force",
+      "Current"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 55 @ 2018/2019",
+    "Question": {
+      "content": "A proton moves with a velocity of \\( V = (2\\mathbf{i} - 4\\mathbf{j} + \\mathbf{k}) \\, \\text{m/s} \\) in a region with a magnetic field of \\( B = 2.0 \\, \\text{T} \\). What is the magnitude of the magnetic force this charge experiences?",
+      "type": "OBJ",
+      "options": [
+        "\\( 2.34 \\times 10^{-18} \\, \\text{N} \\)",
+        "\\( 5.25 \\times 10^{-18} \\, \\text{N} \\)",
+        "\\( 4.0 \\times 10^{-18} \\, \\text{N} \\)",
+        "\\( 0.5 \\times 10^{-15} \\, \\text{N} \\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( 1.28 \\times 10^{-18} \\, \\text{N} \\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic force is given by \\( \\mathbf{F} = q \\mathbf{v} \\times \\mathbf{B} \\). For a proton \\( q = +e = 1.6 \\times 10^{-19} \\, \\text{C} \\). The cross product magnitude is \\( |\\mathbf{v} \\times \\mathbf{B}| = |(2\\mathbf{i} - 4\\mathbf{j} + \\mathbf{k}) \\times (2\\mathbf{k})| = |(-8\\mathbf{i} - 4\\mathbf{j})| = \\sqrt{(-8)^2 + (-4)^2} = \\sqrt{80} \\, \\text{m/s} \\cdot \\text{T} \\). Thus, \\( F = (1.6 \\times 10^{-19}) \\cdot \\sqrt{80} \\cdot 2 \\approx 1.28 \\times 10^{-18} \\, \\text{N} \\). (Note: Correct answer not listed; closest is option (a)."
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism",
+      "Magnetic Force",
+      "Charged Particle Motion",
+      "Lorentz Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 58 @ 2018/2019",
+    "Question": {
+      "content": "For moving charges, they experience a magnetic force in a magnetic field.",
+      "type": "OBJ",
+      "options": [
+        "\\( F_B = q \\cdot v \\cdot B \\)",
+        "\\( F_B = q v B \\)",
+        "\\( F_B = q \\mathbf{v} \\times \\mathbf{B} \\)",
+        "\\( F_B = q v (B) \\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( F_B = q \\mathbf{v} \\times \\mathbf{B} \\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic force on a moving charge is given by the cross product \\( \\mathbf{F}_B = q (\\mathbf{v} \\times \\mathbf{B}) \\), where \\( \\times \\) denotes the vector cross product. This ensures the force is perpendicular to both velocity and field."
+    },
+    "topic": [
+      "Electromagnetism",
+      "Magnetic Force",
+      "Charged Particle Motion",
+      "Lorentz Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 59 @ 2018/2019",
+    "Question": {
+      "content": "Alpha particles are accelerated from rest through a potential difference of 1.0kV. They then enter a magnetic field \\( B = 0.20 \\, \\text{T} \\) perpendicular to their direction of motion. Calculate the radius of their path. (\\( M_a = 6.68 \\times 10^{-27} \\, \\text{kg}, q = +2e \\))",
+      "type": "OBJ",
+      "options": [
+        "0.064m",
+        "0.016m",
+        "0.030m",
+        "0.032m"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.032m"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "1. **Energy from potential difference**: \\( K = q \\Delta V = (2e)(1000 \\, \\text{V}) = 3.2 \\times 10^{-16} \\, \\text{J} \\).  \n2. **Velocity**: \\( v = \\sqrt{\\frac{2K}{M_a}} = \\sqrt{\\frac{6.4 \\times 10^{-16}}{6.68 \\times 10^{-27}}} \\approx 3.1 \\times 10^5 \\, \\text{m/s} \\).  \n3. **Path radius**: \\( r = \\frac{M_a v}{qB} = \\frac{(6.68 \\times 10^{-27})(3.1 \\times 10^5)}{(3.2 \\times 10^{-19})(0.20)} \\approx 0.032 \\, \\text{m} \\)."
+    },
+    "topic": [
+      "Electromagnetism",
+      "Magnetic Force",
+      "Charged Particle Motion",
+      "Lorentz Force",
+      "Electric Potential",
+      "Work-Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 64 @ 2018/2019",
+    "Question": {
+      "content": "A conductor of length 8m carries a current of 0.32A while kept in a magnetic field of magnetic flux density 2.0T. What is the maximum force acting on it?",
+      "type": "OBJ",
+      "options": [
+        "5.12N",
+        "1.28N",
+        "0.64N",
+        "0.32N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5.12N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Maximum force occurs when \\( \\theta = 90^\\circ \\): \\( F = I L B \\sin\\theta = (0.32 \\, \\text{A})(8 \\, \\text{m})(2.0 \\, \\text{T})(1) = 5.12 \\, \\text{N} \\)."
+    },
+    "topic": [
+      "Electromagnetism",
+      "Magnetic Force",
+      "Current"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2017/2018",
+    "Question": {
+      "content": "Calculate the magnetic force on a 240m length of wire stretched between two towers carrying a 150A current. The Earth's magnetic field is 5.0×10⁻⁵T makes an angle 60° with the wire",
+      "type": "OBJ",
+      "options": [
+        "1.56N",
+        "0.04N",
+        "1.89N",
+        "0.52N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.56N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic force \\( F = I L B \\sin\\theta \\), where \\( I = 150A \\), \\( L = 240m \\), \\( B = 5.0 × 10^{-5}T \\), \\(\\theta = 60^\\circ \\), \\(\\sin 60^\\circ = \\sqrt{3}/2 \\approx 0.866\\). Thus, \\( F = 150 × 240 × 5.0 × 10^{-5} × 0.866 \\approx 1.56N \\)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Electromagnetism",
+      "Current-carrying wire"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2017/2018",
+    "Question": {
+      "content": "The magnitude of the magnetic force is given by",
+      "type": "OBJ",
+      "options": [
+        "\\(F = KILB\\sin\\theta\\)",
+        "\\(F = KILB\\cos\\theta\\)",
+        "\\(F = KILBtan\\theta\\)",
+        "\\(F = KILBcot\\theta \\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(F = KILB\\sin\\theta\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic force on a current-carrying wire is \\( F = I L B \\sin\\theta \\), where \\( K \\) is typically 1 in SI units, and \\(\\theta\\) is the angle between the current and magnetic field."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Electromagnetism",
+      "Current-carrying wire"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2017/2018",
+    "Question": {
+      "content": "Calculate the frequency of a cyclotron of magnetic field 1.5T and a maximum radius of 0.5m",
+      "type": "OBJ",
+      "options": [
+        "22.9MHz",
+        "11.8kHz",
+        "15.4GHz",
+        "40Hz"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "22.9MHz"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cyclotron frequency \\( f = \\frac{qB}{2\\pi m} \\), but for non-relativistic particles, \\( f = \\frac{Bq}{2\\pi m} \\). Using \\( q/m \\) for proton \\( \\approx 9.58 × 10^7 C/kg \\), \\( f = \\frac{1.5 × 9.58 × 10^7}{2\\pi} \\approx 2.29 × 10^7Hz = 22.9MHz \\) (assuming proton, radius affects max energy, not frequency directly)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Electromagnetism",
+      "Cyclotron Frequency"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 55 @ 2017/2018",
+    "Question": {
+      "content": "The magnitude of exerted force in a magnetic field is",
+      "type": "OBJ",
+      "options": [
+        "\\(F \\propto ILB\\cos\\theta\\)",
+        "\\( F \\propto ILB\\tan\\theta\\)",
+        "\\( F \\propto ILB\\sin\\theta\\)",
+        "\\(F \\propto ILB\\cot\\theta\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( F \\propto ILB\\sin\\theta\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The force on a current-carrying wire in a magnetic field is \\( F = ILB\\sin\\theta \\), proportional to the sine of the angle between the current and field."
+    },
+    "topic": [
+      "Magnetic Force",
+      "Magnetic Fields",
+      "Current-carrying wire",
+      "Electromagnetism",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 62 @ 2017/2018",
+    "Question": {
+      "content": "When a charged particle enters a uniform magnetic field, it describes a",
+      "type": "OBJ",
+      "options": [
+        "Parabolic",
+        "Circular",
+        "Rectangular",
+        "Straight line"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Circular"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A charged particle in a uniform magnetic field moves in a circular path due to the Lorentz force acting perpendicular to its velocity."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Electromagnetism"
+    ]
+  }
+]

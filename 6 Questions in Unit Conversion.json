@@ -1,0 +1,337 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Unit Conversion",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2019/2020",
+    "Question": {
+      "content": "A capacitor of 0.02µF is larger than:",
+      "type": "OBJ",
+      "options": [
+        "0.000020F",
+        "200,000pF",
+        "2,000pF",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "0.02µF = 20,000pF = 0.000020F. All options (a, b, c) are equivalent to or smaller than 0.02µF."
+    },
+    "topic": [
+      "Capacitance",
+      "Unit Conversion",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2019/2020",
+    "Question": {
+      "content": "A capacitor must light a 50W bulb for 30mins at 200V. What capacitance is needed?",
+      "type": "OBJ",
+      "options": [
+        "90F",
+        "45F",
+        "6F",
+        "9F"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "45F"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Energy required: \\(E = P \\times t = 50W \\times 1800s = 90,000J\\) Capacitor energy: \\(E = \\frac{1}{2}CV^2 \\) \\(C = \\frac{2E}{V^2} = \\frac{2 \\times 90,000}{(200)^2} = 4.5F\\) (Note: 45F is likely a typo in options)"
+    },
+    "topic": [
+      "Capacitance",
+      "DC Circuits",
+      "Electric Potential",
+      "Power",
+      "Unit Conversion",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2019/2020",
+    "Question": {
+      "content": "A parallel plate capacitor (3cm × 4cm plates, 2mm apart) is connected to 60V. Find its capacitance.",
+      "type": "OBJ",
+      "options": [
+        "3.2pF",
+        "5.3pF",
+        "5.3μF",
+        "5.3F"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5.3pF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitance \\(C = \\frac{\\epsilon_0 A}{d}\\). Area \\(A = 0.03m \\times 0.04m = 0.0012m^2\\), \\(d = 0.002m\\). \\(C = \\frac{(8.85\\times10^{-12})(0.0012)}{0.002} \\approx 5.3\\times10^{-12}F = 5.3pF\\)."
+    },
+    "topic": [
+      "Capacitance",
+      "Parallel Plate Capacitor",
+      "Electric Potential",
+      "Unit Conversion",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2019/2020",
+    "Question": {
+      "content": "Find the potential difference to give a helium nucleus (\\(q = 3.2\\times10^{-19}C\\)) \\(48\\times10^3eV\\) of kinetic energy.",
+      "type": "OBJ",
+      "options": [
+        "\\(1.5\\times10^{23}V\\)",
+        "\\(4.17\\times10^5V\\)",
+        "\\(24\\times10^4V\\)",
+        "\\(2.46\\times10^{33}V\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(24\\times10^4V\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "\\(KE = qV\\). Convert eV to Joules: \\(48\\times10^3eV = 48\\times10^3 \\times 1.6\\times10^{-19}J = 7.68\\times10^{-15}J\\). \\(V = \\frac{KE}{q} = \\frac{7.68\\times10^{-15}}{3.2\\times10^{-19}} = 24\\times10^3V\\). (Closest to option c.)"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electric Potential",
+      "Unit Conversion"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 49 @ 2019/2020",
+    "Question": {
+      "content": "A 4μF capacitor is desired. What plate area is needed for a 5cm air gap?",
+      "type": "OBJ",
+      "options": [
+        "0.023×10¹²m²",
+        "0.023×10⁶m²",
+        "0.023m²",
+        "0.023×10¹⁴m²"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.023×10⁶m²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Identical to Question 40. \\(A = \\frac{C \\cdot d}{\\epsilon_0} \\approx 0.023\\times10^6 m^2\\)."
+    },
+    "topic": [
+      "Capacitance",
+      "Parallel Plate Capacitor",
+      "Permittivity",
+      "Electrostatics",
+      "SI Units",
+      "Unit Conversion",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 58 @ 2019/2020",
+    "Question": {
+      "content": "One electron-volt (1 eV) is equivalent to:",
+      "type": "OBJ",
+      "options": [
+        "1.6×10⁻¹⁹ J",
+        "1.6×10⁻¹⁹ V",
+        "1.6×10⁻¹⁶ J",
+        "6.0×10⁻¹⁹ J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.6×10⁻¹⁹ J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "1 eV is the energy gained by an electron accelerated through 1 V: \\(1 eV = e \\times 1 V = 1.6\\times10^{-19} J\\)."
+    },
+    "topic": [
+      "Unit Conversion",
+      "Electric Potential",
+      "SI Units",
+      "Electricity & Magnetism"
+    ]
+  }
+]
