@@ -1,0 +1,521 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Current and Resistance",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2017/2018",
+    "Question": {
+      "content": "Cells are connected in parallel in order to",
+      "type": "OBJ",
+      "options": [
+        "Increase the charge available",
+        "Reduce cost of wiring",
+        "Increase the current available",
+        "Reduce the time required to fully charge them for effective use"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increase the current available"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Connecting cells in parallel increases the total current available while maintaining the same voltage, as it provides multiple paths for current flow."
+    },
+    "topic": [
+      "DC Circuits",
+      "Current and Resistance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 13 @ 2017/2018",
+    "Question": {
+      "content": "A 1\\(\\mu\\)F capacitor is charged using a constant current of 10\\(\\mu\\)A for 20seconds. What energy is finally stored by the capacitor?",
+      "type": "OBJ",
+      "options": [
+        "2 × 10³J",
+        "2 × 10²J",
+        "2 × 10¹J",
+        "2 × 10⁰J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2 × 10¹J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Charge \\( Q = I \\cdot t = 10 \\times 10^{-6} \\cdot 20 = 2 \\times 10^{-4}C \\). Voltage \\( V = \\frac{Q}{C} = \\frac{2 \\times 10^{-4}}{1 \\times 10^{-6}} = 200V \\). Energy \\( E = \\frac{1}{2} C V^2 = \\frac{1}{2} \\times 1 \\times 10^{-6} \\times (200)^2 = 0.5 \\times 10^{-6} \\times 40000 = 2 \\times 10^1J \\)."
+    },
+    "topic": [
+      "Capacitors and Dielectrics",
+      "DC Circuits",
+      "Current and Resistance",
+      "Electric Potential Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2017/2018",
+    "Question": {
+      "content": "Which of the following equations is another form of Ohm's Law? Where the symbols have their usual meanings",
+      "type": "OBJ",
+      "options": [
+        "\\(J = \\sigma E\\) ",
+        "\\(\\sigma= \\frac{1}{\\rho}\\)",
+        "\\(Vd = \\frac{I}{nq}\\)",
+        "\\(j = \\frac{I}{A}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(J = \\sigma E\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ohm's Law in terms of current density is \\( J = \\sigma E \\), where \\( J \\) is current density, \\( \\sigma \\) is conductivity, and \\( E \\) is the electric field, which is a standard form relating current to electric field in materials."
+    },
+    "topic": [
+      "Current and Resistance",
+      "Electric Fields",
+      "Current Density"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2017/2018",
+    "Question": {
+      "content": "An X-ray tube takes a current of 5mA and operates at a potential difference of 50kV. What power is dissipated?",
+      "type": "OBJ",
+      "options": [
+        "250W",
+        "500W",
+        "600W",
+        "350W"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "250W"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Power \\( P = I \\cdot V \\), where \\( I = 5 \\times 10^{-3}A \\) and \\( V = 50 \\times 10^3V \\). Thus, \\( P = 5 \\times 10^{-3} \\times 50 \\times 10^3 = 250W \\)."
+    },
+    "topic": [
+      "Current and Resistance",
+      "Electric Potential",
+      "DC Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2017/2018",
+    "Question": {
+      "content": "Three resistors 20\\(\\Omega\\), 6\\(\\Omega\\) and 9\\(\\Omega\\) are connected in series and a 120V battery connected across the combination. Calculate the current flowing in each resistor",
+      "type": "OBJ",
+      "options": [
+        "6.06A",
+        "7.06A",
+        "4.07A",
+        "9.06A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4.07A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Total resistance \\( R_{total} = 20 + 6 + 9 = 35 \\Omega \\). Current \\( I = \\frac{V}{R_{total}} = \\frac{120}{35} \\approx 4.07A \\). In series, the current is the same through each resistor."
+    },
+    "topic": [
+      "Current and Resistance",
+      "DC Circuits",
+      "Series Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2017/2018",
+    "Question": {
+      "content": "Which of the following is/are correct about Kirchhoff's rule? <ol type='I' start='1'><li>Kirchhoff's rule is based on the law of conservation of charge.</li><li>Kirchhoff's rule is based on the law of conservation of charge.</li><li>Kirchhoff's second rule states that the sum of average drops in pd across all resistances in a close circuit (closed loop) is equal to the sum of the e</li> </ol>",
+      "type": "OBJ",
+      "options": [
+        "I and III",
+        "I, II and IV",
+        "II and IV",
+        "I and II"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I and III"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Kirchhoff's first rule (junction rule) is based on conservation of charge, and the second rule (loop rule) is based on conservation of energy, stating the sum of voltage drops equals the sum of emfs. Momentum conservation (II) is not applicable."
+    },
+    "topic": [
+      "Kirchhoff's Laws",
+      "DC Circuits",
+      "Current and Resistance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2017/2018",
+    "Question": {
+      "content": "In converting galvanometer into an ammeter, which of the following is correct?",
+      "type": "OBJ",
+      "options": [
+        "A shunt Rs is connected in parallel with the galvanometer",
+        "A multiplier is connected in parallel with the galvanometer",
+        "A shunt, Rs is connected in series with the galvanometer",
+        "A multiplier is connected in series with the galvanometer"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A shunt Rs is connected in parallel with the galvanometer"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "To convert a galvanometer into an ammeter, a low-resistance shunt (Rs) is connected in parallel to allow most current to bypass the galvanometer, extending its range."
+    },
+    "topic": [
+      "DC Circuits",
+      "Current and Resistance",
+      "Electrical Measurement Instruments"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2017/2018",
+    "Question": {
+      "content": "The emf of a cell, E is 3V which is balanced across 1 - 100cm of a potentiometer wire. The cell is then shunted by the resistance Rs = 30\\(\\Omega\\). The required balance length is Ls = 80cm. What is the value of the current flowing through the shunt?",
+      "type": "OBJ",
+      "options": [
+        "0.125A",
+        "0.335A",
+        "0.225A",
+        "0.250A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.125A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Initial balance length = 100cm for 3V, so potential gradient = \\( \\frac{3}{100} = 0.03V/cm \\). New balance length = 80cm, so new voltage = \\( 0.03 \\times 80 = 2.4V \\). Shunt current \\( I_s = \\frac{E - V}{R_s} = \\frac{3 - 2.4}{30} = \\frac{0.6}{30} = 0.125A \\)."
+    },
+    "topic": [
+      "Electrical Measurement Instruments",
+      "DC Circuits",
+      "Current and Resistance",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2017/2018",
+    "Question": {
+      "content": "Three resistors R\\(_1\\) = 1\\(\\Omega\\), R\\(2\\) = 2\\(\\Omega\\) and R\\(3\\) = 3\\(\\Omega\\) are connected in parallel. Find the equivalent resistance",
+      "type": "OBJ",
+      "options": [
+        "\\(0.55\\Omega\\)",
+        "0.65\\(\\Omega\\)",
+        "0.75\\(\\Omega\\)",
+        "\\(0.85\\Omega\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(0.55\\Omega\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "For resistors in parallel, \\( \\frac{1}{R{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3} = 1 + 0.5 + 0.333 = 1.833 \\). Thus, \\( R{eq} = \\frac{1}{1.833} \\approx 0.55\\Omega \\)."
+    },
+    "topic": [
+      "Current and Resistance",
+      "DC Circuits",
+      "Parallel Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 45 @ 2017/2018",
+    "Question": {
+      "content": "The source of magnetic field is",
+      "type": "OBJ",
+      "options": [
+        "Electric field",
+        "Electric current",
+        "Force",
+        "Potential difference"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electric current"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic fields are generated by moving charges, i.e., electric currents, as per Ampere's Law and Biot-Savart Law."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Electromagnetism",
+      "Current and Resistance",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 56 @ 2017/2018",
+    "Question": {
+      "content": "A magnetic phenomenon to determine the sign of a charge carrier, either positive or negative is called",
+      "type": "OBJ",
+      "options": [
+        "Probe effect",
+        "Photovoltaic effect",
+        "Hall effect",
+        "Cyclotron"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hall effect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The Hall effect is used to determine the sign of charge carriers by measuring the voltage across a conductor in a magnetic field."
+    },
+    "topic": [
+      "Hall Effect",
+      "Magnetic Fields",
+      "Electromagnetism",
+      "Current and Resistance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 59 @ 2017/2018",
+    "Question": {
+      "content": "The potential difference between the terminals of a source when no current flows to an external circuit is called the",
+      "type": "OBJ",
+      "options": [
+        "Net voltage",
+        "Battery voltage",
+        "Electromotive force of the source",
+        "Equivalent voltage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electromotive force of the source"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The potential difference with no current flow is the electromotive force (EMF) of the source."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electric Potential",
+      "Current and Resistance",
+      "DC Circuits",
+      "Electromotive Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 68 @ 2017/2018",
+    "Question": {
+      "content": "An electric kettle draws a current of 4.0A when operated by a 230V source. Calculate the power rating of the kettle",
+      "type": "OBJ",
+      "options": [
+        "460W",
+        "920W",
+        "920kW",
+        "8.7×10³W"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "920W"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Power \\( P = I \\cdot V \\), where \\( I = 4.0A \\) and \\( V = 230V \\). Thus, \\( P = 4.0 × 230 = 920W \\)."
+    },
+    "topic": [
+      "Current and Resistance",
+      "Electric Potential",
+      "Electrical Power"
+    ]
+  }
+]
