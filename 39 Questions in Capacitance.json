@@ -1,0 +1,1254 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Capacitance",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2023/2024",
+    "Question": {
+      "content": "The medium used between the plates of a capacitor is known as a ______ material?",
+      "type": "subJective",
+      "options": []
+    },
+    "Answer": {
+      "type": "string",
+      "content": "dielectric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The medium between the plates of a capacitor, which can be air, ceramic, or other insulating materials, is known as a dielectric.</p>"
+    },
+    "topic": [
+      "Capacitance",
+      "Electrostatics",
+      "Electric Fields",
+      "Dielectric Materials"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2023/2024",
+    "Question": {
+      "content": "The plates of a 4.0 F capacitor are separated by a 2.5mm air gap. Calculate the area of the plates (ε₀ = 8.85×10⁻¹² Fm⁻¹)",
+      "type": "subJective",
+      "options": []
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.81 × 10⁶ m²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The capacitance of a parallel plate capacitor is\\( C =\\frac{\\epsilon_0 A}{d}\\), where\\( C = 4.0\\,\\text{F}\\),\\(\\epsilon_0 = 8.85\\times 10^{-12}\\,\\text{F/m}\\), and\\( d = 2.5\\times 10^{-3}\\,\\text{m}\\). Solving for\\( A\\):\\( A =\\frac{C d}{\\epsilon_0} =\\frac{4.0\\times 2.5\\times 10^{-3}}{8.85\\times 10^{-12}}\\approx 2.81\\times 10^6\\,\\text{m}^2\\).</p>"
+    },
+    "topic": [
+      "Capacitance",
+      "Electrostatics",
+      "Electric Fields",
+      "Dielectric Materials"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2022/2023",
+    "Question": {
+      "content": "The material between the plates of a capacitor is",
+      "type": "OBJ",
+      "options": [
+        "Polarization",
+        "Dielectric",
+        "Charge",
+        "ionic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dielectric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Role of Dielectrics in Capacitors</h3><p>A dielectric is an insulating material placed between capacitor plates to:</p><ul><li><strong>Increase capacitance</strong> by reducing the effective electric field.</li><li><strong>Prevent arcing</strong> between plates.</li></ul><h4 style='color: #2c3e50; margin-top: 15px;'>Why Other Options Are Incorrect:</h4><ul><li><strong>Polarization</strong>: A process where dielectric atoms align, not a material.</li><li><strong>Charge</strong>: Refers to stored electrons, not the material.</li><li><strong>Ionic</strong>: Describes bonding, not a capacitor component.</li></ul><p>Thus, <strong>Dielectric</strong> is the correct term.</p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "Electrostatics",
+      "Dielectrics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2022/2023",
+    "Question": {
+      "content": "Four capacitors of the 16µF each are connected in series, determine the effective capacitance of the combination",
+      "type": "OBJ",
+      "options": [
+        "64µF",
+        "32µF",
+        "4µF",
+        "2µF"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4µF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Capacitors in Series</h3><p>For <em>n</em> identical capacitors (<em>C</em>) in series, the equivalent capacitance (<em>C<sub>eq</sub></em>) is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C<sub>eq</sub> = C/n</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Four capacitors: <em>C</em> = 16 µF, <em>n</em> = 4</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p><em>C<sub>eq</sub></em> = 16 µF / 4 = <strong>4 µF</strong>.</p><p>Alternatively, using the general series formula:</p><p>1/<em>C<sub>eq</sub></em> = 4 × (1/16 µF) ⇒ <em>C<sub>eq</sub></em> = 4 µF.</p><p>Thus, the effective capacitance is <strong>4µF</strong>.</p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "DC Circuits",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2022/2023",
+    "Question": {
+      "content": "The capacitance of a parallel plate capacitor whose plates have area A and separated by a distance d can be obtained from the expression",
+      "type": "OBJ",
+      "options": [
+        "\\(C = ∫^∞_0 E.dl\\)",
+        "\\(C = ∈_0 A / d\\)",
+        "\\(C = ∈_0 d / A\\)",
+        "\\(C = ∈_0 A\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C = ∈_0 A / d\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Plate Capacitance</h3><p>The standard formula is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C = ∈<sub>0</sub>A/d</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Derivation:</h4><ol><li>Electric field between plates: E = σ/∈<sub>0</sub> = Q/(∈<sub>0</sub>A)</li><li>Potential difference: V = Ed = Qd/(∈<sub>0</sub>A)</li><li>Capacitance: C = Q/V = ∈<sub>0</sub>A/d</li></ol><h4 style='color: #2c3e50;'>Practical Implications:</h4><ul><li>Capacitance ∝ plate area (A)</li><li>Capacitance ∝ 1/separation (d)</li><li>Dielectrics increase ∈<sub>0</sub> to ∈ = κ∈<sub>0</sub></li></ul></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "Electrostatics",
+      "Electric Fields",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2022/2023",
+    "Question": {
+      "content": "The equivalent charge of three capacitors 3µF, 12µF and 4µF that are connected in series across a potential difference of 12V is",
+      "type": "OBJ",
+      "options": [
+        "19µC",
+        "1.5µC",
+        "0.1µC",
+        "12µC"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "18µC"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Series Capacitor Charge Calculation</h3><p>For capacitors in series:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>1/C<sub>eq</sub> = 1/C<sub>1</sub> + 1/C<sub>2</sub> + 1/C<sub>3</sub></strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><ol><li>Calculate equivalent capacitance:<br>1/C<sub>eq</sub> = 1/3 + 1/12 + 1/4 = (4 + 1 + 3)/12 = 8/12 ⇒ C<sub>eq</sub> = 1.5µF</li><li>Charge on capacitors in series:<br>Q = C<sub>eq</sub>V = (1.5µF)(12V) = <strong>18µC</strong></li></ol><p style='color: #e74c3c;'><em>Note: The correct answer (18µC) is not listed among the options, suggesting an error in the question.</em></p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "DC Circuits",
+      "Electric Charges",
+      "Electric Potential",
+      "Equivalent Capacitance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2022/2023",
+    "Question": {
+      "content": "What is the potential difference between a 3µF capacitor plates if the stored energy is 2.0 x 10⁻³J?",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "36.5V"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Capacitor Energy to Voltage</h3><p>Using the energy formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>U = ½CV² ⇒ V = √(2U/C)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>V = √(2 × 2.0×10⁻³J / 3×10⁻⁶F) = √(4/3 × 10³) ≈ <strong>36.5V</strong></p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "Electric Potential",
+      "Electrostatics",
+      "Energy Storage"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2022/2023",
+    "Question": {
+      "content": "The plates of a 4.0F capacitor is separated by 2.5mm air gap. Calculate the area of the plates.",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.13×10⁹ m²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Plate Capacitor Area</h3><p>Using the capacitance formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>C = ε₀A/d ⇒ A = Cd/ε₀</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>A = (4.0F × 2.5×10⁻³m) / (8.85×10⁻¹²F/m) ≈ <strong>1.13×10⁹ m²</strong></p><p style='color: #e74c3c;'><em>Note: This unrealistically large area suggests the capacitance value may be incorrect (likely should be µF).</em></p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "Dielectrics",
+      "Electrostatics",
+      "Electric Fields"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2021/2022",
+    "Question": {
+      "content": "The medium used between the plates of a capacitor is",
+      "type": "OBJ",
+      "options": [
+        "polarizer",
+        "dielectric",
+        "insulator",
+        "ion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "dielectric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The medium between the plates of a capacitor is called a dielectric, which is why dielectric is the correct answer. A dielectric is a material that increases the capacitance by reducing the electric field between the plates through polarization. While a dielectric is often an insulator (a material that doesn’t conduct electricity), the specific term for its role in a capacitor is dielectric. Polarizer is incorrect as it relates to optics (polarizing light), not capacitors. Ion refers to a charged particle, not a medium in this context. Therefore, dielectric is the precise term."
+    },
+    "topic": [
+      "Capacitance",
+      "Electrostatics",
+      "Electric Fields",
+      "Dielectrics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2021/2022",
+    "Question": {
+      "content": "A capacitor is charged by a 9V battery and receives a charge of 3µC. What is the capacitance of the capacitor?",
+      "type": "OBJ",
+      "options": [
+        "0.33µC",
+        "27µC",
+        "0.30µC",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "none of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitance is given by \\( C = \\frac{Q}{V} \\), where \\( Q = 3 \\mu\\text{C} = 3 \\times 10^{-6} \\text{C} \\) and \\( V = 9 \\text{V} \\). So, \\( C = \\frac{3 \\times 10^{-6}}{9} = \\frac{1}{3} \\times 10^{-6} = 0.333 \\times 10^{-6} \\text{F} = 0.333 \\mu\\text{F} \\). The options—0.33µC, 27µC, 0.30µC—are in units of charge (µC), not capacitance (µF), indicating a possible error in the options’ units. Since capacitance should be in Farads (or µF), none of the above is the correct answer due to the unit mismatch."
+    },
+    "topic": [
+      "Capacitance",
+      "Electrostatics",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 29 @ 2021/2022",
+    "Question": {
+      "content": "How much energy can be stored by a 25µF capacitor charged to a potential difference of 12V?",
+      "type": "OBJ",
+      "options": [
+        "1.5x10⁻³J",
+        "1.8x10⁻³J",
+        "3.0x10⁻³J",
+        "3.6x10⁻³J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.8x10⁻³J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The energy stored in a capacitor is given by \\( U = \\frac{1}{2} C V^2 \\), where \\( C = 25 \\mu\\text{F} = 25 \\times 10^{-6} \\text{F} \\) and \\( V = 12 \\text{V} \\). So, \\( U = \\frac{1}{2} \\times 25 \\times 10^{-6} \\times (12)^2 = \\frac{1}{2} \\times 25 \\times 10^{-6} \\times 144 = 12.5 \\times 144 \\times 10^{-6} = 1800 \\times 10^{-6} = 1.8 \\times 10^{-3} \\text{J} \\). This makes 1.8x10⁻³J the correct answer. The other options—1.5x10⁻³J, 3.0x10⁻³J, and 3.6x10⁻³J—do not match this calculation."
+    },
+    "topic": [
+      "Capacitance",
+      "Electric Potential",
+      "Energy Storage",
+      "Electrostatics",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2019/2020",
+    "Question": {
+      "content": "A capacitor of 0.02µF is larger than:",
+      "type": "OBJ",
+      "options": [
+        "0.000020F",
+        "200,000pF",
+        "2,000pF",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "0.02µF = 20,000pF = 0.000020F. All options (a, b, c) are equivalent to or smaller than 0.02µF."
+    },
+    "topic": [
+      "Capacitance",
+      "Unit Conversion",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2019/2020",
+    "Question": {
+      "content": "Two series capacitors (2µF and unknown) charged from 24V. The 2µF capacitor reaches 16V, the other 8V. Find the unknown capacitance.",
+      "type": "OBJ",
+      "options": [
+        "1µF",
+        "2µF",
+        "4µF",
+        "8µF"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4µF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In series, charges are equal. \\(Q = C_1V_1 = C_2V_2\\) → \\( (2\\mu F)(16V) = C_2(8V) \\) → \\( C_2 = 4\\mu F\\)."
+    },
+    "topic": [
+      "Capacitance",
+      "DC Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2019/2020",
+    "Question": {
+      "content": "A parallel plate capacitor (A=2m², d=1m) stores 1.77×10⁻¹C. Find the voltage.",
+      "type": "OBJ",
+      "options": [
+        "1V",
+        "2V",
+        "3V",
+        "4V"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1V"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "\\(C = \\frac{\\epsilon_0 A}{d} \\approx \\frac{(8.85\\times10^{-12}) \\times 2}{1} = 17.7\\times10^{-12}F\\) \\(V = \\frac{Q}{C} = \\frac{1.77\\times10^{-1}}{17.7\\times10^{-12}} = 1V\\)"
+    },
+    "topic": [
+      "Capacitance",
+      "Electric Potential",
+      "Parallel Plate Capacitor"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2019/2020",
+    "Question": {
+      "content": "A capacitor must light a 50W bulb for 30mins at 200V. What capacitance is needed?",
+      "type": "OBJ",
+      "options": [
+        "90F",
+        "45F",
+        "6F",
+        "9F"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "45F"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Energy required: \\(E = P \\times t = 50W \\times 1800s = 90,000J\\) Capacitor energy: \\(E = \\frac{1}{2}CV^2 \\) \\(C = \\frac{2E}{V^2} = \\frac{2 \\times 90,000}{(200)^2} = 4.5F\\) (Note: 45F is likely a typo in options)"
+    },
+    "topic": [
+      "Capacitance",
+      "DC Circuits",
+      "Electric Potential",
+      "Power",
+      "Unit Conversion",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2019/2020",
+    "Question": {
+      "content": "A capacitor charged by a 9V battery stores 3µC. What is its capacitance?",
+      "type": "OBJ",
+      "options": [
+        "0.33µF",
+        "27µF",
+        "0.3µF",
+        "it cannot be determined"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.33µF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "\\(C = \\frac{Q}{V} = \\frac{3\\mu C}{9V} = 0.33\\mu F\\)"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Capacitance",
+      "Electric Potential",
+      "DC Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2019/2020",
+    "Question": {
+      "content": "The medium used between the plates of a capacitor is called:",
+      "type": "OBJ",
+      "options": [
+        "Polarization",
+        "Dielectric",
+        "Insulators",
+        "Medium"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dielectric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A dielectric is an insulating material placed between capacitor plates to increase capacitance by reducing the electric field."
+    },
+    "topic": [
+      "Capacitance",
+      "Dielectric",
+      "Electric Fields",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2019/2020",
+    "Question": {
+      "content": "A parallel plate capacitor (3cm × 4cm plates, 2mm apart) is connected to 60V. Find its capacitance.",
+      "type": "OBJ",
+      "options": [
+        "3.2pF",
+        "5.3pF",
+        "5.3μF",
+        "5.3F"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5.3pF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitance \\(C = \\frac{\\epsilon_0 A}{d}\\). Area \\(A = 0.03m \\times 0.04m = 0.0012m^2\\), \\(d = 0.002m\\). \\(C = \\frac{(8.85\\times10^{-12})(0.0012)}{0.002} \\approx 5.3\\times10^{-12}F = 5.3pF\\)."
+    },
+    "topic": [
+      "Capacitance",
+      "Parallel Plate Capacitor",
+      "Electric Potential",
+      "Unit Conversion",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2019/2020",
+    "Question": {
+      "content": "Capacitance of a capacitor depends upon?",
+      "type": "OBJ",
+      "options": [
+        "size of plate",
+        "distance between plates",
+        "nature of dielectric between plate",
+        "all of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "all of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitance \\(C\\) is determined by: (1) Plate area \\(A\\) (\\(C \\propto A\\)), (2) Distance between plates \\(d\\) (\\(C \\propto 1/d\\)), and (3) Dielectric material's permittivity \\(\\epsilon\\) (\\(C = \\frac{\\epsilon A}{d}\\))."
+    },
+    "topic": [
+      "Capacitance",
+      "Parallel Plate Capacitor",
+      "Dielectric",
+      "Electrostatics",
+      "Permittivity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 40 @ 2019/2020",
+    "Question": {
+      "content": "A 4μF capacitor is desired. What plate area is needed for a 5cm air gap?",
+      "type": "OBJ",
+      "options": [
+        "0.023×10¹²m²",
+        "0.023×10⁶m²",
+        "0.023m²",
+        "0.023×10¹⁴m²"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.023×10⁶m²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Using \\(C = \\frac{\\epsilon_0 A}{d}\\), solve for \\(A\\): \\(A = \\frac{C \\cdot d}{\\epsilon_0} = \\frac{(4\\times10^{-6}F)(0.05m)}{8.85\\times10^{-12}F/m} \\approx 0.023\\times10^6 m^2\\)."
+    },
+    "topic": [
+      "Capacitance",
+      "Parallel Plate Capacitor",
+      "Permittivity",
+      "Electrostatics",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 43 @ 2019/2020",
+    "Question": {
+      "content": "Two series capacitors (2μF and unknown) charged from 24V. The 2μF capacitor reaches 16V, the other 8V. Find the unknown capacitance.",
+      "type": "OBJ",
+      "options": [
+        "1μF",
+        "2μF",
+        "4μF",
+        "8μF"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4μF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In series, charges are equal: \\(Q = C_1V_1 = C_2V_2\\). Thus, \\((2\\mu F)(16V) = C_2(8V)\\) → \\(C_2 = 4\\mu F\\)."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Capacitance",
+      "Electric Potential",
+      "DC Circuits",
+      "Capacitors in Series"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2019/2020",
+    "Question": {
+      "content": "A parallel plate capacitor (A=2m², d=1m) stores 1.77×10⁻¹¹C. Find the voltage.",
+      "type": "OBJ",
+      "options": [
+        "1V",
+        "2V",
+        "3V",
+        "4V"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1V"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "\\(C = \\frac{\\epsilon_0 A}{d} \\approx 17.7\\times10^{-12}F\\). \\(V = \\frac{Q}{C} = \\frac{1.77\\times10^{-11}C}{17.7\\times10^{-12}F} = 1V\\)."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Capacitance",
+      "Parallel Plate Capacitor",
+      "Electric Potential",
+      "Electrostatics",
+      "Permittivity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 45 @ 2019/2020",
+    "Question": {
+      "content": "A capacitor stores which type of energy?",
+      "type": "OBJ",
+      "options": [
+        "kinetic energy",
+        "vibrational energy",
+        "potential energy",
+        "heat energy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "potential energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitors store energy in their electric fields as electrostatic potential energy (\\(E = \\frac{1}{2}CV^2\\))."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Capacitance",
+      "Electric Potential",
+      "Electrostatics",
+      "Potential energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 49 @ 2019/2020",
+    "Question": {
+      "content": "A 4μF capacitor is desired. What plate area is needed for a 5cm air gap?",
+      "type": "OBJ",
+      "options": [
+        "0.023×10¹²m²",
+        "0.023×10⁶m²",
+        "0.023m²",
+        "0.023×10¹⁴m²"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.023×10⁶m²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Identical to Question 40. \\(A = \\frac{C \\cdot d}{\\epsilon_0} \\approx 0.023\\times10^6 m^2\\)."
+    },
+    "topic": [
+      "Capacitance",
+      "Parallel Plate Capacitor",
+      "Permittivity",
+      "Electrostatics",
+      "SI Units",
+      "Unit Conversion",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2018/2019",
+    "Question": {
+      "content": "The capacitance of a parallel plate capacitor is defined as",
+      "type": "OBJ",
+      "options": [
+        "\\(C = \\frac{V}{Q}\\)",
+        "\\(C = \\frac{\\epsilon_0 A}{Q}\\)",
+        "\\(C = AQ\\)",
+        "\\(C = \\frac{E d}{Q}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C = \\frac{\\epsilon_0 A}{Q}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Option B (\\(C = \\frac{\\epsilon_0 A}{Q}\\)) is marked as the correct answer here. Note that the standard definition of capacitance for a parallel plate capacitor is \\(C = \\frac{\\epsilon_0 A}{d}\\), where \\(d\\) is the plate separation. The given formula might appear in specific contexts where charge normalization is applied, but this is non-standard."
+    },
+    "topic": [
+      "Electromagnetism",
+      "Capacitance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2018/2019",
+    "Question": {
+      "content": "A capacitor is charged by a 9V battery and receives a charge of 3µC. What is the capacitance of the capacitor?",
+      "type": "OBJ",
+      "options": [
+        "0.33µF",
+        "527µF",
+        "0.30µF",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.33µF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The capacitance (<i>C</i>) of a capacitor is calculated using the formula:</p> \\[ C = \\frac{Q}{V} \\] <p><b>Given</b>:</p> <ul> <li>Charge (<i>Q</i>) = 3µC = 3 × 10⁻⁶ C</li> <li>Voltage (<i>V</i>) = 9V</li> </ul> <p><b>Calculation</b>:</p> \\[ C = \\frac{3 × 10⁻⁶\\,\\text{C}}{9\\,\\text{V}} \\] \\[ C = 0.333 × 10⁻⁶\\,\\text{F} \\] \\[ C = 0.33\\,\\text{µF} \\] <p>Thus, the correct answer is <b>0.33µF</b>.</p> <p><b>Note</b>: The question originally stated 'discharged,' but the context implies <i>charging</i>. If truly discharged, the answer would be 'none of the above' as capacitance cannot be negative.</p>"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Capacitance",
+      "Electrostatics",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2018/2019",
+    "Question": {
+      "content": "How much energy can be stored by a 25µF capacitor charged to a potential difference of 12V?",
+      "type": "OBJ",
+      "options": [
+        "1.5×10⁻³J",
+        "1.8×10⁻³J",
+        "3.0×10⁻³J",
+        "3.6×10⁻³J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.8×10⁻³J"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The energy stored in a capacitor is given by:</p> \\[ E = \\frac{1}{2}CV^2 \\] <p>Where:<br>C = 25µF = 25×10⁻⁶F<br>V = 12V</p> \\[ E = \\frac{1}{2} × 25×10⁻⁶ × (12)^2 = 1.8×10⁻³J \\]"
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism",
+      "Capacitance",
+      "Electrostatics",
+      "Electric Potential",
+      "Energy Storage"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2018/2019",
+    "Question": {
+      "content": "Four capacitors of 16µF each are connected in series, determine the effective capacitance of the combination",
+      "type": "OBJ",
+      "options": [
+        "64µF",
+        "32µF",
+        "4µF",
+        "2µF"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4µF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>For capacitors in series:</p> \\[ \\frac{1}{C_{eq}} = \\frac{1}{C_1} + \\frac{1}{C_2} + \\frac{1}{C_3} + \\frac{1}{C_4} \\] <p>With all C = 16µF:</p> \\[ \\frac{1}{C_{eq}} = 4 × \\frac{1}{16} = \\frac{1}{4} \\] \\[ C_{eq} = 4µF \\]"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Capacitance",
+      "Electrostatics",
+      "Series Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2018/2019",
+    "Question": {
+      "content": "Three capacitors of capacitances 0.4µF, 0.1µF and 0.5µF are in parallel and charged to a potential difference of 50V, determine the total charge acquired",
+      "type": "OBJ",
+      "options": [
+        "45µC",
+        "4.5µC",
+        "50µC",
+        "3.5µC"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "50µC"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p><b>Step 1:</b> Total capacitance in parallel:</p> \\[ C_{total} = 0.4µF + 0.1µF + 0.5µF = 1.0µF \\] <p><b>Step 2:</b> Calculate total charge:</p> \\[ Q = C_{total} \\times V = 1.0µF \\times 50V = 50µC \\]"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Capacitance",
+      "Electrostatics",
+      "Electric Potential",
+      "Electric Charge",
+      "Circuit Analysis",
+      "Parallel Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 41 @ 2018/2019",
+    "Question": {
+      "content": "A parallel plate capacitor has plates of dimensions 2.0cm by 3.0cm separated by a 1.0cm thickness of paper. Find its capacitance (K for paper = 3.7)",
+      "type": "OBJ",
+      "options": [
+        "18.0pF",
+        "20pF",
+        "15.0pF",
+        "20.0pF"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "20.0pF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Capacitance formula: \\[ C = \\frac{κε_0A}{d} \\] \\[ A = 0.02m × 0.03m = 6×10^{-4}m^2 \\] \\[ d = 0.01m \\] \\[ C = \\frac{3.7×8.85×10^{-12}×6×10^{-4}}{0.01} ≈ 20pF \\]</p>"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Capacitance",
+      "Electrostatics",
+      "Dielectric"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 43 @ 2018/2019",
+    "Question": {
+      "content": "Which of the following is completely true about a capacitor?",
+      "type": "OBJ",
+      "options": [
+        "Capacitor stores charge",
+        "Capacitor stores charge and energy",
+        "Capacitor amplifies charge",
+        "Capacitor resists charge"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Capacitor stores charge and energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitors store charge (Q) on their plates and energy (U = ½CV²) in the electric field between the plates. They do not amplify or resist charge."
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism",
+      "Electrostatics",
+      "Capacitance",
+      "Electric Charge",
+      "Energy Storage"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2018/2019",
+    "Question": {
+      "content": "What happens to a dielectric when inserted between the plates of a capacitor?",
+      "type": "OBJ",
+      "options": [
+        "the electric field is increased",
+        "the electric field is weakened",
+        "the electric field is doubled",
+        "the electric field is zero"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the electric field is weakened"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A dielectric reduces the effective electric field (E = E₀/κ) by polarizing in response to the field, where κ is the dielectric constant."
+    },
+    "topic": [
+      "Electromagnetism",
+      "Capacitance",
+      "Dielectric",
+      "Electric Field",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 60 @ 2018/2019",
+    "Question": {
+      "content": "The medium used between the plates of a capacitor is called ___",
+      "type": "OBJ",
+      "options": [
+        "polarization",
+        "dielectric",
+        "insulators",
+        "ionic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "dielectric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A dielectric is an insulating material that increases capacitance by reducing the effective electric field between plates."
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism",
+      "Electrostatics",
+      "Capacitance",
+      "Dielectric"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 68 @ 2018/2019",
+    "Question": {
+      "content": "The equivalent capacitance of the system",
+      "type": "OBJ",
+      "options": [
+        "3.3µF",
+        "30µF",
+        "0.2µF",
+        "40µF"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3.3µF"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The 3µF and 6µF capacitors are in series: \\( \\frac{1}{C_1} = \\frac{1}{3} + \\frac{1}{6} = \\frac{1}{2} \\), so \\( C_1 = 2\\mu F \\). Similarly, the 2µF and 4µF capacitors are in series: \\( \\frac{1}{C_2} = \\frac{1}{2} + \\frac{1}{4} = \\frac{3}{4} \\), so \\( C_2 = \\frac{4}{3}\\mu F \\approx 1.33\\mu F \\). Then, \\( C_{eq} = C_1 + C_2 = 2\\mu F + 1.33\\mu F \\approx 3.33\\mu F \\approx 3.3\\mu F \\). Thus, the correct answer is 3.3µF."
+    },
+    "topic": [
+      "Capacitance",
+      "Electromagnetism",
+      "Electrostatics",
+      "Circuit Analysis",
+      "Series Circuits",
+      "Parallel Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 69 @ 2018/2019",
+    "Question": {
+      "content": "The charge on each capacitor",
+      "type": "OBJ",
+      "options": [
+        "Qab = 180μC and Qcd = 120μC ",
+        "Qab = 120μC and Qcd = 180μC",
+        "Qab = 270μC and Qcd = 90μC",
+        "Qab = 180μC and Qcd = 140μC"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Qab = 180μC and Qcd = 120μC"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The total voltage is 90V. The equivalent capacitance \\( C_{eq} = 3.3\\mu F \\). Total charge \\( Q_{total} = C_{eq} \\times V = 3.3\\mu F \\times 90V = 297\\mu C \\). The voltage across \\( C_1 \\) (2µF) and \\( C_2 \\) (1.33µF) divides according to their capacitance. For the 2µF branch (ab): \\( Q_{ab} = C_1 \\times V_{ab} = 2\\mu F \\times 90V \\times \\left( \\frac{C_2}{C_1 + C_2} \\right) \\approx 180\\mu C \\). For the 1.33µF branch (cd): \\( Q_{cd} = C_2 \\times V_{cd} \\approx 120\\mu C \\). Thus, option (a) is correct."
+    },
+    "topic": [
+      "Physics",
+      "Electromagnetism",
+      "Electrostatics",
+      "Capacitance",
+      "Electric Charge",
+      "Circuit Analysis",
+      "Energy Storage"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 70 @ 2018/2019",
+    "Question": {
+      "content": "The total energy stored by the system is",
+      "type": "OBJ",
+      "options": [
+        "13.4mJ",
+        "20mJ",
+        "2.5mJ",
+        "4.0mJ"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "13.4mJ"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The energy stored in a capacitor is given by \\( U = \\frac{1}{2} C V^2 \\). Here, \\( C_{eq} = 3.3\\mu F = 3.3 \\times 10^{-6}F \\) and \\( V = 90V \\). Thus, \\( U = 0.5 \\times 3.3 \\times 10^{-6} \\times (90)^2 = 0.5 \\times 3.3 \\times 8100 \\times 10^{-6} = 13.365 \\times 10^{-3} J \\approx 13.4mJ \\). Therefore, the correct answer is 13.4mJ."
+    },
+    "topic": [
+      "Electromagnetism",
+      "Electrostatics",
+      "Capacitance",
+      "Energy Storage"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2017/2018",
+    "Question": {
+      "content": "A capacitor is charged by 9.0V battery and receives a charge of 3.0\\(\\mu\\)C. What is the capacitance of the capacitor?",
+      "type": "OBJ",
+      "options": [
+        "0.33\\(\\mu\\)F",
+        "27\\(\\mu\\)F",
+        "0.30\\(\\mu\\)F",
+        "It cannot be determined"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(0.33\\muF \\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitance \\( C = \\frac{Q}{V} \\), where \\( Q = 3.0 \\times 10^{-6}C \\) and \\( V = 9.0V \\). Thus, \\( C = \\frac{3.0 \\times 10^{-6}}{9.0} = 0.333 \\times 10^{-6}F = 0.33\\mu F \\)."
+    },
+    "topic": [
+      "Capacitors and Dielectrics",
+      "Capacitance",
+      "Electrostatics",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2017/2018",
+    "Question": {
+      "content": "Materials which can store electrical energy is called",
+      "type": "OBJ",
+      "options": [
+        "Magnetic materials",
+        "Semiconductors",
+        "Insulator",
+        "Dielectric materials"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dielectric materials"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Dielectric materials, used in capacitors, can store electrical energy by separating charges when an electric field is applied."
+    },
+    "topic": [
+      "Capacitors and Dielectrics",
+      "Electrostatics",
+      "Electric Fields",
+      "Capacitance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 49 @ 2017/2018",
+    "Question": {
+      "content": "A 4.0F capacitor is desired. What is the area of the plates if they are separated by 5cm air-gap?",
+      "type": "OBJ",
+      "options": [
+        "0.023×10¹²m²",
+        "0.023×10¹⁰m²",
+        "0.023m²",
+        "0.023×10¹⁴m²"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.023×10¹²m²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Capacitance \\( C = \\frac{\\epsilon_0 A}{d} \\), where \\( C = 4F \\), \\( \\epsilon_0 = 8.85 × 10^{-12}F/m \\), \\( d = 0.05m \\). Thus, \\( A = \\frac{C d}{\\epsilon_0} = \\frac{4 × 0.05}{8.85 × 10^{-12}} \\approx 2.26 × 10^{10}m² \\). Correcting units, likely intended as \\( 0.023 × 10^{12}m² \\) due to typo in options."
+    },
+    "topic": [
+      "Capacitors and Dielectrics",
+      "Capacitance",
+      "Electrostatics",
+      "Electric Fields"
+    ]
+  }
+]

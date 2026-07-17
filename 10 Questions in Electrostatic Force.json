@@ -1,0 +1,446 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Electrostatic Force",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2019/2020",
+    "Question": {
+      "content": "Find the electrostatic force between an α-particle (2e) and an electron (e) 10⁻³m apart (e = 1.6×10⁻¹⁹C).",
+      "type": "OBJ",
+      "options": [
+        "0.046N",
+        "0.46N",
+        "4.6N",
+        "46N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.046N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "\\(F = k_e \\frac{|q_1 q_2|}{r^2} = (8.99\\times10^9) \\frac{|(2 \\times 1.6\\times10^{-19})(1.6\\times10^{-19})|}{(10^{-3})^2} \\approx 0.046N\\)"
+    },
+    "topic": [
+      "Electrostatic Force",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2019/2020",
+    "Question": {
+      "content": "A negative charge is placed at point B (4.0V) between points A (8.0V) and C (-2.0V). Which way will it move?",
+      "type": "OBJ",
+      "options": [
+        "towards A",
+        "towards B",
+        "it will not move",
+        "towards C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "towards C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Negative charges move from lower to higher potential. Point C (-2V) is lower than B (4V), so the charge moves toward C."
+    },
+    "topic": [
+      "Electric Potential",
+      "Electrostatic Force",
+      "Electric Fields"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2019/2020",
+    "Question": {
+      "content": "A force of 15N acts on a charge of \\(3.5\\times10^6\\,C\\) in a uniform electric field. Find the field magnitude:",
+      "type": "OBJ",
+      "options": [
+        "\\(1.7\\times10^7\\,N/C\\)",
+        "\\(4.29\\times10^6\\,N/C\\)",
+        "\\(2.4\\times10^6\\,N/C\\)",
+        "\\(52.5\\,N/C\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(4.29\\times10^6\\,N/C\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Electric field \\(E = \\frac{F}{q} = \\frac{15}{3.5\\times10^{-6}} = 4.29\\times10^6\\,N/C\\). (Note: Charge unit corrected to \\(3.5\\times10^{-6}C\\) for realistic physics.)"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electric Fields",
+      "Electrostatic Force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 42 @ 2019/2020",
+    "Question": {
+      "content": "A positive test charge q released near a fixed positive charge Q moves away with:",
+      "type": "OBJ",
+      "options": [
+        "increasing acceleration",
+        "decreasing acceleration",
+        "constant velocity",
+        "constant acceleration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "decreasing acceleration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "As \\(q\\) moves away, the repulsive Coulomb force \\(F = k\\frac{Qq}{r^2}\\) decreases with distance, reducing acceleration."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electrostatic Force",
+      "Electric Fields",
+      "Inverse Square Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 48 @ 2019/2020",
+    "Question": {
+      "content": "Find the electrostatic force between an α-particle (2e) and an electron 10⁻¹³m apart (e = 1.6×10⁻¹⁹C).",
+      "type": "OBJ",
+      "options": [
+        "0.046N",
+        "0.46N",
+        "4.6N",
+        "46N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4.6N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "\\(F = k_e \\frac{|q_1 q_2|}{r^2} = (9\\times10^9) \\frac{|(2 \\times 1.6\\times10^{-19})(1.6\\times10^{-19})|}{(10^{-13})^2} \\approx 4.6N\\)."
+    },
+    "topic": [
+      "Electrostatic Force",
+      "Electrostatics",
+      "Electricity & Magnetism",
+      "Inverse Square Law",
+      "Permittivity",
+      "SI Units"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 57 @ 2019/2020",
+    "Question": {
+      "content": "Coulomb’s law of force between two point charges is given by:",
+      "type": "OBJ",
+      "options": [
+        "\\(F = \\frac{1}{4\\pi\\epsilon_0} \\frac{Q}{R^2}\\)",
+        "\\(F = 4\\pi\\epsilon_0 R^2 Q_1 Q_2\\)",
+        "\\(F = 4\\pi\\epsilon_0 R^2 Q\\)",
+        "\\(F = \\frac{1}{4\\pi\\epsilon_0} \\frac{Q_1 Q_2}{R^2}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(F = \\frac{1}{4\\pi\\epsilon_0} \\frac{Q_1 Q_2}{R^2}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Coulomb's law states the force between charges \\(Q_1\\) and \\(Q_2\\) separated by distance \\(R\\) is \\(F = \\frac{1}{4\\pi\\epsilon_0} \\frac{Q_1 Q_2}{R^2}\\), where \\(\\epsilon_0\\) is permittivity."
+    },
+    "topic": [
+      "Electrostatic Force",
+      "Electrostatics",
+      "Inverse Square Law",
+      "Permittivity",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 60 @ 2019/2020",
+    "Question": {
+      "content": "The region around a point charge where a charged body experiences force is called:",
+      "type": "OBJ",
+      "options": [
+        "Electric flux",
+        "Magnetic flux density",
+        "Electric field",
+        "Field point"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electric field"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "An electric field \\(\\vec{E}\\) is defined as the force per unit charge: \\(\\vec{E} = \\frac{\\vec{F}}{q}\\). It extends radially from point charges."
+    },
+    "topic": [
+      "Electric Fields",
+      "Electrostatic Force",
+      "Electrostatics",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 65 @ 2019/2020",
+    "Question": {
+      "content": "Which of the following is not true?",
+      "type": "OBJ",
+      "options": [
+        "Coulomb's law is valid for point charges only",
+        "Coulomb's law is the force on either charge due to the other",
+        "Coulomb's law decreases as the distance from source increases",
+        "the direction of the Coulomb's force is anti-parallel to the line joining the charge bodies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the direction of the Coulomb's force is anti-parallel to the line joining the charge bodies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Coulomb's force direction is <b>parallel</b> (for like charges) or <b>anti-parallel</b> (for opposite charges) to the line joining the charges. The incorrect statement reverses this logic. Coulomb's law:</p> \\[ F = k\\frac{|q_1q_2|}{r^2} \\]"
+    },
+    "topic": [
+      "Coulomb's Law",
+      "Electrostatic Force",
+      "Electrostatics",
+      "Inverse Square Law",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 66 @ 2019/2020",
+    "Question": {
+      "content": "Calculate the electrostatic force between two protons of charges \\(1.6 \\times 10^{-19} \\, \\text{C}\\) separated by a distance of \\(2.0 \\times 10^{-15} \\, \\text{m}\\)",
+      "type": "OBJ",
+      "options": [
+        "15N",
+        "30N",
+        "40N",
+        "60N"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "60N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Using Coulomb's law:</p> \\[ F = k\\frac{q_1q_2}{r^2} = (9\\times10^9)\\frac{(1.6\\times10^{-19})^2}{(2\\times10^{-15})^2} \\] \\[ F = \\frac{2.304\\times10^{-28}}{4\\times10^{-30}} = 57.6N \\approx 60N \\]"
+    },
+    "topic": [
+      "Electrostatic Force",
+      "Coulomb's Law",
+      "Electrostatics",
+      "Electricity & Magnetism",
+      "Inverse Square Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 69 @ 2019/2020",
+    "Question": {
+      "content": "Which of the following are conservative forces?",
+      "type": "OBJ",
+      "options": [
+        "electrical force/electric field strength",
+        "electric flux/electric field strength",
+        "gravitational force/electrostatic force",
+        "gravitational force/electromotive force"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "gravitational force/electrostatic force"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Conservative forces (like gravitational and electrostatic forces) are path-independent and conserve mechanical energy. Their work done around a closed loop is zero:</p> \\[ \\oint \\vec{F} \\cdot d\\vec{l} = 0 \\]"
+    },
+    "topic": [
+      "Conservative Forces",
+      "Electricity & Magnetism",
+      "Electrostatic Force",
+      "Electric Fields"
+    ]
+  }
+]
