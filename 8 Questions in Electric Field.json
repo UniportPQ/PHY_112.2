@@ -1,0 +1,387 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Electric Field",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2018/2019",
+    "Question": {
+      "content": "Two point charges of +4q and +q are separated by a distance of 3m. At what point on the line between the charges is the electric field equal to zero?",
+      "type": "OBJ",
+      "options": [
+        "1m from +4q",
+        "1m from +q",
+        "2m from +q",
+        "There is no such point"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1m from +q"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The electric field is zero at a point where the fields from both charges cancel each other. Let <b>x</b> be the distance from the smaller charge (+q).</p> <p>The fields due to +4q and +q must be equal in magnitude:</p> \\[ \\frac{k \\cdot 4q}{(3-x)^2} = \\frac{k \\cdot q}{x^2} \\] <p>Simplify (cancel <i>k</i> and <i>q</i>):</p> \\[ \\frac{4}{(3-x)^2} = \\frac{1}{x^2} \\] <p>Take square roots:</p> \\[ \\frac{2}{3-x} = \\frac{1}{x} \\] <p>Solve for <i>x</i>:</p> \\[ 2x = 3 - x \\implies 3x = 3 \\implies x = 1\\,\\text{m} \\] <p>Thus, the electric field is zero at <b>1m from +q</b> (and 2m from +4q).</p>"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Coulomb's Law",
+      "Electric Field"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2018/2019",
+    "Question": {
+      "content": "A charged insulator and an uncharged conductor",
+      "type": "OBJ",
+      "options": [
+        "always repel each other",
+        "always attract each other",
+        "exert no electrostatic force on each other",
+        "may attract or repel depending on whether the charge is positive or negative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "always attract each other"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>An uncharged conductor develops <b>induced charges</b> when near a charged insulator due to electrostatic induction. Here’s why attraction occurs:</p> <ol> <li><b>Polarization</b>: The charged insulator (+Q or -Q) repels like charges in the conductor and attracts opposite charges. For example: <ul> <li>If the insulator is <i>positively charged</i>, electrons in the conductor move toward it, leaving a net positive charge on the far side.</li> <li>The <b>attractive force</b> between +Q and the nearby induced -q is stronger than the <b>repulsive force</b> between +Q and the distant +q (since distance affects Coulomb’s Law: \\[ F = \\frac{k q_1 q_2}{r^2} \\]).</li> </ul></li> <li><b>Net Force</b>: The conductor experiences a net attraction regardless of the insulator’s charge sign. This is because the induced opposite charge is always closer to the insulator.</li> </ol> <p>Thus, <b>always attract each other</b> is correct.</p>"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Coulomb's Law",
+      "Electric Field",
+      "Electrostatic Induction"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2018/2019",
+    "Question": {
+      "content": "Electric field lines",
+      "type": "OBJ",
+      "options": [
+        "circle clockwise around positive charges",
+        "circle counterclockwise around positive charges",
+        "radiate outward from negative point charges",
+        "radiate inward towards negative point charges"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "radiate inward towards negative point charges"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Electric field lines represent the direction of the electric field vector (<b>E</b>) at any point in space. Key properties:</p> <ol> <li><b>Positive charges</b>: Field lines <i>radiate outward</i> (since a positive test charge would repel).</li> <li><b>Negative charges</b>: Field lines <i>radiate inward</i> (since a positive test charge would be attracted).</li> </ol> <p>Mathematically, for a point charge:</p> \\[ \\vec{E} = \\frac{k q}{r^2} \\hat{r} \\] <p>where <i>q</i> is the charge, and <i>\\hat{r}</i> is the unit vector: <ul> <li>If <i>q > 0</i> (positive), <b>E</b> points <i>away</i> from the charge.</li> <li>If <i>q < 0</i> (negative), <b>E</b> points <i>toward</i> the charge.</li> </ul></p> <p><b>Why other options are wrong</b>: <ul> <li>Field lines <i>never circle</i> around point charges (this would imply a non-conservative field, violating \\[ \\nabla \\times \\vec{E} = 0 \\]).</li> <li>Negative charges cannot have outward-radiating field lines (this would reverse the direction of <b>E</b>).</li> </ul></p>"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Electric Field"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2018/2019",
+    "Question": {
+      "content": "A work of 50J is done in transferring 2mC of charge from a point B to a point A in an electric field. The potential difference between B and A is?",
+      "type": "OBJ",
+      "options": [
+        "25000V",
+        "5000V",
+        "2000V",
+        "5000V"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "25000V"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The potential difference (<i>V</i>) between two points in an electric field is defined as the <b>work done (W)</b> per unit <b>charge (q)</b> moved:</p> \\[ V = \\frac{W}{q} \\] <p><b>Given</b>:</p> <ul> <li>Work done (<i>W</i>) = 50 J</li> <li>Charge transferred (<i>q</i>) = 2 mC = 2 × 10⁻³ C</li> </ul> <p><b>Calculation</b>:</p> \\[ V = \\frac{50\\,\\text{J}}{2 × 10⁻³\\,\\text{C}} \\] \\[ V = 25 × 10³\\,\\text{V} \\] \\[ V = 25000\\,\\text{V} \\] <p>Thus, the potential difference between points B and A is <b>25000V</b>.</p> <p><b>Direction Note</b>: Since work is done to move the charge <i>from B to A</i>, point A is at a <b>higher potential</b> than B (if the charge is positive).</p>"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Electrostatics",
+      "Electric Field",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2018/2019",
+    "Question": {
+      "content": "What is the electric field intensity at a point 30cm from a charge of 0.10µC?",
+      "type": "OBJ",
+      "options": [
+        "10⁴N/C",
+        "10³N/C",
+        "3×10⁴N/C",
+        "10⁵N/C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10⁴N/C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Electric field intensity is calculated by:</p> \\[ E = \\frac{kQ}{r^2} \\] <p>Where:<br>k = 9×10⁹Nm²/C²<br>Q = 0.10µC = 0.10×10⁻⁶C<br>r = 30cm = 0.3m</p> \\[ E = \\frac{9×10⁹ × 0.10×10⁻⁶}{(0.3)^2} = 10⁴N/C \\]"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Electric Field",
+      "Coulomb's Law",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2018/2019",
+    "Question": {
+      "content": "Find the electric field at a point 20cm from a charge 20µC.",
+      "type": "OBJ",
+      "options": [
+        "22.5×NC⁻¹",
+        "2.5×10⁶NC⁻¹",
+        "3.6×10⁶NC⁻¹",
+        "4.5×10⁶NC⁻¹"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4.5×10⁶NC⁻¹"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Electric field is calculated by:</p> \\[ E = \\frac{kQ}{r^2} \\] <p>Where:<br>k = 9×10⁹Nm²/C²<br>Q = 20µC = 20×10⁻⁶C<br>r = 20cm = 0.2m</p> \\[ E = \\frac{9×10⁹ × 20×10⁻⁶}{(0.2)^2} = 4.5×10⁶N/C \\]"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Electric Field",
+      "Coulomb's Law",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 38 @ 2018/2019",
+    "Question": {
+      "content": "Electric field lines are ___ their equipotential surfaces.",
+      "type": "OBJ",
+      "options": [
+        "parallel to",
+        "anti-parallel to",
+        "tangent to",
+        "perpendicular to"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "perpendicular to"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Electric field lines are always perpendicular to equipotential surfaces because no work is done moving along an equipotential (\\[ W = qΔV = 0 \\]), requiring the force to be perpendicular to displacement.</p>"
+    },
+    "topic": [
+      "Electromagnetism",
+      "Electrostatics",
+      "Electric Field",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2018/2019",
+    "Question": {
+      "content": "What happens to a dielectric when inserted between the plates of a capacitor?",
+      "type": "OBJ",
+      "options": [
+        "the electric field is increased",
+        "the electric field is weakened",
+        "the electric field is doubled",
+        "the electric field is zero"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the electric field is weakened"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A dielectric reduces the effective electric field (E = E₀/κ) by polarizing in response to the field, where κ is the dielectric constant."
+    },
+    "topic": [
+      "Electromagnetism",
+      "Capacitance",
+      "Dielectric",
+      "Electric Field",
+      "Electrostatics"
+    ]
+  }
+]
