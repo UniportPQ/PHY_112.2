@@ -1,0 +1,277 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Current Loops",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance",
+      "Electromagnetism",
+      "Equivalent Resistance",
+      "Kirchhoff's Rules",
+      "Ohm's Law",
+      "Circuit Protection",
+      "Electrical Power",
+      "Bar Magnets",
+      "Alternating Current Generators",
+      "Resistivity",
+      "Electromotive force",
+      "Transformers",
+      "Coulomb's Law",
+      "Motion of Charged Particles",
+      "Electric Field Lines",
+      "Electric Flux",
+      "Resistors in Parallel",
+      "Dielectric Materials",
+      "Charging by Induction",
+      "Electrical Resistance",
+      "Resistance",
+      "Magnetic Forces",
+      "Conductors and Insulators",
+      "Electric Charges",
+      "Dielectrics",
+      "Physics",
+      "Magnetism",
+      "Electricity & Magnetism",
+      "Superconductivity",
+      "Electromotive Force",
+      "Kirchhoff's Laws",
+      "Work",
+      "Equivalent Capacitance",
+      "Energy Storage",
+      "Internal Resistance",
+      "Electromagnetic Induction",
+      "Conductors",
+      "Units of Measurement",
+      "Charge Flow",
+      "Terminal Voltage",
+      "AC Voltage",
+      "Semiconductors",
+      "Peak Voltage",
+      "Electrostatic Induction",
+      "Frequency",
+      "Point Charges",
+      "Lorentz Force",
+      "Magnetic Flux",
+      "Current Density",
+      "Electrostatic Force",
+      "Electric Current and Resistance",
+      "Unit Conversion",
+      "Parallel Plate Capacitor",
+      "Kirchhoff's Current Law",
+      "Power",
+      "Voltmeter",
+      "Natural Magnets",
+      "Magnetic Pole",
+      "Properties of Magnets",
+      "Permittivity",
+      "SI Units",
+      "Dielectric",
+      "Retentivity",
+      "Ammeter",
+      "Temperature Effects",
+      "Magnetic Induction",
+      "Inverse Square Law",
+      "Capacitors in Series",
+      "Potential energy",
+      "Hall effect",
+      "Electromotive Force (EMF)",
+      "Transfer of Charge",
+      "Conservation of Charge",
+      "Conservative Forces",
+      "Electric Dipole",
+      "Classical Mechanics",
+      "Waves and Optics",
+      "Thermodynamics",
+      "Quantum Mechanics",
+      "Special Relativity",
+      "Statistical Mechanics",
+      "Nuclear Physics",
+      "Particle Physics",
+      "Condensed Matter Physics",
+      "Electric Field",
+      "Electromagnetism, Coulomb's Law",
+      "Work-Energy",
+      "Series Circuits",
+      "Circuit Analysis",
+      "Current",
+      "Charged Particle Motion",
+      "Electromagnetism, Circuit Analysis, Current, Electrical Resistance",
+      "Electric Charge",
+      "Atomic Structure",
+      "Parallel Circuits",
+      "Faraday's Law",
+      "Measuring Instruments",
+      "Electrical Energy",
+      "Geomagnetism",
+      "Magnetic Field",
+      "Electrochemistry",
+      "Alternating Current",
+      "Capacitors and Dielectrics",
+      "Current and Resistance",
+      "Introduction to Maxwell's Equations",
+      "Charge Induction",
+      "Quantization of Charge",
+      "Relative Permittivity",
+      "Electric Potential Energy",
+      "Electrical Measurement Instruments",
+      "Kinetic Energy",
+      "Dimensional Analysis",
+      "Magnetic Poles",
+      "Current-carrying wire",
+      "Cyclotron Frequency",
+      "Earth's Magnetism",
+      "Magnetic Elements",
+      "Solenoids",
+      "Current Loops",
+      "Toroids",
+      "Biot-Savart's Law",
+      "Induced Electromotive Force",
+      "Hall Effect",
+      "Triboelectric Effect",
+      "Gravitational Force",
+      "Electromagnetism and Electrodynamics",
+      "Thermodynamics and Statistical Mechanics",
+      "Optics and Wave Phenomena",
+      "Mathematical Methods for Physics",
+      "Astrophysics",
+      "Conservation Laws",
+      "Electric Induction",
+      "Capacitors",
+      "Energy",
+      "Electrical Conductivity",
+      "Electric Power",
+      "Conductors in Electrostatic Equilibrium",
+      "Parallel-plate capacitor"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 40 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field at the centre of a current loop is given by",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\frac{\\mu_0 NI}{2R}\\)",
+        "\\(B = \\frac{\\mu_0 N}{2R}\\)",
+        "\\(B = \\frac{\\mu_0 NI}{2R} V\\)",
+        "\\(B = \\frac{\\mu_0 N}{2R}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\frac{\\mu_0 NI}{2R}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field at the center of a current loop with \\( N \\) turns is \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( R \\) is the radius."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current-carrying wire",
+      "Current Loops",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2017/2018",
+    "Question": {
+      "content": "Find the current in a magnetic field of 1.4×10⁻³T at the centre of a circular coil of radius 20cm having 15 closely wound turns",
+      "type": "OBJ",
+      "options": [
+        "30A",
+        "50A",
+        "70A",
+        "95A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "50A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic field at center \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( B = 1.4 × 10^{-3}T \\), \\( N = 15 \\), \\( R = 0.2m \\), \\( \\mu_0 = 4\\pi × 10^{-7}Tm/A \\). Thus, \\( 1.4 × 10^{-3} = \\frac{4\\pi × 10^{-7} × 15 × I}{2 × 0.2} \\), \\( I = \\frac{1.4 × 10^{-3} × 0.4}{6\\pi × 10^{-7}} \\approx 50A \\)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Ampere's Law",
+      "Electromagnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 47 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field of current carrying conductor in form of a circular loop is expressed as",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\frac{\\mu_0 I N}{r^2}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{4r}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{4\\pi r^2}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{2r}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\frac{\\mu_0 I N}{2r}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field at the center of a circular loop with \\( N \\) turns carrying current \\( I \\) and radius \\( r \\) is given by \\( B = \\frac{\\mu_0 N I}{2r} \\), where \\( \\mu_0 \\) is the permeability of free space. This formula applies to the center of the loop, making \\( B = \\frac{\\mu_0 I N}{2r} \\) the correct expression among the options provided."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Biot-Savart's Law",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 48 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field of 4 × 10⁻³T exists at the centre of a circular coil of radius 20cm having 30 closely wound turns. The current in the coil will be",
+      "type": "OBJ",
+      "options": [
+        "15A",
+        "30A",
+        "7.5A",
+        "5A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7.5A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic field at the center of a coil \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( B = 4 × 10^{-3}T \\), \\( N = 30 \\), \\( R = 0.2m \\), \\( \\mu_0 = 4\\pi × 10^{-7}Tm/A \\). Thus, \\( 4 × 10^{-3} = \\frac{4\\pi × 10^{-7} × 30 × I}{2 × 0.2} \\), \\( I = \\frac{4 × 10^{-3} × 0.4}{6\\pi × 10^{-7}} \\approx 7.5A \\)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Biot-Savart's Law",
+      "Ampere's Law"
+    ]
+  }
+]
