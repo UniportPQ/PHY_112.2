@@ -1,0 +1,583 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Ampere's Law",
+    "time": 90,
+    "topics": [
+      "Ampere's Law",
+      "Electric Charges and Coulomb's Law",
+      "Electric Current and DC Circuits",
+      "Electric Fields",
+      "Electric Potential and Capacitance",
+      "Faraday's Law of Induction",
+      "Gauss's Law",
+      "Inductance",
+      "Magnetic Fields and Forces"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 38 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "The magnetic field inside a long Solenoid and far from the ends is",
+      "type": "OBJ",
+      "options": [
+        "Uniform",
+        "Non-uniform",
+        "Linear",
+        "Non-linear"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uniform"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Inside a long solenoid, far from the ends, the magnetic field is uniform due to the consistent current distribution."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Ampere's Law",
+      "Solenoids"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 39 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "The magnetic field near a long straight wire is given by",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\frac{\\mu_0 I}{2\\pi r}\\)",
+        "\\(B = \\frac{\\mu_0 IV}{2\\pi r}\\)",
+        "\\(B = \\frac{\\mu_0 I}{2\\pi r^2}\\)",
+        "\\(B = \\frac{\\mu_0 I}{2\\pi r} K\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\frac{\\mu_0 I}{2\\pi r}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field around a long straight wire is given by Ampere's Law as \\( B = \\frac{\\mu_0 I}{2\\pi r} \\), where \\( \\mu_0 \\) is the permeability of free space."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Ampere's Law",
+      "Current-carrying wire"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 40 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "The magnetic field at the centre of a current loop is given by",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\frac{\\mu_0 NI}{2R}\\)",
+        "\\(B = \\frac{\\mu_0 N}{2R}\\)",
+        "\\(B = \\frac{\\mu_0 NI}{2R} V\\)",
+        "\\(B = \\frac{\\mu_0 N}{2R}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\frac{\\mu_0 NI}{2R}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field at the center of a current loop with \\( N \\) turns is \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( R \\) is the radius."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current-carrying wire",
+      "Current Loops",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 41 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "The magnetic field inside a long solenoid and far from the ends is given as",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\mu_0 nI\\)",
+        "\\(B = \\mu_0 nIR\\)",
+        "\\(B = \\mu_0 nI\\)",
+        "\\(B = \\mu_0 nI/V\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\mu_0 nI\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field inside a long solenoid is \\( B = \\mu_0 n I \\), where \\( n \\) is the number of turns per unit length and \\( I \\) is the current."
+    },
+    "topic": [
+      "Solenoids",
+      "Magnetic Fields",
+      "Ampere's Law",
+      "Electromagnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 42 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "The magnetic field inside a toroid is given as",
+      "type": "OBJ",
+      "options": [
+        "\\(B = N\\mu_0 nI\\)",
+        "\\(B = \\mu_0 nI\\)",
+        "\\(B = K\\mu_0 nI\\)",
+        "\\(B = \\mu_0 nIV\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\mu_0 nI\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field inside a toroid is \\( B = \\mu_0 n I \\), where \\( n \\) is the number of turns per unit length and \\( I \\) is the current, assuming a toroidal solenoid approximation."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Ampere's Law",
+      "Electromagnetism",
+      "Toroids",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 43 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "A long straight wire 2mm in diameter is carrying a current of 5A. Find the magnetic field at a distance of 40cm from the wire",
+      "type": "OBJ",
+      "options": [
+        "2.5×10⁻⁶T",
+        "15.8×10⁻⁶T",
+        "60.4×10⁻⁶T",
+        "45.9T"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.5×10⁻⁶T"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic field \\( B = \\frac{\\mu_0 I}{2\\pi r} \\), where \\( \\mu_0 = 4\\pi × 10^{-7}Tm/A \\), \\( I = 5A \\), \\( r = 0.4m \\). Thus, \\( B = \\frac{4\\pi × 10^{-7} × 5}{2\\pi × 0.4} = \\frac{2 × 10^{-6}}{0.4} = 2.5 × 10^{-6}T \\)."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Magnetic Fields",
+      "Current-carrying wire",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "Find the current in a magnetic field of 1.4×10⁻³T at the centre of a circular coil of radius 20cm having 15 closely wound turns",
+      "type": "OBJ",
+      "options": [
+        "30A",
+        "50A",
+        "70A",
+        "95A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "50A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic field at center \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( B = 1.4 × 10^{-3}T \\), \\( N = 15 \\), \\( R = 0.2m \\), \\( \\mu_0 = 4\\pi × 10^{-7}Tm/A \\). Thus, \\( 1.4 × 10^{-3} = \\frac{4\\pi × 10^{-7} × 15 × I}{2 × 0.2} \\), \\( I = \\frac{1.4 × 10^{-3} × 0.4}{6\\pi × 10^{-7}} \\approx 50A \\)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Ampere's Law",
+      "Electromagnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 45 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "The source of magnetic field is",
+      "type": "OBJ",
+      "options": [
+        "Electric field",
+        "Electric current",
+        "Force",
+        "Potential difference"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electric current"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic fields are generated by moving charges, i.e., electric currents, as per Ampere's Law and Biot-Savart Law."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Electromagnetism",
+      "Current and Resistance",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 47 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "The magnetic field of current carrying conductor in form of a circular loop is expressed as",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\frac{\\mu_0 I N}{r^2}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{4r}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{4\\pi r^2}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{2r}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\frac{\\mu_0 I N}{2r}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field at the center of a circular loop with \\( N \\) turns carrying current \\( I \\) and radius \\( r \\) is given by \\( B = \\frac{\\mu_0 N I}{2r} \\), where \\( \\mu_0 \\) is the permeability of free space. This formula applies to the center of the loop, making \\( B = \\frac{\\mu_0 I N}{2r} \\) the correct expression among the options provided."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Biot-Savart's Law",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 48 @ 2017/2018 @ Ampere's Law",
+    "Question": {
+      "content": "The magnetic field of 4 × 10⁻³T exists at the centre of a circular coil of radius 20cm having 30 closely wound turns. The current in the coil will be",
+      "type": "OBJ",
+      "options": [
+        "15A",
+        "30A",
+        "7.5A",
+        "5A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7.5A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic field at the center of a coil \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( B = 4 × 10^{-3}T \\), \\( N = 30 \\), \\( R = 0.2m \\), \\( \\mu_0 = 4\\pi × 10^{-7}Tm/A \\). Thus, \\( 4 × 10^{-3} = \\frac{4\\pi × 10^{-7} × 30 × I}{2 × 0.2} \\), \\( I = \\frac{4 × 10^{-3} × 0.4}{6\\pi × 10^{-7}} \\approx 7.5A \\)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Biot-Savart's Law",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 38 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field inside a long Solenoid and far from the ends is",
+      "type": "OBJ",
+      "options": [
+        "Uniform",
+        "Non-uniform",
+        "Linear",
+        "Non-linear"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uniform"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Inside a long solenoid, far from the ends, the magnetic field is uniform due to the consistent current distribution."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Ampere's Law",
+      "Solenoids"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 39 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field near a long straight wire is given by",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\frac{\\mu_0 I}{2\\pi r}\\)",
+        "\\(B = \\frac{\\mu_0 IV}{2\\pi r}\\)",
+        "\\(B = \\frac{\\mu_0 I}{2\\pi r^2}\\)",
+        "\\(B = \\frac{\\mu_0 I}{2\\pi r} K\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\frac{\\mu_0 I}{2\\pi r}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field around a long straight wire is given by Ampere's Law as \\( B = \\frac{\\mu_0 I}{2\\pi r} \\), where \\( \\mu_0 \\) is the permeability of free space."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Ampere's Law",
+      "Current-carrying wire"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 40 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field at the centre of a current loop is given by",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\frac{\\mu_0 NI}{2R}\\)",
+        "\\(B = \\frac{\\mu_0 N}{2R}\\)",
+        "\\(B = \\frac{\\mu_0 NI}{2R} V\\)",
+        "\\(B = \\frac{\\mu_0 N}{2R}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\frac{\\mu_0 NI}{2R}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field at the center of a current loop with \\( N \\) turns is \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( R \\) is the radius."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current-carrying wire",
+      "Current Loops",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 41 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field inside a long solenoid and far from the ends is given as",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\mu_0 nI\\)",
+        "\\(B = \\mu_0 nIR\\)",
+        "\\(B = \\mu_0 nI\\)",
+        "\\(B = \\mu_0 nI/V\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\mu_0 nI\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field inside a long solenoid is \\( B = \\mu_0 n I \\), where \\( n \\) is the number of turns per unit length and \\( I \\) is the current."
+    },
+    "topic": [
+      "Solenoids",
+      "Magnetic Fields",
+      "Ampere's Law",
+      "Electromagnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 42 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field inside a toroid is given as",
+      "type": "OBJ",
+      "options": [
+        "\\(B = N\\mu_0 nI\\)",
+        "\\(B = \\mu_0 nI\\)",
+        "\\(B = K\\mu_0 nI\\)",
+        "\\(B = \\mu_0 nIV\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\mu_0 nI\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field inside a toroid is \\( B = \\mu_0 n I \\), where \\( n \\) is the number of turns per unit length and \\( I \\) is the current, assuming a toroidal solenoid approximation."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Ampere's Law",
+      "Electromagnetism",
+      "Toroids",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 43 @ 2017/2018",
+    "Question": {
+      "content": "A long straight wire 2mm in diameter is carrying a current of 5A. Find the magnetic field at a distance of 40cm from the wire",
+      "type": "OBJ",
+      "options": [
+        "2.5×10⁻⁶T",
+        "15.8×10⁻⁶T",
+        "60.4×10⁻⁶T",
+        "45.9T"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.5×10⁻⁶T"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic field \\( B = \\frac{\\mu_0 I}{2\\pi r} \\), where \\( \\mu_0 = 4\\pi × 10^{-7}Tm/A \\), \\( I = 5A \\), \\( r = 0.4m \\). Thus, \\( B = \\frac{4\\pi × 10^{-7} × 5}{2\\pi × 0.4} = \\frac{2 × 10^{-6}}{0.4} = 2.5 × 10^{-6}T \\)."
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Magnetic Fields",
+      "Current-carrying wire",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 44 @ 2017/2018",
+    "Question": {
+      "content": "Find the current in a magnetic field of 1.4×10⁻³T at the centre of a circular coil of radius 20cm having 15 closely wound turns",
+      "type": "OBJ",
+      "options": [
+        "30A",
+        "50A",
+        "70A",
+        "95A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "50A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic field at center \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( B = 1.4 × 10^{-3}T \\), \\( N = 15 \\), \\( R = 0.2m \\), \\( \\mu_0 = 4\\pi × 10^{-7}Tm/A \\). Thus, \\( 1.4 × 10^{-3} = \\frac{4\\pi × 10^{-7} × 15 × I}{2 × 0.2} \\), \\( I = \\frac{1.4 × 10^{-3} × 0.4}{6\\pi × 10^{-7}} \\approx 50A \\)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Ampere's Law",
+      "Electromagnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 45 @ 2017/2018",
+    "Question": {
+      "content": "The source of magnetic field is",
+      "type": "OBJ",
+      "options": [
+        "Electric field",
+        "Electric current",
+        "Force",
+        "Potential difference"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electric current"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic fields are generated by moving charges, i.e., electric currents, as per Ampere's Law and Biot-Savart Law."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Electromagnetism",
+      "Current and Resistance",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 47 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field of current carrying conductor in form of a circular loop is expressed as",
+      "type": "OBJ",
+      "options": [
+        "\\(B = \\frac{\\mu_0 I N}{r^2}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{4r}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{4\\pi r^2}\\)",
+        "\\(B = \\frac{\\mu_0 I N}{2r}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(B = \\frac{\\mu_0 I N}{2r}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The magnetic field at the center of a circular loop with \\( N \\) turns carrying current \\( I \\) and radius \\( r \\) is given by \\( B = \\frac{\\mu_0 N I}{2r} \\), where \\( \\mu_0 \\) is the permeability of free space. This formula applies to the center of the loop, making \\( B = \\frac{\\mu_0 I N}{2r} \\) the correct expression among the options provided."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Biot-Savart's Law",
+      "Ampere's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 48 @ 2017/2018",
+    "Question": {
+      "content": "The magnetic field of 4 × 10⁻³T exists at the centre of a circular coil of radius 20cm having 30 closely wound turns. The current in the coil will be",
+      "type": "OBJ",
+      "options": [
+        "15A",
+        "30A",
+        "7.5A",
+        "5A"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7.5A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Magnetic field at the center of a coil \\( B = \\frac{\\mu_0 N I}{2R} \\), where \\( B = 4 × 10^{-3}T \\), \\( N = 30 \\), \\( R = 0.2m \\), \\( \\mu_0 = 4\\pi × 10^{-7}Tm/A \\). Thus, \\( 4 × 10^{-3} = \\frac{4\\pi × 10^{-7} × 30 × I}{2 × 0.2} \\), \\( I = \\frac{4 × 10^{-3} × 0.4}{6\\pi × 10^{-7}} \\approx 7.5A \\)."
+    },
+    "topic": [
+      "Magnetic Fields",
+      "Current Loops",
+      "Biot-Savart's Law",
+      "Ampere's Law"
+    ]
+  }
+]
