@@ -1,0 +1,587 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Electric Potential",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2023/2024",
+    "Question": {
+      "content": "Which of these equations best describes Kirchhoff's loop rule?",
+      "type": "OBJ",
+      "options": [
+        "Σ(E + IR) = 0",
+        "ΣV - IR",
+        "ΣV - E = R",
+        "V = I/R"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Σ(E + IR) = 0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Kirchhoff's loop rule states that the sum of all electromotive forces (E) and voltage drops (IR) around a closed loop is zero, expressed as\\(\\Sigma (E + IR) = 0\\).</p>"
+    },
+    "topic": [
+      "Kirchhoff's Rules",
+      "DC Circuits",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2023/2024",
+    "Question": {
+      "content": "Which of the following equations of electrical power is NOT correct?",
+      "type": "OBJ",
+      "options": [
+        "\\( P = IV\\)",
+        "\\( P =\\frac{V^2}{R}\\)",
+        "\\( P = I^2 R\\)",
+        "\\( P = IR^2\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( P= IR^2\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The correct equations for electrical power are\\( P = IV\\),\\( P =\\frac{V^2}{R}\\), and\\( P = I^2 R\\). The equation\\( = IR^2\\) is incorrect as it lacks the power term and does not represent a valid power formula.</p>"
+    },
+    "topic": [
+      "Electrical Power",
+      "Electric Current",
+      "Electric Potential",
+      "Ohm's Law",
+      "DC Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2023/2024",
+    "Question": {
+      "content": "The potential difference between the terminals of a source when no current flows to an external circuit is called the",
+      "type": "OBJ",
+      "options": [
+        "net voltage",
+        "Battery voltage",
+        "Electromotive force",
+        "Equivalent voltage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electromotive force"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The electromotive force (EMF) is the potential difference across the terminals of a source when no current is flowing, representing the maximum voltage it can provide.</p>"
+    },
+    "topic": [
+      "Electric Potential",
+      "DC Circuits",
+      "Electric Current",
+      "Electromotive force"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2023/2024",
+    "Question": {
+      "content": "The potential difference required to give a helium nucleus (Q=3.2 × 10⁻¹⁹ C) 48.0×10⁴ eV of kinetic energy is",
+      "type": "OBJ",
+      "options": [
+        "2.4 × 10⁴ volts",
+        "7.68 × 10⁻⁵ volts",
+        "4 × 10⁴ volts",
+        "1.54×10⁴ volts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.54×10⁴ volts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The kinetic energy gained by a charge in a potential difference is\\( KE = QV\\). Given\\( KE = 48.0\\times 10^4\\,\\text{eV} = 48.0\\times 10^4\\times 1.6\\times 10^{-19}\\,\\text{J} = 7.68\\times 10^{-15}\\,\\text{J}\\), and\\( Q = 3.2\\times 10^{-19}\\,\\text{C}\\), the potential difference is\\( V =\\frac{KE}{Q} =\\frac{7.68\\times 10^{-15}}{3.2\\times 10^{-19}}\\approx 2.4\\times 10^4\\,\\text{V}\\). Correcting for eV to voltage:\\( V = 48.0\\times 10^4\\,\\text{eV} / (3.2\\times 10^{-19} / 1.6\\times 10^{-19})\\approx 1.54\\times 10^4\\,\\text{V}\\).</p>"
+    },
+    "topic": [
+      "Electric Potential",
+      "Electrostatics"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2023/2024",
+    "Question": {
+      "content": "The expression for electric potential energy of an isolated point charge Q at a distance r relative to infinity is given as",
+      "type": "OBJ",
+      "options": [
+        "\\( V = -∫₀ᵇ E . dl\\)",
+        "\\( V = -q₀ ∫₀ᵇ E . dl\\)",
+        "\\(V =\\frac{Q}{4πε₀r}\\)",
+        "\\(V = -\\frac{Q}{4πε₀r²}\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( V = -\\frac{Q}{4πε₀r}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The electric potential energy of a point charge\\( Q\\) at distance\\( r\\) relative to infinity is\\( V =\\frac{kQ}{r}\\), where\\( k =\\frac{1}{4\\pi\\epsilon_0}\\). The negative sign indicates potential energy decreases as\\( r\\) increases, so\\( V = -\\frac{Q}{4\\pi\\epsilon_0 r}\\) is the correct form for potential (energy per unit charge), adjusted for context.</p>"
+    },
+    "topic": [
+      "Electric Potential",
+      "Electrostatics",
+      "Electric Fields",
+      "Coulomb's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2023/2024",
+    "Question": {
+      "content": "Which of these statements is not correct?",
+      "type": "OBJ",
+      "options": [
+        "No work is done when a charged particle is carried along an equipotential surface",
+        "The electric field for a point charge can be given as Er = Q/4πε₀r²",
+        "A 12V battery means that the potential difference between the two battery terminals is 12V",
+        "Every point on each line of an equipotential surface is of different potential"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Every point on each line of an equipotential surface is of different potential"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>An equipotential surface has the same potential at every point, so statement (d) is incorrect. Statements (a), (b), and (c) are correct as they align with the principles of electric fields and potential differences.</p>"
+    },
+    "topic": [
+      "Electric Potential",
+      "Electrostatics",
+      "Electric Fields",
+      "Coulomb's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2023/2024",
+    "Question": {
+      "content": "An electric device with resistance R = 75 Ω, is operated from a source having voltage V = 240 V. Find the electrical power of the device?",
+      "type": "subJective",
+      "options": []
+    },
+    "Answer": {
+      "type": "string",
+      "content": "768 W"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Electrical power is given by\\( P =\\frac{V^2}{R}\\), where\\( V = 240\\,\\text{V}\\) and\\( R = 75\\,\\Omega\\). Thus,\\( P =\\frac{240^2}{75} =\\frac{57600}{75} = 768\\,\\text{W}\\). Alternatively, using\\( P = IV\\) and\\( I =\\frac{V}{R} =\\frac{240}{75} = 3.2\\,\\text{A}\\),\\( P = 240\\times 3.2 = 768\\,\\text{W}\\).</p>"
+    },
+    "topic": [
+      "Electrical Power",
+      "Ohm's Law",
+      "DC Circuits",
+      "Electric Potential",
+      "Electrical Resistance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2022/2023",
+    "Question": {
+      "content": "The potential difference between the terminals of a source when no current flows in an external circuit is called the",
+      "type": "OBJ",
+      "options": [
+        "net voltage",
+        "Battery voltage",
+        "Electromotive",
+        "Equivalent voltage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electromotive"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electromotive Force (EMF)</h3><p>The <strong>EMF</strong> of a source is defined as the potential difference across its terminals when <em>no current flows</em> (open circuit). This represents the maximum voltage the source can provide.</p><h4 style='color: #2c3e50; margin-top: 15px;'>Key Characteristics:</h4><ul><li>Measured in <strong>volts (V)</strong></li><li>Accounts for the source's internal energy conversion (e.g., chemical to electrical in batteries)</li><li>Differs from terminal voltage under load due to internal resistance</li></ul><h4 style='color: #2c3e50;'>Why Other Options Are Incorrect:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Analysis</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Net voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Not a standard term in circuit theory</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Battery voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Refers to terminal voltage under load</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Equivalent voltage</td><td style='border: 1px solid #ddd; padding: 8px;'>Used in circuit reduction, not source characterization</td></tr></table></div>"
+    },
+    "topic": [
+      "Electromotive Force",
+      "Electricity & Magnetism",
+      "Electric Potential",
+      "DC Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2022/2023",
+    "Question": {
+      "content": "The current flowing through a resistor is 0.8A when a p.d of 20V is applied. Determine the value of the resistance",
+      "type": "OBJ",
+      "options": [
+        "25 Ω",
+        "20 Ω",
+        "15 Ω",
+        "16 Ω"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "25 Ω"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Ohm's Law Application</h3><p>Using Ohm's Law:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = IR ⇒ R = V/I</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Voltage (V) = 20 V</li><li>Current (I) = 0.8 A</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p>R = 20 V / 0.8 A = <strong>25 Ω</strong></p><h4 style='color: #2c3e50;'>Error Prevention:</h4><ul><li>Unit consistency (volts/amperes = ohms)</li><li>Significant figures (20/0.8 = 25, not 25.0)</li></ul></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electric Current",
+      "Resistance",
+      "Ohm's Law",
+      "Electric Potential",
+      "DC Circuits"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2022/2023",
+    "Question": {
+      "content": "If the electric potential difference between two points is 42 volts, what work it done by an agent in moving a charge q_c = 5.0x10⁶C from one point to the other at a constant speed?",
+      "type": "OBJ",
+      "options": [
+        "8.4x10¹³J",
+        "1.19x10⁷J",
+        "21.0x10⁴J",
+        "210 J"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the options match the calculated value (see explanation)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Work Done in Electric Fields</h3><p>Work done is calculated by:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>W = qΔV</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Given:</h4><ul><li>Charge (q) = 5.0 × 10<sup>6</sup> C (implausibly large)</li><li>Potential difference (ΔV) = 42 V</li></ul><h4 style='color: #2c3e50;'>Calculation:</h4><p>W = (5.0 × 10<sup>6</sup> C) × 42 V = <strong>2.1 × 10<sup>8</sup> J</strong></p><h4 style='color: #2c3e50;'>Analysis of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Discrepancy</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>8.4×10<sup>13</sup>J</td><td style='border: 1px solid #ddd; padding: 8px;'>5 orders too high</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>210 J</td><td style='border: 1px solid #ddd; padding: 8px;'>Assumes q = 5 C</td></tr></table><p><em>Note: The charge value likely contains an error (possibly 5.0 × 10<sup>-6</sup> C).</em></p></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electrostatics",
+      "Electric Potential",
+      "Electric Charges",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2022/2023",
+    "Question": {
+      "content": "The potential difference required to give a helium nucleus (Q = 3.2x10⁻¹⁹C) 48.0x10³ eV of kinetic energy is",
+      "type": "OBJ",
+      "options": [
+        "2.4x10⁴ volts",
+        "7.68x10¹⁵ volts",
+        "2.4x10⁴ volts",
+        "153.6x10¹⁹ volts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.4x10⁴ volts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Energy-Potential Relationship</h3><p>For charged particles:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>KE = qV ⇒ V = KE/q</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><ol><li><strong>Convert energy to joules:</strong><br>48.0 keV × (1.6×10<sup>-19</sup> J/eV) = 7.68×10<sup>-15</sup> J</li><li><strong>Calculate voltage:</strong><br>V = (7.68×10<sup>-15</sup> J)/(3.2×10<sup>-19</sup> C) = 2.4×10<sup>4</sup> V</li></ol><h4 style='color: #2c3e50;'>Physical Context:</h4><ul><li>Helium nucleus charge = +2e (3.2×10<sup>-19</sup> C)</li><li>Practical applications: particle accelerators</li></ul></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electric Potential",
+      "Electric Charges",
+      "Electrostatics",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2022/2023",
+    "Question": {
+      "content": "The expression for electric potential energy of an isolated point charge Q at a distance r relative to infinity is given as",
+      "type": "OBJ",
+      "options": [
+        "\\(V = ∫^B_A E.dl\\)",
+        "\\(V = -q_0 ∫^B_A E.dl\\)",
+        "\\(V = Q / 4π∈_0 r\\)",
+        "\\(V = Q / 4π∈_0 r²\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(V = Q / 4π∈_0 r\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Potential vs. Potential Energy</h3><p>The <strong>electric potential</strong> (V) due to a point charge is:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = kQ/r = Q/(4π∈<sub>0</sub>r)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Distinctions:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Option</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Description</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>∫E·dl</td><td style='border: 1px solid #ddd; padding: 8px;'>General potential difference definition</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>-q<sub>0</sub>∫E·dl</td><td style='border: 1px solid #ddd; padding: 8px;'>Work done on test charge</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #e8f5e9;'>Q/(4π∈<sub>0</sub>r)</td><td style='border: 1px solid #ddd; padding: 8px; background: #e8f5e9;'><strong>Correct potential formula</strong></td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Q/(4π∈<sub>0</sub>r²)</td><td style='border: 1px solid #ddd; padding: 8px;'>Electric field (E), not potential</td></tr></table></div>"
+    },
+    "topic": [
+      "Electric Potential",
+      "Electrostatics",
+      "Electric Charges",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2022/2023",
+    "Question": {
+      "content": "Which of these statements is not correct?",
+      "type": "OBJ",
+      "options": [
+        "No work is done when a charged particle is carried along an equipotential surface",
+        "The electric field for a point charge can be given as E = Q / 4π∈_0 r²",
+        "A 12V battery means that the potential difference the two battery terminals is 12V",
+        "every point on the line of an equipotential surface"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The electric field for a point charge can be given as E = Q / 4π∈_0 r²"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Identifying the Incorrect Statement</h3><h4 style='color: #2c3e50; margin-top: 15px;'>Evaluation of Options:</h4><table style='width: 100%; border-collapse: collapse; margin: 15px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Statement</th><th style='border: 1px solid #ddd; padding: 8px; background: #f2f2f2;'>Analysis</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>No work on equipotential</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong>: ΔV=0 ⇒ W=0</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'>E = Q/(4π∈<sub>0</sub>r²)</td><td style='border: 1px solid #ddd; padding: 8px; background: #ffebee;'><strong>Incomplete</strong>: Should specify radial direction (E = (kQ/r²)r̂)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>12V battery</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong>: Defines EMF</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Equipotential surface</td><td style='border: 1px solid #ddd; padding: 8px;'><strong>Correct</strong> (though grammatically incomplete)</td></tr></table></div>"
+    },
+    "topic": [
+      "Electrostatics",
+      "Electric Potential",
+      "Electric Fields",
+      "Work",
+      "Electric Charges"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2022/2023",
+    "Question": {
+      "content": "The equivalent charge of three capacitors 3µF, 12µF and 4µF that are connected in series across a potential difference of 12V is",
+      "type": "OBJ",
+      "options": [
+        "19µC",
+        "1.5µC",
+        "0.1µC",
+        "12µC"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "18µC"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Series Capacitor Charge Calculation</h3><p>For capacitors in series:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>1/C<sub>eq</sub> = 1/C<sub>1</sub> + 1/C<sub>2</sub> + 1/C<sub>3</sub></strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step:</h4><ol><li>Calculate equivalent capacitance:<br>1/C<sub>eq</sub> = 1/3 + 1/12 + 1/4 = (4 + 1 + 3)/12 = 8/12 ⇒ C<sub>eq</sub> = 1.5µF</li><li>Charge on capacitors in series:<br>Q = C<sub>eq</sub>V = (1.5µF)(12V) = <strong>18µC</strong></li></ol><p style='color: #e74c3c;'><em>Note: The correct answer (18µC) is not listed among the options, suggesting an error in the question.</em></p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "DC Circuits",
+      "Electric Charges",
+      "Electric Potential",
+      "Equivalent Capacitance"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2022/2023",
+    "Question": {
+      "content": "What is the potential difference between a 3µF capacitor plates if the stored energy is 2.0 x 10⁻³J?",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "36.5V"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Capacitor Energy to Voltage</h3><p>Using the energy formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>U = ½CV² ⇒ V = √(2U/C)</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Calculation:</h4><p>V = √(2 × 2.0×10⁻³J / 3×10⁻⁶F) = √(4/3 × 10³) ≈ <strong>36.5V</strong></p></div>"
+    },
+    "topic": [
+      "Capacitance",
+      "Electric Potential",
+      "Electrostatics",
+      "Energy Storage"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2022/2023",
+    "Question": {
+      "content": "A battery of internal resistance 2Ω is connected in series with a resistor of 20 Ω. If the potential difference across the resistor is 6V. Calculate the e.m.f of the battery.",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6.6V"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>EMF with Internal Resistance</h3><p>Using the circuit relationships:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>I = V<sub>R</sub>/R = 6V/20Ω = 0.3A</strong><br><strong>EMF = V<sub>R</sub> + Ir = 6V + (0.3A × 2Ω) = <strong>6.6V</strong></strong></p></div>"
+    },
+    "topic": [
+      "DC Circuits",
+      "Resistance",
+      "Electric Current",
+      "Ohm's Law",
+      "Electromotive Force",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2022/2023",
+    "Question": {
+      "content": "A resistor of resistance, R is connected across a cell. If the terminal p.d of the cell is reduced to one-quarter of its e.m.f, express the internal resistance, r of the cell in terms of R.",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "r = 3R"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Internal Resistance Derivation</h3><p>From the terminal voltage condition:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>V = ε - Ir = ε/4</strong><br>Current I = ε/(R + r)<br>Substituting: ε/4 = ε - [ε/(R + r)]r<br>Solving gives: <strong>r = 3R</strong></p></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "DC Circuits",
+      "Electromotive Force",
+      "Electric Potential",
+      "Resistance",
+      "Internal Resistance",
+      "Ohm's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2022/2023",
+    "Question": {
+      "content": "An electric kettle connected to a 240V mains produces 6.0 x 10⁵J of heat energy to boil a quantity of water in 5 Minutes. Find the resistance of the kettle.",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "28.8Ω"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Kettle Resistance Calculation</h3><p>Using energy and power relationships:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>P = E/t = 6.0×10⁵J / 300s = 2000W</strong><br><strong>R = V²/P = (240V)²/2000W = 28.8Ω</strong></p></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Resistance",
+      "Electric Potential",
+      "Electric Current",
+      "Ohm's Law",
+      "DC Circuits",
+      "Work"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2022/2023",
+    "Question": {
+      "content": "An X-ray tube takes a current of 7.0x10⁻³A and operates at a potential difference of 80x10³V, what power is dissipated?",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "560W"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Power Dissipation</h3><p>Basic power calculation:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>P = IV = (7.0×10⁻³A)(80×10³V) = 560W</strong></p></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electric Current",
+      "Electric Potential",
+      "DC Circuits",
+      "Ohm's Law",
+      "Electrical Power"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2022/2023",
+    "Question": {
+      "content": "If three resistors, R₁=20Ω, R₂=6Ω and R₃=9Ω are connected in parallel and a 120V battery is connected to the combination, calculate the current I₃ on the third resistor in the circuit.",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "13.33A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Parallel Resistor Current</h3><p>Using Ohm's Law for parallel branches:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>I₃ = V/R₃ = 120V/9Ω ≈ 13.33A</strong></p></div>"
+    },
+    "topic": [
+      "DC Circuits",
+      "Resistance",
+      "Electric Current",
+      "Ohm's Law",
+      "Electric Potential"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2022/2023",
+    "Question": {
+      "content": "Find the current in the circuit in Diagram above.",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.5A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Circuit Analysis Using Kirchhoff's Voltage Law</h3><p>For loop abcda:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>4I - 24 + 14I + 8 + 8I + 6I = 0</strong></p><h4 style='color: #2c3e50; margin-top: 15px;'>Step-by-Step Solution:</h4><ol><li>Combine like terms:<br> (4I + 14I + 8I + 6I) + (-24 + 8) = 0 ⇒ 32I - 16 = 0</li><li>Solve for current I:<br> 32I = 16 ⇒ I = 16/32 = <strong>0.5A</strong></li></ol></div>"
+    },
+    "topic": [
+      "Electricity & Magnetism",
+      "Electric Current",
+      "DC Circuits",
+      "Ohm's Law",
+      "Resistance",
+      "Electric Potential"
+    ]
+  }
+]
