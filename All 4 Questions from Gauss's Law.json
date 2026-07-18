@@ -1,0 +1,124 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Electricity & Magnetism 1",
+    "code": "PHY_112.2",
+    "session": "Gauss's Law",
+    "time": 90,
+    "topics": [
+      "Electrostatics",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electric Potential",
+      "Capacitance",
+      "Electric Current",
+      "DC Circuits",
+      "Magnetic Fields",
+      "Magnetic Force",
+      "Ampere's Law",
+      "Faraday's Law of Induction",
+      "Inductance"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2023/2024",
+    "Question": {
+      "content": "If an electric field of 5.0 × 10⁴ N/C is applied through a rectangular plane 0.2 m wide and 0.8 m long. Calculate the electric flux though this area when the field is rotated perpendicular to the surface of the plane",
+      "type": "OBJ",
+      "options": [
+        "3.7 × 10⁴ Nm²/C",
+        "8 × 10³ Nm²/C",
+        "zero",
+        "4.8 × 10³Nm²/C"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "8 × 10³ Nm²/C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Electric flux\\(\\Phi = E\\cdot A\\cdot\\cos\\theta\\), where\\( E = 5.0\\times 10^4\\,\\text{N/C}\\),\\( A = 0.2\\times 0.8 = 0.16\\,\\text{m}^2\\), and\\(\\theta = 0^\\circ\\) (perpendicular). Thus,\\(\\Phi = 5.0\\times 10^4\\times 0.16 = 8\\times 10^3\\,\\text{Nm}^2/\\text{C}\\).</p>"
+    },
+    "topic": [
+      "Electric Fields",
+      "Electrostatics",
+      "Gauss's Law",
+      "Electric Flux"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2023/2024",
+    "Question": {
+      "content": "If a flat plate of area 7m² is rotated in a uniform electric field of magnitude 4.5 × 10⁵ N/C, with its surface perpendicular to the electric field, estimate the electric flux through the area of the plate",
+      "type": "subJective",
+      "options": []
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3.15 × 10⁶ Nm²/C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Electric flux\\(\\Phi = E\\cdot A\\cdot\\cos\\theta\\), where\\( E = 4.5\\times 10^5\\,\\text{N/C}\\),\\( A = 7\\,\\text{m}^2\\), and\\(\\theta = 0^\\circ\\) (since the surface is perpendicular to the field,\\(\\cos 0^\\circ = 1\\)). Thus,\\(\\Phi = 4.5\\times 10^5\\times 7 = 3.15\\times 10^6\\,\\text{Nm}^2/\\text{C}\\).</p>"
+    },
+    "topic": [
+      "Electric Flux",
+      "Electric Fields",
+      "Electrostatics",
+      "Gauss's Law"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2022/2023",
+    "Question": {
+      "content": "Calculate the electric flux on the surface of a rectangular plate with length 20cm and breadth 15cm placed in an electric field of 350N/C at an angle of 50degrees",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6.75 Nm²/C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Electric Flux Calculation</h3><p>Using the flux formula:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>Φ = EAcosθ = (350N/C)(0.03m²)(cos50°) ≈ 6.75 Nm²/C</strong></p></div>"
+    },
+    "topic": [
+      "Electric Flux",
+      "Electric Fields",
+      "Electrostatics",
+      "Gauss's Law",
+      "Electricity & Magnetism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2022/2023",
+    "Question": {
+      "content": "Calculate the electric flux through the surface of a plate of area 5m² placed in a uniform field whose magnitude is 7.4x10⁶ N/C",
+      "type": "subJective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3.7×10⁷ Nm²/C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Maximum Electric Flux</h3><p>Assuming perpendicular field:</p><p style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'><strong>Φ = EA = (7.4×10⁶N/C)(5m²) = 3.7×10⁷ Nm²/C</strong></p></div>"
+    },
+    "topic": [
+      "Electric Flux",
+      "Electric Fields",
+      "Gauss's Law",
+      "Electrostatics"
+    ]
+  }
+]
